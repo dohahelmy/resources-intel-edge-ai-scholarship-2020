@@ -32,6 +32,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 * Introduction to OpenVINO **Medium** https://towardsdatascience.com/introduction-to-openvino-897e705a1f0a
 ### Books/Papers
 ### Course/tutorials
+* Tutorial of Face Detection using OpenVino python https://github.com/BenedictusAryo/OpenVino_face-detection_python
 ### Links/URLs
 * OpenVINO toolkit https://software.intel.com/en-us/openvino-toolkit
 * Download OpenVINO toolkit https://software.intel.com/en-us/openvino-toolkit/choose-download
@@ -47,6 +48,8 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ### Books/Papers
 * A Python Book: Beginning Python, Advanced Python, and Python Exercises https://www.davekuhlman.org/python_book_01.pdf
 * Multiple materials https://drive.google.com/drive/folders/163vDpcslt5KvcYAkCjD_yFOoGNk-xRIv
+* Guide to NumPy http://web.mit.edu/dvp/Public/numpybook.pdf
+* NumPy User Guide https://numpy.org/doc/1.17/numpy-user-1.17.0.pdf
 ### Course/tutorials
 * PyTorch tutorials A to Z https://github.com/newhiwoong/PyTorch
 * Python Crash Course: Cheat sheets https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
@@ -118,6 +121,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ### Course/tutorials
 * OpenCV Tutorial: A Guide to Learn OpenCV https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
 * Introduction to Computer Vision **By Udacity** https://www.udacity.com/course/introduction-to-computer-vision--ud810
+* Geometric Transformations of Images https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_geometric_transformations/py_geometric_transformations.html
 ### Links/URLs
 ### Videos
 * How Computer Vision Works https://www.youtube.com/watch?v=OcycT1Jwsns
@@ -148,6 +152,8 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ### Links/URLs
 * Shell scripting https://explainshell.com/
 * Linux Commands Cheat Sheet https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/
+* Kaggle: your home for Data Science https://www.kaggle.com/
+* Learn R, Python & Data Science https://www.datacamp.com/
 ### Videos
 * NEURAL NETWORKS! - CS50 Live, EP. 53 (pre-release) **2+ hours** https://www.youtube.com/watch?v=hQhPogn1dpM
 
