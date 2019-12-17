@@ -38,6 +38,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ### Links/URLs
 * OpenVINO toolkit https://software.intel.com/en-us/openvino-toolkit
 * Download OpenVINO toolkit https://software.intel.com/en-us/openvino-toolkit/choose-download
+* Install Intel® Distribution of OpenVINO™ toolkit for Windows 10 http://docs.openvinotoolkit.org/latest/_docs_install_guides_installing_openvino_windows.html
 * Install Intel® Distribution of OpenVINO™ toolkit for Linux https://docs.openvinotoolkit.org/latest/_docs_install_guides_installing_openvino_linux.html
 * Intel Neural Compute Stick 2 https://software.intel.com/en-us/articles/get-started-with-neural-compute-stick
 * Pretrained Models https://software.intel.com/en-us/openvino-toolkit/documentation/pretrained-models
@@ -68,6 +69,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 * Python 3.4 Programming Tutorials **Playlist** https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
 * Python Tutorial for Beginners [Full Course] Learn Python for Web Development **6+ hours** https://www.youtube.com/watch?v=_uQrJ0TkZlc
 * 6.0001 Introduction to Computer Science and Programming in Python. Fall 2016 **Playlist** https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA
+* Python Tutorial 2019 **~2 hours** https://www.youtube.com/watch?v=H1elmMBnykA&feature=youtu.be
 
 ---
 ## C++
