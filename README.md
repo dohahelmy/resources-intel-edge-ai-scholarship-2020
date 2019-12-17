@@ -10,6 +10,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 * ML - Machine Learning
 * DL - Deep Learning
 * CV - Computer Vision
+* NLP - Natural Language Processing
 * Others
 
 ---
@@ -38,6 +39,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ### Articles
 ### Books
 ### Course/tutorials
+* PyTorch tutorials A to Z https://github.com/newhiwoong/PyTorch
 ### Links/URLs
 ### Videos
 
@@ -93,6 +95,19 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 
 
 ---
+## NLP - Natural Language Processing
+
+### Articles
+### Books
+* Papers and Book to look at when starting NLP https://github.com/newhiwoong/NLP-Papers
+
+### Course/tutorials
+### Links/URLs
+### Videos
+
+
+
+---
 ## Others
 
 ### Articles
@@ -100,4 +115,3 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ### Course/tutorials
 ### Links/URLs
 ### Videos
-
