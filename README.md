@@ -34,10 +34,13 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ### Course/tutorials
 * Tutorial of Face Detection using OpenVino python https://github.com/BenedictusAryo/OpenVino_face-detection_python
 * Introduction to Intel® Distribution of OpenVINO™ toolkit for Computer Vision Applications **Coursera** https://www.coursera.org/learn/intel-openvino
+* OpenVINO, OpenCV, and Movidius NCS on the Raspberry Pi https://www.pyimagesearch.com/2019/04/08/openvino-opencv-and-movidius-ncs-on-the-raspberry-pi/
 ### Links/URLs
 * OpenVINO toolkit https://software.intel.com/en-us/openvino-toolkit
 * Download OpenVINO toolkit https://software.intel.com/en-us/openvino-toolkit/choose-download
+* Install Intel® Distribution of OpenVINO™ toolkit for Linux https://docs.openvinotoolkit.org/latest/_docs_install_guides_installing_openvino_linux.html
 * Intel Neural Compute Stick 2 https://software.intel.com/en-us/articles/get-started-with-neural-compute-stick
+* Pretrained Models https://software.intel.com/en-us/openvino-toolkit/documentation/pretrained-models
 ### Videos
 * OpenVINO™ toolkit -- English **Playlist** https://www.youtube.com/playlist?list=PLDKCjIU5YH6jMzcTV5_cxX9aPHsborbXQ
 
@@ -82,6 +85,8 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 
 ### Articles
 * What is Edge AI and why it should be in your technology roadmap for 2019? https://wire19.com/what-is-edge-ai/
+* 10 Huge Benefits of Edge AI and the Software Tools to Deliver Them https://software.intel.com/en-us/articles/10-huge-benefits-of-edge-ai-and-the-software-tools-to-deliver-them
+* A 9 minute Intro to Edge Computing https://snips.ai/content/intro-to-edge-computing
 ### Books/Papers
 ### Course/tutorials
 * Introduction to AI for non-experts https://www.elementsofai.com/
@@ -167,6 +172,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 * Learn R, Python & Data Science https://www.datacamp.com/
 ### Videos
 * NEURAL NETWORKS! - CS50 Live, EP. 53 (pre-release) **2+ hours** https://www.youtube.com/watch?v=hQhPogn1dpM
+* Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017) https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 
 
 ---
