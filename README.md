@@ -160,5 +160,9 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 
 ---
 ## INFOGRAPHICS
+
 * AI Engineer learning path
 ![AI Engineer learning path](/img/AI-LearningPath.jpg)
+
+* Type hierarchy on Numpy
+![Type hierarchy on Numpy](/img/type_hierarchy_on_numpy.png)
