@@ -18,6 +18,8 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 
 ### Articles
 ### Books/Papers
+* Mathematics for machine learning https://mml-book.github.io/book/mml-book.pdf
+
 ### Course/tutorials
 ### Links/URLs
 ### Videos
@@ -27,9 +29,11 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ## OpenVINO
 
 ### Articles
+* Introduction to OpenVINO **Medium** https://towardsdatascience.com/introduction-to-openvino-897e705a1f0a
 ### Books/Papers
 ### Course/tutorials
 ### Links/URLs
+* OpenVINO toolkit https://software.intel.com/en-us/openvino-toolkit
 * Download OpenVINO toolkit https://software.intel.com/en-us/openvino-toolkit/choose-download
 * Intel Neural Compute Stick 2 https://software.intel.com/en-us/articles/get-started-with-neural-compute-stick
 ### Videos
@@ -76,7 +80,8 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 * Introduction to AI for non-experts https://www.elementsofai.com/
 ### Links/URLs
 ### Videos
-
+* What is Artificial Intelligence? In 5 minutes https://www.youtube.com/watch?v=2ePf9rue1Ao
+* Artificial intelligence & algorithms: pros & cons | DW Documentary (AI documentary) https://www.youtube.com/watch?v=s0dMTAQM4cw
 
 ---
 ## ML - Machine Learning
@@ -84,10 +89,11 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ### Articles
 ### Books/Papers
 * Papers with code https://paperswithcode.com/
-* Mathematics for machine learning https://mml-book.github.io/book/mml-book.pdf
+
 ### Course/tutorials
 ### Links/URLs
 ### Videos
+* Machine Learning - CS50 Podcast, Ep. 6 https://www.youtube.com/watch?v=mEdIQbOL8dY
 
 
 ---
@@ -100,6 +106,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 * Tutorials, assignments, and competitions for MIT Deep Learning related courses https://github.com/lexfridman/mit-deep-learning
 ### Links/URLs
 ### Videos
+
 
 
 ---
@@ -135,9 +142,17 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 
 ### Articles
 * 37 Important Linux Commands You Should Know https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/
+* SSD object detection: Single Shot MultiBox Detector for real-time processing **Medium** https://medium.com/@jonathan_hui/ssd-object-detection-single-shot-multibox-detector-for-real-time-processing-9bd8deac0e06
 ### Books/Papers
 ### Course/tutorials
 ### Links/URLs
 * Shell scripting https://explainshell.com/
 * Linux Commands Cheat Sheet https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/
 ### Videos
+* NEURAL NETWORKS! - CS50 Live, EP. 53 (pre-release) **2+ hours** https://www.youtube.com/watch?v=hQhPogn1dpM
+
+
+---
+## INFOGRAPHICS
+* AI Engineer learning path
+![AI Engineer learning path](/imag/AI-LearningPath.jpg)
