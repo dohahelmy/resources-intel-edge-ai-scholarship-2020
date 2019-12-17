@@ -155,4 +155,4 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ---
 ## INFOGRAPHICS
 * AI Engineer learning path
-![AI Engineer learning path](/imag/AI-LearningPath.jpg)
+![AI Engineer learning path](/img/AI-LearningPath.jpg)
