@@ -88,6 +88,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ## CV - Computer Vision
 
 ### Articles
+* Why does OpenCV use BGR color format ? https://www.learnopencv.com/why-does-opencv-use-bgr-color-format/
 ### Books
 ### Course/tutorials
 ### Links/URLs
@@ -114,4 +115,6 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ### Books
 ### Course/tutorials
 ### Links/URLs
+* Shell scripting https://explainshell.com/
+* Linux Commands Cheat Sheet https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/
 ### Videos
