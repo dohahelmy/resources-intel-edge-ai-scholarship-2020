@@ -33,6 +33,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ### Books/Papers
 ### Course/tutorials
 * Tutorial of Face Detection using OpenVino python https://github.com/BenedictusAryo/OpenVino_face-detection_python
+* Introduction to Intel® Distribution of OpenVINO™ toolkit for Computer Vision Applications **Coursera** https://www.coursera.org/learn/intel-openvino
 ### Links/URLs
 * OpenVINO toolkit https://software.intel.com/en-us/openvino-toolkit
 * Download OpenVINO toolkit https://software.intel.com/en-us/openvino-toolkit/choose-download
@@ -45,6 +46,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ## Python
 
 ### Articles
+* Advance your Python skills by Building a Whatsapp Chat Analyser: a Guided Project https://www.buildtolearn.club/post/whatsapp-chat-analyser-a-guided-project
 ### Books/Papers
 * A Python Book: Beginning Python, Advanced Python, and Python Exercises https://www.davekuhlman.org/python_book_01.pdf
 * Multiple materials https://drive.google.com/drive/folders/163vDpcslt5KvcYAkCjD_yFOoGNk-xRIv
@@ -61,7 +63,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ### Videos
 * Python 3.4 Programming Tutorials **Playlist** https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
 * Python Tutorial for Beginners [Full Course] Learn Python for Web Development **6+ hours** https://www.youtube.com/watch?v=_uQrJ0TkZlc
-
+* 6.0001 Introduction to Computer Science and Programming in Python. Fall 2016 **Playlist** https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA
 
 ---
 ## C++
@@ -118,6 +120,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ### Articles
 * Why does OpenCV use BGR color format ? https://www.learnopencv.com/why-does-opencv-use-bgr-color-format/
 ### Books/Papers
+* Computer Vision Foundations and Applications  http://vision.stanford.edu/teaching/cs131_fall1718/files/cs131-class-notes.pdf
 ### Course/tutorials
 * OpenCV Tutorial: A Guide to Learn OpenCV https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
 * Introduction to Computer Vision **By Udacity** https://www.udacity.com/course/introduction-to-computer-vision--ud810
@@ -147,6 +150,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ### Articles
 * 37 Important Linux Commands You Should Know https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/
 * SSD object detection: Single Shot MultiBox Detector for real-time processing **Medium** https://medium.com/@jonathan_hui/ssd-object-detection-single-shot-multibox-detector-for-real-time-processing-9bd8deac0e06
+* Image Classification vs. Object Detection vs. Image Segmentation **Medium** https://medium.com/analytics-vidhya/image-classification-vs-object-detection-vs-image-segmentation-f36db85fe81
 ### Books/Papers
 ### Course/tutorials
 ### Links/URLs
