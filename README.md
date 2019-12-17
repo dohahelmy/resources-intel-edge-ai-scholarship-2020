@@ -30,6 +30,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ### Books
 ### Course/tutorials
 ### Links/URLs
+* Download OpenVINO toolkit https://software.intel.com/en-us/openvino-toolkit/choose-download
 ### Videos
 
 
@@ -38,8 +39,10 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 
 ### Articles
 ### Books
+* A Python Book: Beginning Python, Advanced Python, and Python Exercises https://www.davekuhlman.org/python_book_01.pdf
 ### Course/tutorials
 * PyTorch tutorials A to Z https://github.com/newhiwoong/PyTorch
+* Python Crash Course: Cheat sheets https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
 ### Links/URLs
 ### Videos
 
@@ -69,6 +72,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 
 ### Articles
 ### Books
+* Mathematics for machine learning https://mml-book.github.io/book/mml-book.pdf
 ### Course/tutorials
 ### Links/URLs
 ### Videos
@@ -91,6 +95,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 * Why does OpenCV use BGR color format ? https://www.learnopencv.com/why-does-opencv-use-bgr-color-format/
 ### Books
 ### Course/tutorials
+* OpenCV Tutorial: A Guide to Learn OpenCV https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
 ### Links/URLs
 ### Videos
 
