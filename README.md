@@ -45,6 +45,8 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ### Course/tutorials
 * PyTorch tutorials A to Z https://github.com/newhiwoong/PyTorch
 * Python Crash Course: Cheat sheets https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
+* Introduction to Python Programming **By Udacity** https://www.udacity.com/course/introduction-to-python--ud1110
+* Introduction to programming and computer science using Python 3 http://composingprograms.com/
 ### Links/URLs
 
 ### Videos
@@ -57,6 +59,7 @@ Python 3.4 Programming Tutorials **Playlist** https://www.youtube.com/playlist?l
 ### Articles
 ### Books
 ### Course/tutorials
+* C++ For Programmers **By Udacity** https://www.udacity.com/course/c-for-programmers--ud210
 ### Links/URLs
 ### Videos
 
@@ -86,6 +89,7 @@ Python 3.4 Programming Tutorials **Playlist** https://www.youtube.com/playlist?l
 ## DL - Deep Learning
 
 ### Articles
+* Getting started with reading Deep Learning Research papers: The Why and the How **Medium** https://towardsdatascience.com/getting-started-with-reading-deep-learning-research-papers-the-why-and-the-how-dfd1ac15dbc0
 ### Books
 ### Course/tutorials
 ### Links/URLs
@@ -100,6 +104,7 @@ Python 3.4 Programming Tutorials **Playlist** https://www.youtube.com/playlist?l
 ### Books
 ### Course/tutorials
 * OpenCV Tutorial: A Guide to Learn OpenCV https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
+* Introduction to Computer Vision **By Udacity** https://www.udacity.com/course/introduction-to-computer-vision--ud810
 ### Links/URLs
 ### Videos
 
@@ -121,6 +126,7 @@ Python 3.4 Programming Tutorials **Playlist** https://www.youtube.com/playlist?l
 ## Others
 
 ### Articles
+* 37 Important Linux Commands You Should Know https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/
 ### Books
 ### Course/tutorials
 ### Links/URLs
