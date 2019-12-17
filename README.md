@@ -17,7 +17,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ## Math
 
 ### Articles
-### Books
+### Books/Papers
 ### Course/tutorials
 ### Links/URLs
 ### Videos
@@ -27,7 +27,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ## OpenVINO
 
 ### Articles
-### Books
+### Books/Papers
 ### Course/tutorials
 ### Links/URLs
 * Download OpenVINO toolkit https://software.intel.com/en-us/openvino-toolkit/choose-download
@@ -39,7 +39,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ## Python
 
 ### Articles
-### Books
+### Books/Papers
 * A Python Book: Beginning Python, Advanced Python, and Python Exercises https://www.davekuhlman.org/python_book_01.pdf
 * Multiple materials https://drive.google.com/drive/folders/163vDpcslt5KvcYAkCjD_yFOoGNk-xRIv
 ### Course/tutorials
@@ -47,6 +47,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 * Python Crash Course: Cheat sheets https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
 * Introduction to Python Programming **By Udacity** https://www.udacity.com/course/introduction-to-python--ud1110
 * Introduction to programming and computer science using Python 3 http://composingprograms.com/
+* Python Tutorial **By w3schools** https://www.w3schools.com/python/
 ### Links/URLs
 
 ### Videos
@@ -57,7 +58,7 @@ Python 3.4 Programming Tutorials **Playlist** https://www.youtube.com/playlist?l
 ## C++
 
 ### Articles
-### Books
+### Books/Papers
 ### Course/tutorials
 * C++ For Programmers **By Udacity** https://www.udacity.com/course/c-for-programmers--ud210
 ### Links/URLs
@@ -68,7 +69,7 @@ Python 3.4 Programming Tutorials **Playlist** https://www.youtube.com/playlist?l
 ## AI - Artificial Intelligence
 
 ### Articles
-### Books
+### Books/Papers
 ### Course/tutorials
 ### Links/URLs
 ### Videos
@@ -78,7 +79,8 @@ Python 3.4 Programming Tutorials **Playlist** https://www.youtube.com/playlist?l
 ## ML - Machine Learning
 
 ### Articles
-### Books
+### Books/Papers
+* Papers with code https://paperswithcode.com/
 * Mathematics for machine learning https://mml-book.github.io/book/mml-book.pdf
 ### Course/tutorials
 ### Links/URLs
@@ -90,7 +92,7 @@ Python 3.4 Programming Tutorials **Playlist** https://www.youtube.com/playlist?l
 
 ### Articles
 * Getting started with reading Deep Learning Research papers: The Why and the How **Medium** https://towardsdatascience.com/getting-started-with-reading-deep-learning-research-papers-the-why-and-the-how-dfd1ac15dbc0
-### Books
+### Books/Papers
 ### Course/tutorials
 ### Links/URLs
 ### Videos
@@ -101,7 +103,7 @@ Python 3.4 Programming Tutorials **Playlist** https://www.youtube.com/playlist?l
 
 ### Articles
 * Why does OpenCV use BGR color format ? https://www.learnopencv.com/why-does-opencv-use-bgr-color-format/
-### Books
+### Books/Papers
 ### Course/tutorials
 * OpenCV Tutorial: A Guide to Learn OpenCV https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
 * Introduction to Computer Vision **By Udacity** https://www.udacity.com/course/introduction-to-computer-vision--ud810
@@ -113,7 +115,7 @@ Python 3.4 Programming Tutorials **Playlist** https://www.youtube.com/playlist?l
 ## NLP - Natural Language Processing
 
 ### Articles
-### Books
+### Books/Papers
 * Papers and Book to look at when starting NLP https://github.com/newhiwoong/NLP-Papers
 
 ### Course/tutorials
@@ -127,7 +129,7 @@ Python 3.4 Programming Tutorials **Playlist** https://www.youtube.com/playlist?l
 
 ### Articles
 * 37 Important Linux Commands You Should Know https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/
-### Books
+### Books/Papers
 ### Course/tutorials
 ### Links/URLs
 * Shell scripting https://explainshell.com/
