@@ -32,6 +32,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ### Links/URLs
 * Download OpenVINO toolkit https://software.intel.com/en-us/openvino-toolkit/choose-download
 ### Videos
+* OpenVINO™ toolkit -- English **Playlist** https://www.youtube.com/playlist?list=PLDKCjIU5YH6jMzcTV5_cxX9aPHsborbXQ
 
 
 ---
@@ -40,10 +41,12 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ### Articles
 ### Books
 * A Python Book: Beginning Python, Advanced Python, and Python Exercises https://www.davekuhlman.org/python_book_01.pdf
+* Multiple materials https://drive.google.com/drive/folders/163vDpcslt5KvcYAkCjD_yFOoGNk-xRIv
 ### Course/tutorials
 * PyTorch tutorials A to Z https://github.com/newhiwoong/PyTorch
 * Python Crash Course: Cheat sheets https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
 ### Links/URLs
+
 ### Videos
 
 
