@@ -52,6 +52,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 * Multiple materials https://drive.google.com/drive/folders/163vDpcslt5KvcYAkCjD_yFOoGNk-xRIv
 * Guide to NumPy http://web.mit.edu/dvp/Public/numpybook.pdf
 * NumPy User Guide https://numpy.org/doc/1.17/numpy-user-1.17.0.pdf
+* Python Crash Course: A Hands-On, Project-Based Introduction to Programming **Goodreads** https://www.goodreads.com/book/show/23241059-python-crash-course
 ### Course/tutorials
 * PyTorch tutorials A to Z https://github.com/newhiwoong/PyTorch
 * Python Crash Course: Cheat sheets https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
@@ -80,6 +81,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ## AI - Artificial Intelligence
 
 ### Articles
+* What is Edge AI and why it should be in your technology roadmap for 2019? https://wire19.com/what-is-edge-ai/
 ### Books/Papers
 ### Course/tutorials
 * Introduction to AI for non-experts https://www.elementsofai.com/
@@ -107,6 +109,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ### Articles
 * Getting started with reading Deep Learning Research papers: The Why and the How **Medium** https://towardsdatascience.com/getting-started-with-reading-deep-learning-research-papers-the-why-and-the-how-dfd1ac15dbc0
 ### Books/Papers
+* Paper notes in deep learning/machine learning and computer vision https://github.com/Hsuxu/Paper-Notes
 ### Course/tutorials
 * Tutorials, assignments, and competitions for MIT Deep Learning related courses https://github.com/lexfridman/mit-deep-learning
 ### Links/URLs
@@ -152,7 +155,11 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 * SSD object detection: Single Shot MultiBox Detector for real-time processing **Medium** https://medium.com/@jonathan_hui/ssd-object-detection-single-shot-multibox-detector-for-real-time-processing-9bd8deac0e06
 * Image Classification vs. Object Detection vs. Image Segmentation **Medium** https://medium.com/analytics-vidhya/image-classification-vs-object-detection-vs-image-segmentation-f36db85fe81
 ### Books/Papers
+* Concepts, Techniques, and Models of Computer Programming **Goodreads** https://www.goodreads.com/book/show/772585.Concepts_Techniques_and_Models_of_Computer_Programming
+
 ### Course/tutorials
+* CS231n: Convolutional Neural Networks for Visual Recognition http://cs231n.stanford.edu/
+* Programming Languages Guides and Notes (Python - Pandas - NumPy - Octave/Matlab - C++) https://www.ritchieng.com/programming-languages/
 ### Links/URLs
 * Shell scripting https://explainshell.com/
 * Linux Commands Cheat Sheet https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/
