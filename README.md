@@ -31,6 +31,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ### Course/tutorials
 ### Links/URLs
 * Download OpenVINO toolkit https://software.intel.com/en-us/openvino-toolkit/choose-download
+* Intel Neural Compute Stick 2 https://software.intel.com/en-us/articles/get-started-with-neural-compute-stick
 ### Videos
 * OpenVINO™ toolkit -- English **Playlist** https://www.youtube.com/playlist?list=PLDKCjIU5YH6jMzcTV5_cxX9aPHsborbXQ
 
@@ -49,9 +50,10 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 * Introduction to programming and computer science using Python 3 http://composingprograms.com/
 * Python Tutorial **By w3schools** https://www.w3schools.com/python/
 ### Links/URLs
-
+* Python: Module 1 | RaspberryPi projects https://projects.raspberrypi.org/en/codeclub/python-module-1
 ### Videos
-Python 3.4 Programming Tutorials **Playlist** https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
+* Python 3.4 Programming Tutorials **Playlist** https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
+* Python Tutorial for Beginners [Full Course] Learn Python for Web Development **6+ hours** https://www.youtube.com/watch?v=_uQrJ0TkZlc
 
 
 ---
@@ -71,6 +73,7 @@ Python 3.4 Programming Tutorials **Playlist** https://www.youtube.com/playlist?l
 ### Articles
 ### Books/Papers
 ### Course/tutorials
+* Introduction to AI for non-experts https://www.elementsofai.com/
 ### Links/URLs
 ### Videos
 
@@ -94,6 +97,7 @@ Python 3.4 Programming Tutorials **Playlist** https://www.youtube.com/playlist?l
 * Getting started with reading Deep Learning Research papers: The Why and the How **Medium** https://towardsdatascience.com/getting-started-with-reading-deep-learning-research-papers-the-why-and-the-how-dfd1ac15dbc0
 ### Books/Papers
 ### Course/tutorials
+* Tutorials, assignments, and competitions for MIT Deep Learning related courses https://github.com/lexfridman/mit-deep-learning
 ### Links/URLs
 ### Videos
 
@@ -109,6 +113,8 @@ Python 3.4 Programming Tutorials **Playlist** https://www.youtube.com/playlist?l
 * Introduction to Computer Vision **By Udacity** https://www.udacity.com/course/introduction-to-computer-vision--ud810
 ### Links/URLs
 ### Videos
+* How Computer Vision Works https://www.youtube.com/watch?v=OcycT1Jwsns
+* Jetson Nano: Vision Recognition Neural Network Demo https://www.youtube.com/watch?v=k5pXXmTkPNM
 
 
 ---
