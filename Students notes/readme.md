@@ -10,6 +10,7 @@ https://github.com/nullbyte91/Intel-edge-AI-foundation-udacity/tree/master/notes
 
 ### Shared by @JamesDBartlett3
 *  OpenVINO documentation bug fix https://www.youtube.com/watch?v=yEF2DQLC5TA&feature=youtu.be
+
 The following one-line command will automatically download and extract the documentation into a folder called OpenVINO_Docs:
 `curl -s https://gist.githubusercontent.com/JamesDBartlett/44afa418806297bc496466c59442e07e/raw/d99a10522cc4d88931b20164c84a0d8f3f8d16bd/dl_openvino_docs.sh | bash /dev/stdin`
 
