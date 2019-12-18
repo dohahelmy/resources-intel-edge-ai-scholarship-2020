@@ -23,8 +23,10 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ### Course/tutorials
 ### Links/URLs
 ### Videos
-
-
+* 3Blue1Brown Series-
+  - Essence of Linear Algebra **15Episodes** https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+  - Essence of calculus **12Episodes** https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+  - Essence of Differential Equation **5Episodes** https://www.youtube.com/watch?v=p_di4Zn4wz4&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6
 ---
 ## OpenVINO
 
