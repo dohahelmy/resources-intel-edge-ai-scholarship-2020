@@ -19,6 +19,10 @@ the following are resources aims to help students to try challenges and get job 
 * Deepfake Detection Challenge https://www.kaggle.com/c/deepfake-detection-challenge
 * Take our skill-based assessment and get a job in AI https://workera.ai/candidates/
 
+---
+
+##PROJECTS
+* Open Source Projects by Google, Uber and Facebook for Data Science and AI https://www.kdnuggets.com/2019/11/open-source-projects-google-uber-facebook-data-science-ai.html
 
 ---
 ## Math
@@ -47,6 +51,7 @@ the following are resources aims to help students to try challenges and get job 
 * Introduction to Intel® Distribution of OpenVINO™ toolkit for Computer Vision Applications **Coursera** https://www.coursera.org/learn/intel-openvino
 * OpenVINO, OpenCV, and Movidius NCS on the Raspberry Pi https://www.pyimagesearch.com/2019/04/08/openvino-opencv-and-movidius-ncs-on-the-raspberry-pi/
 * Go to Market with the Intel® Distribution of OpenVINO™ Toolkit https://software.intel.com/en-us/iot/training/openvino-toolkit
+* vehicle-license-plate-detection-barrier-0106 https://docs.openvinotoolkit.org/latest/_models_intel_vehicle_license_plate_detection_barrier_0106_description_vehicle_license_plate_detection_barrier_0106.html
 ### Links/URLs
 * OpenVINO toolkit https://software.intel.com/en-us/openvino-toolkit
 * Download OpenVINO toolkit https://software.intel.com/en-us/openvino-toolkit/choose-download
@@ -55,9 +60,11 @@ the following are resources aims to help students to try challenges and get job 
 * Intel Neural Compute Stick 2 https://software.intel.com/en-us/articles/get-started-with-neural-compute-stick
 * Getting Started with the Intel Neural Compute Stick 2 and the Raspberry Pi https://www.hackster.io/news/getting-started-with-the-intel-neural-compute-stick-2-and-the-raspberry-pi-6904ccfe963
 * Pretrained Models https://software.intel.com/en-us/openvino-toolkit/documentation/pretrained-models
+* Gesture-Drone with Tello **Project** https://github.com/PINTO0309/gesture-drone
 ### Videos
 * OpenVINO™ toolkit -- English **Playlist** https://www.youtube.com/playlist?list=PLDKCjIU5YH6jMzcTV5_cxX9aPHsborbXQ
-
+* Gesture-Drone with Tello **Project**
+    - OpenVINO face detection with Tello https://www.youtube.com/watch?v=I6-YKfPHo_g
 
 ---
 ## Python
@@ -72,6 +79,7 @@ the following are resources aims to help students to try challenges and get job 
 * Guide to NumPy http://web.mit.edu/dvp/Public/numpybook.pdf
 * NumPy User Guide https://numpy.org/doc/1.17/numpy-user-1.17.0.pdf
 * Python Crash Course: A Hands-On, Project-Based Introduction to Programming **Goodreads** https://www.goodreads.com/book/show/23241059-python-crash-course
+* Python® Notes for Professionals book https://books.goalkicker.com/PythonBook/
 ### Course/tutorials
 * PyTorch tutorials A to Z https://github.com/newhiwoong/PyTorch
 * Python Crash Course: Cheat sheets https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
@@ -131,9 +139,12 @@ the following are resources aims to help students to try challenges and get job 
 * Machine Learning Mastery https://machinelearningmastery.com/blog/
 ### Course/tutorials
 * Machine Learning Crash Course **Google Developers** https://developers.google.com/machine-learning/crash-course
+* Open Machine Learning Course mlcourse.ai https://mlcourse.ai/
 ### Links/URLs
+* Machine Learning From Scratch https://github.com/eriklindernoren/ML-From-Scratch
 ### Videos
 * Machine Learning - CS50 Podcast, Ep. 6 https://www.youtube.com/watch?v=mEdIQbOL8dY
+* Machine Learning **Playlist** https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA
 
 
 ---
@@ -141,12 +152,18 @@ the following are resources aims to help students to try challenges and get job 
 
 ### Articles
 * Getting started with reading Deep Learning Research papers: The Why and the How **Medium** https://towardsdatascience.com/getting-started-with-reading-deep-learning-research-papers-the-why-and-the-how-dfd1ac15dbc0
+* Interpreting Deep Learning Models for Computer Vision **Medium** https://medium.com/google-developer-experts/interpreting-deep-learning-models-for-computer-vision-f95683e23c1d
+* Estimating Body Mass Index from Face Images Using Keras and Transfer Learning **Medium** https://medium.com/@leosimmons/estimating-body-mass-index-from-face-images-using-keras-and-transfer-learning-de25e1bc0212
 ### Books/Papers
 * Paper notes in deep learning/machine learning and computer vision https://github.com/Hsuxu/Paper-Notes
 * Deep Learning Tutorial [Deep Learning Tutorial](books/Deep Learning Tutorial.pdf)
 ### Course/tutorials
 * Tutorials, assignments, and competitions for MIT Deep Learning related courses https://github.com/lexfridman/mit-deep-learning
 * From the Data Center to the Edge –An Optimized Path using Intel® Architecture Course https://software.seek.intel.com/DataCenter_to_Edge_REG
+* Making neural nets uncool again https://www.fast.ai/
+* Intro to Deep Learning with PyTorch https://www.udacity.com/course/deep-learning-pytorch--ud188
+* Intro to TensorFlow for Deep Learning https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
+* Introduction to TensorFlow Lite https://www.udacity.com/course/intro-to-tensorflow-lite--ud190
 ### Links/URLs
 ### Videos
 * But what is a Neural Network? | Deep learning, chapter 1 https://www.youtube.com/watch?v=aircAruvnKk&t=2s
@@ -171,6 +188,7 @@ the following are resources aims to help students to try challenges and get job 
 * Course: Computer Vision | Intel® AI Developer Program https://software.intel.com/en-us/ai/courses/computer-vision
 * Start Here with Computer Vision, Deep Learning, and OpenCV https://www.pyimagesearch.com/start-here/
 * Face Detection with OpenCV https://www.kaggle.com/serkanpeldek/face-detection-with-opencv
+* Computer Vision Tutorial: A Step-by-Step Introduction to Image Segmentation Techniques (Part 1) https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/
 ### Links/URLs
 * Open Source Computer Vision https://docs.opencv.org/4.1.2/
 * Install OpenCV-Python in Ubuntu https://docs.opencv.org/4.1.2/d2/de6/tutorial_py_setup_in_ubuntu.html
@@ -210,12 +228,14 @@ the following are resources aims to help students to try challenges and get job 
 ### Course/tutorials
 * CS231n: Convolutional Neural Networks for Visual Recognition http://cs231n.stanford.edu/
 * Programming Languages Guides and Notes (Python - Pandas - NumPy - Octave/Matlab - C++) https://www.ritchieng.com/programming-languages/
+* Training a custom dlib shape predictor https://www.pyimagesearch.com/2019/12/16/training-a-custom-dlib-shape-predictor/
+* A Tutorial on Data Representation https://www3.ntu.edu.sg/home/ehchua/programming/java/datarepresentation.html
 ### Links/URLs
 * Shell scripting https://explainshell.com/
 * Linux Commands Cheat Sheet https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/
 * Kaggle: your home for Data Science https://www.kaggle.com/
 * Learn R, Python & Data Science https://www.datacamp.com/
-
+* Beyond Accuracy: Precision and Recall **Medium** https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c
 ### Videos
 * NEURAL NETWORKS! - CS50 Live, EP. 53 (pre-release) **2+ hours** https://www.youtube.com/watch?v=hQhPogn1dpM
 * Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017) https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
