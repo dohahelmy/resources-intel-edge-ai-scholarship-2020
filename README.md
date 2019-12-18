@@ -53,6 +53,8 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 
 ### Articles
 * Advance your Python skills by Building a Whatsapp Chat Analyser: a Guided Project https://www.buildtolearn.club/post/whatsapp-chat-analyser-a-guided-project
+* Tensorflow Lite Model Deployment! **Medium** https://medium.com/techwasti/tensorflow-lite-deployment-523eec79c017
+* Tensorflow Lite Converter Example!! **Medium** https://medium.com/@maheshwar.ligade/tensorflow-lite-converter-dl-example-febe804b8673
 ### Books/Papers
 * A Python Book: Beginning Python, Advanced Python, and Python Exercises https://www.davekuhlman.org/python_book_01.pdf
 * Multiple materials https://drive.google.com/drive/folders/163vDpcslt5KvcYAkCjD_yFOoGNk-xRIv
@@ -91,6 +93,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 * What is Edge AI and why it should be in your technology roadmap for 2019? https://wire19.com/what-is-edge-ai/
 * 10 Huge Benefits of Edge AI and the Software Tools to Deliver Them https://software.intel.com/en-us/articles/10-huge-benefits-of-edge-ai-and-the-software-tools-to-deliver-them
 * A 9 minute Intro to Edge Computing https://snips.ai/content/intro-to-edge-computing
+* Artificial Intelligence (AI) Solutions on Edge Devices **Medium** https://medium.com/@mehulved1503/artificial-intelligence-ai-solutions-on-edge-devices-1cc08d411a7c
 ### Books/Papers
 ### Course/tutorials
 * Introduction to AI for non-experts https://www.elementsofai.com/
@@ -103,6 +106,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ## ML - Machine Learning
 
 ### Articles
+* Tensorflow Lite- machine learning at the edge!! **Medium** https://medium.com/techwasti/tensorflow-lite-machine-learning-at-the-edge-26e8421ae661
 ### Books/Papers
 * Papers with code https://paperswithcode.com/
 
@@ -121,6 +125,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 * Paper notes in deep learning/machine learning and computer vision https://github.com/Hsuxu/Paper-Notes
 ### Course/tutorials
 * Tutorials, assignments, and competitions for MIT Deep Learning related courses https://github.com/lexfridman/mit-deep-learning
+* From the Data Center to the Edge –An Optimized Path using Intel® Architecture Course https://software.seek.intel.com/DataCenter_to_Edge_REG
 ### Links/URLs
 ### Videos
 
@@ -131,12 +136,16 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 
 ### Articles
 * Why does OpenCV use BGR color format ? https://www.learnopencv.com/why-does-opencv-use-bgr-color-format/
+* Introduction to Computer Vision Part 1 **Medium** https://medium.com/@aminulkarim.ju.cse/introduction-to-computer-vision-part-1-684de49c890b
 ### Books/Papers
 * Computer Vision Foundations and Applications  http://vision.stanford.edu/teaching/cs131_fall1718/files/cs131-class-notes.pdf
+* OpenCV 4 Computer Vision Application Programming Cookbook – Fourth Edition https://www.wowebook.org/opencv-4-computer-vision-application-programming-cookbook-fourth-edition/
 ### Course/tutorials
 * OpenCV Tutorial: A Guide to Learn OpenCV https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
 * Introduction to Computer Vision **By Udacity** https://www.udacity.com/course/introduction-to-computer-vision--ud810
 * Geometric Transformations of Images https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_geometric_transformations/py_geometric_transformations.html
+* Course: Computer Vision | Intel® AI Developer Program https://software.intel.com/en-us/ai/courses/computer-vision
+* Start Here with Computer Vision, Deep Learning, and OpenCV https://www.pyimagesearch.com/start-here/
 ### Links/URLs
 ### Videos
 * How Computer Vision Works https://www.youtube.com/watch?v=OcycT1Jwsns
@@ -165,6 +174,8 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 * Image Classification vs. Object Detection vs. Image Segmentation **Medium** https://medium.com/analytics-vidhya/image-classification-vs-object-detection-vs-image-segmentation-f36db85fe81
 ### Books/Papers
 * Concepts, Techniques, and Models of Computer Programming **Goodreads** https://www.goodreads.com/book/show/772585.Concepts_Techniques_and_Models_of_Computer_Programming
+* Architecture for IoT applications. **Medium** https://medium.com/techwasti/architecture-for-iot-applications-d50ece031d38
+* You Need to Move from Cloud Computing to Edge Computing Now! **Medium** https://towardsdatascience.com/you-need-to-move-from-cloud-computing-to-edge-computing-now-e8759eb9690f
 
 ### Course/tutorials
 * CS231n: Convolutional Neural Networks for Visual Recognition http://cs231n.stanford.edu/
