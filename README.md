@@ -14,14 +14,14 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 * Others
 ---
 
-##OPPORTUNITIES
+## OPPORTUNITIES
 the following are resources aims to help students to try challenges and get job Opportunities
 * Deepfake Detection Challenge https://www.kaggle.com/c/deepfake-detection-challenge
 * Take our skill-based assessment and get a job in AI https://workera.ai/candidates/
 
 ---
 
-##PROJECTS
+## PROJECTS
 * Open Source Projects by Google, Uber and Facebook for Data Science and AI https://www.kdnuggets.com/2019/11/open-source-projects-google-uber-facebook-data-science-ai.html
 
 ---
