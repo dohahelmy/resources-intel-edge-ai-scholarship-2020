@@ -14,6 +14,8 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 * Others
 ---
 
+
+
 ## OPPORTUNITIES
 the following are resources aims to help students to try challenges and get job Opportunities
 * Deepfake Detection Challenge https://www.kaggle.com/c/deepfake-detection-challenge
@@ -23,6 +25,9 @@ the following are resources aims to help students to try challenges and get job 
 
 ## PROJECTS
 * Open Source Projects by Google, Uber and Facebook for Data Science and AI https://www.kdnuggets.com/2019/11/open-source-projects-google-uber-facebook-data-science-ai.html
+* GStreamer Video Analytics (GVA) Plugin https://github.com/opencv/gst-video-analytics
+* Intel® IoT Developer Kit https://github.com/intel-iot-devkit
+* People count program in python using the OpenVINO toolkit. https://github.com/Dhairya10/people-count-vino
 
 ---
 ## Math
@@ -30,7 +35,8 @@ the following are resources aims to help students to try challenges and get job 
 ### Articles
 ### Books/Papers
 * Mathematics for machine learning https://mml-book.github.io/book/mml-book.pdf
-
+* Probability Cheatsheet[Probability Cheatsheet](books/probability_cheatsheet.pdf)
+* Statistics Cheatsheet[Statistics Cheatsheet](books/Statistics_cheat_sheet.pdf)
 ### Course/tutorials
 ### Links/URLs
 ### Videos
@@ -86,8 +92,10 @@ the following are resources aims to help students to try challenges and get job 
 * Introduction to Python Programming **By Udacity** https://www.udacity.com/course/introduction-to-python--ud1110
 * Introduction to programming and computer science using Python 3 http://composingprograms.com/
 * Python Tutorial **By w3schools** https://www.w3schools.com/python/
+* Python for Data Science https://cognitiveclass.ai/courses/python-for-data-science
 ### Links/URLs
 * Python: Module 1 | RaspberryPi projects https://projects.raspberrypi.org/en/codeclub/python-module-1
+* NumPy Cheat Sheet — Python for Data Science https://www.dataquest.io/blog/numpy-cheat-sheet/
 ### Videos
 * Python 3.4 Programming Tutorials **Playlist** https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
 * Python Tutorial for Beginners [Full Course] Learn Python for Web Development **6+ hours** https://www.youtube.com/watch?v=_uQrJ0TkZlc
@@ -114,15 +122,22 @@ the following are resources aims to help students to try challenges and get job 
 * 10 Huge Benefits of Edge AI and the Software Tools to Deliver Them https://software.intel.com/en-us/articles/10-huge-benefits-of-edge-ai-and-the-software-tools-to-deliver-them
 * A 9 minute Intro to Edge Computing https://snips.ai/content/intro-to-edge-computing
 * Artificial Intelligence (AI) Solutions on Edge Devices **Medium** https://medium.com/@mehulved1503/artificial-intelligence-ai-solutions-on-edge-devices-1cc08d411a7c
+* What is Edge AI? https://www.imagimob.com/blog/what-is-edge-ai
 ### Books/Papers
 * Hands-On Artificial Intelligence for IoT https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-iot
 * AI Crash Course https://www.packtpub.com/data/ai-crash-course
 * Cheat Sheets for AI [Cheat Sheets for AI](books/BecomingHumanCheatSheets.pdf)
+* One ticket to win them all: generalizing lottery ticket [Paper](books/One_ticket_to_win_them_all.pdf)
+* PLAYING THE LOTTERY WITH REWARDS AND MULTIPLE LANGUAGES [Paper](books/PLAYING_THE_LOTTERY.pdf)
 ### Course/tutorials
 * Introduction to AI for non-experts https://www.elementsofai.com/
+* Multi Layer Neural Networks Python Implementation https://learnai1.home.blog/2019/12/18/multi-layer-neural-networks-python-implementation/
+* Finland is making its online AI crash course free to the world shorturl.at/suEFS
 ### Links/URLs
 * Processing AI at the Edge – Use-Cases and AI Hardware Considerations https://emerj.com/ai-podcast-interviews/processing-ai-edge/
 * Artificial Intelligence https://learnai1.home.blog/
+* How Edge Computing Technology Is Reshaping the IoT Landscape https://www.iotworldtoday.com/2019/12/13/how-edge-computing-technology-is-reshaping-the-iot-landscape/
+* Understanding the generalization of ‘lottery tickets’ in neural networks https://ai.facebook.com/blog/understanding-the-generalization-of-lottery-tickets-in-neural-networks/
 ### Videos
 * What is Artificial Intelligence? In 5 minutes https://www.youtube.com/watch?v=2ePf9rue1Ao
 * Artificial intelligence & algorithms: pros & cons | DW Documentary (AI documentary) https://www.youtube.com/watch?v=s0dMTAQM4cw
@@ -133,16 +148,24 @@ the following are resources aims to help students to try challenges and get job 
 ### Articles
 * Tensorflow Lite- machine learning at the edge!! **Medium** https://medium.com/techwasti/tensorflow-lite-machine-learning-at-the-edge-26e8421ae661
 * Train Neural Networks With Noise to Reduce Overfitting https://machinelearningmastery.com/train-neural-networks-with-noise-to-reduce-overfitting/
+* All you need to know about GPUs as a beginner in Machine Learning **Medium**  https://link.medium.com/JNiHfw5pt2
+* Improving Out-of-Distribution Detection in Machine Learning Models https://ai.googleblog.com/2019/12/improving-out-of-distribution-detection.html
+* From Machine Learning to Reinforcement Learning Mastery **Medium** https://medium.com/better-programming/from-machine-learning-to-reinforcement-learning-mastery-47f33d9f6b41
 ### Books/Papers
 * Papers with code https://paperswithcode.com/
 * Machine Learning for OpenCV 4 - Second Edition https://www.packtpub.com/data/machine-learning-for-opencv-4-second-edition
 * machine-learning-cheat-sheet [machine-learning-cheat-sheet](books/machine-learning-cheat-sheet.pdf)
 * Machine Learning Mastery https://machinelearningmastery.com/blog/
+* Likelihood Ratios for Out-of-Distribution Detection https://arxiv.org/abs/1906.02845
 ### Course/tutorials
 * Machine Learning Crash Course **Google Developers** https://developers.google.com/machine-learning/crash-course
 * Open Machine Learning Course mlcourse.ai https://mlcourse.ai/
+* Machine Learning with Python https://cognitiveclass.ai/courses/machine-learning-with-python
 ### Links/URLs
 * Machine Learning From Scratch https://github.com/eriklindernoren/ML-From-Scratch
+* Intuitive Machine Learning for Engineers https://modeldepot.io/
+* A practical approach to machine learning to enable everyone to learn, explore and build. https://github.com/practicalAI/practicalAI
+* Out-of-Distribution Detection for Genomics Sequences https://github.com/google-research/google-research/tree/master/genomics_ood
 ### Videos
 * Machine Learning - CS50 Podcast, Ep. 6 https://www.youtube.com/watch?v=mEdIQbOL8dY
 * Machine Learning **Playlist** https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA
@@ -165,6 +188,7 @@ the following are resources aims to help students to try challenges and get job 
 * Intro to Deep Learning with PyTorch https://www.udacity.com/course/deep-learning-pytorch--ud188
 * Intro to TensorFlow for Deep Learning https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
 * Introduction to TensorFlow Lite https://www.udacity.com/course/intro-to-tensorflow-lite--ud190
+* Deep Learning Fundamentals https://cognitiveclass.ai/courses/introduction-deep-learning
 ### Links/URLs
 ### Videos
 * But what is a Neural Network? | Deep learning, chapter 1 https://www.youtube.com/watch?v=aircAruvnKk&t=2s
@@ -190,12 +214,15 @@ the following are resources aims to help students to try challenges and get job 
 * Start Here with Computer Vision, Deep Learning, and OpenCV https://www.pyimagesearch.com/start-here/
 * Face Detection with OpenCV https://www.kaggle.com/serkanpeldek/face-detection-with-opencv
 * Computer Vision Tutorial: A Step-by-Step Introduction to Image Segmentation Techniques (Part 1) https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/
+* 13.7. Single Shot Multibox Detection (SSD) https://d2l.ai/chapter_computer-vision/ssd.html
 ### Links/URLs
 * Open Source Computer Vision https://docs.opencv.org/4.1.2/
 * Install OpenCV-Python in Ubuntu https://docs.opencv.org/4.1.2/d2/de6/tutorial_py_setup_in_ubuntu.html
+* YOLO: Real-Time Object Detection https://pjreddie.com/darknet/yolo/
 ### Videos
 * How Computer Vision Works https://www.youtube.com/watch?v=OcycT1Jwsns
 * Jetson Nano: Vision Recognition Neural Network Demo https://www.youtube.com/watch?v=k5pXXmTkPNM
+* OpenCV Python Tutorial For Beginners **Playlist** https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K
 
 
 ---
@@ -218,6 +245,7 @@ the following are resources aims to help students to try challenges and get job 
 * 37 Important Linux Commands You Should Know https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/
 * SSD object detection: Single Shot MultiBox Detector for real-time processing **Medium** https://medium.com/@jonathan_hui/ssd-object-detection-single-shot-multibox-detector-for-real-time-processing-9bd8deac0e06
 * Image Classification vs. Object Detection vs. Image Segmentation **Medium** https://medium.com/analytics-vidhya/image-classification-vs-object-detection-vs-image-segmentation-f36db85fe81
+* Memorizing is not learning! — 6 tricks to prevent overfitting in machine learning. https://hackernoon.com/memorizing-is-not-learning-6-tricks-to-prevent-overfitting-in-machine-learning-820b091dc42
 ### Books/Papers
 * Concepts, Techniques, and Models of Computer Programming **Goodreads** https://www.goodreads.com/book/show/772585.Concepts_Techniques_and_Models_of_Computer_Programming
 * Architecture for IoT applications. **Medium** https://medium.com/techwasti/architecture-for-iot-applications-d50ece031d38
@@ -237,6 +265,8 @@ the following are resources aims to help students to try challenges and get job 
 * Kaggle: your home for Data Science https://www.kaggle.com/
 * Learn R, Python & Data Science https://www.datacamp.com/
 * Beyond Accuracy: Precision and Recall **Medium** https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c
+* All Technology cheatsheet in one place https://www.linkedin.com/posts/kartik-sharma-733b3540_business-technology-datascience-activity-6609691165983903744-RtdE
+* Screen capture, file sharing and productivity tool https://getsharex.com/
 ### Videos
 * NEURAL NETWORKS! - CS50 Live, EP. 53 (pre-release) **2+ hours** https://www.youtube.com/watch?v=hQhPogn1dpM
 * Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017) https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
