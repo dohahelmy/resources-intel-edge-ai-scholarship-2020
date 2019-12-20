@@ -21,3 +21,7 @@ The following one-line command will automatically download and extract the docum
 * [Deep_learning_fundamentals_with_keras](pptx_mariamH/Deep_learning_fundamentals_with_keras.pptx)
 * [deep_learning_specialization](pptx_mariamH/deep_learning_specialization.pptx)
 * [deep_learning_with_tensorflow](pptx_mariamH/deep_learning_with_tensorflow.pptx)
+
+
+### Shared by @Deepanshu Arora
+* Introduction to AI at the Edge — A Beginner’s Perspective https://dev.to/deepansharora27/introduction-to-ai-at-the-edge-a-beginner-s-perspective-9ig
