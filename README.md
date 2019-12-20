@@ -21,6 +21,18 @@ the following are resources aims to help students to try challenges and get job 
 * Deepfake Detection Challenge https://www.kaggle.com/c/deepfake-detection-challenge
 * Take our skill-based assessment and get a job in AI https://workera.ai/candidates/
 
+Are you looking for a REFERENCE job in Data Science/Machine Learning/Deep Learning?
+* ML Fresher | Accentur India Private Limited - https://lnkd.in/f_ppiRS
+* DS | Capgemini - https://lnkd.in/f22kfTF
+* Fresher Python Developer | Accentur India Private Limited - https://lnkd.in/fvqC65w
+* ML Scientist | TalentStack/The Hiring Story - https://lnkd.in/fZEc7_S
+* ML Fresher | Innover Solutions, Inc - https://lnkd.in/fJNkA2H
+* DS,ML,ML,Python | LnT InfoTech - https://lnkd.in/fQQzsVH
+* AI/ML interns. | Software company - https://lnkd.in/fNSZySa
+* Experienced Data Engineer | Micron Technologies - https://lnkd.in/fCGSQZQ
+* ML Engineer | iSchoolConnect - https://lnkd.in/fCiZev5
+* Systems Engineering(python) Intern | Saama AI Research Lab - https://lnkd.in/f4SaEXQ
+
 ---
 
 ## PROJECTS
