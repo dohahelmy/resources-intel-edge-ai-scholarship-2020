@@ -21,7 +21,7 @@ the following are resources aims to help students to try challenges and get job 
 * Deepfake Detection Challenge https://www.kaggle.com/c/deepfake-detection-challenge
 * Take our skill-based assessment and get a job in AI https://workera.ai/candidates/
 
-Are you looking for a REFERENCE job in Data Science/Machine Learning/Deep Learning?
+**Are you looking for a REFERENCE job in Data Science/Machine Learning/Deep Learning?**
 * ML Fresher | Accentur India Private Limited - https://lnkd.in/f_ppiRS
 * DS | Capgemini - https://lnkd.in/f22kfTF
 * Fresher Python Developer | Accentur India Private Limited - https://lnkd.in/fvqC65w
