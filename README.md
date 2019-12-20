@@ -163,6 +163,7 @@ the following are resources aims to help students to try challenges and get job 
 * All you need to know about GPUs as a beginner in Machine Learning **Medium**  https://link.medium.com/JNiHfw5pt2
 * Improving Out-of-Distribution Detection in Machine Learning Models https://ai.googleblog.com/2019/12/improving-out-of-distribution-detection.html
 * From Machine Learning to Reinforcement Learning Mastery **Medium** https://medium.com/better-programming/from-machine-learning-to-reinforcement-learning-mastery-47f33d9f6b41
+* Results for Standard Classification and Regression Machine Learning Datasets https://machinelearningmastery.com/results-for-standard-classification-and-regression-machine-learning-datasets/
 ### Books/Papers
 * Papers with code https://paperswithcode.com/
 * Machine Learning for OpenCV 4 - Second Edition https://www.packtpub.com/data/machine-learning-for-opencv-4-second-edition
