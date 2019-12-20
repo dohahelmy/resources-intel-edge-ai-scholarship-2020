@@ -132,6 +132,7 @@ the following are resources aims to help students to try challenges and get job 
 
 ### Articles
 * Tensorflow Lite- machine learning at the edge!! **Medium** https://medium.com/techwasti/tensorflow-lite-machine-learning-at-the-edge-26e8421ae661
+* Train Neural Networks With Noise to Reduce Overfitting https://machinelearningmastery.com/train-neural-networks-with-noise-to-reduce-overfitting/
 ### Books/Papers
 * Papers with code https://paperswithcode.com/
 * Machine Learning for OpenCV 4 - Second Edition https://www.packtpub.com/data/machine-learning-for-opencv-4-second-edition
