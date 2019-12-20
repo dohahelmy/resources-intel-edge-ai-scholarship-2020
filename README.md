@@ -64,6 +64,7 @@ the following are resources aims to help students to try challenges and get job 
 ### Articles
 * Introduction to OpenVINO **Medium** https://towardsdatascience.com/introduction-to-openvino-897e705a1f0a
 ### Books/Papers
+* OpenVINO™ toolkit Documentation http://docs.openvinotoolkit.org/latest/
 ### Course/tutorials
 * Tutorial of Face Detection using OpenVino python https://github.com/BenedictusAryo/OpenVino_face-detection_python
 * Introduction to Intel® Distribution of OpenVINO™ toolkit for Computer Vision Applications **Coursera** https://www.coursera.org/learn/intel-openvino
@@ -108,6 +109,9 @@ the following are resources aims to help students to try challenges and get job 
 ### Links/URLs
 * Python: Module 1 | RaspberryPi projects https://projects.raspberrypi.org/en/codeclub/python-module-1
 * NumPy Cheat Sheet — Python for Data Science https://www.dataquest.io/blog/numpy-cheat-sheet/
+* Strings Formats in Python For Interview Preparation **Medium** https://link.medium.com/pOiqpYN3t2
+* LIST OF IMPORTANT SQL QUERIES FOR INTERVIEW **Medium** https://link.medium.com/sjbOOBP3t2
+
 ### Videos
 * Python 3.4 Programming Tutorials **Playlist** https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
 * Python Tutorial for Beginners [Full Course] Learn Python for Web Development **6+ hours** https://www.youtube.com/watch?v=_uQrJ0TkZlc
@@ -179,6 +183,9 @@ the following are resources aims to help students to try challenges and get job 
 * Intuitive Machine Learning for Engineers https://modeldepot.io/
 * A practical approach to machine learning to enable everyone to learn, explore and build. https://github.com/practicalAI/practicalAI
 * Out-of-Distribution Detection for Genomics Sequences https://github.com/google-research/google-research/tree/master/genomics_ood
+* ProteinNet: a standardized data set for machine learning of protein structure https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2932-0
+    - github repo https://github.com/aqlaboratory/proteinnet
+
 ### Videos
 * Machine Learning - CS50 Podcast, Ep. 6 https://www.youtube.com/watch?v=mEdIQbOL8dY
 * Machine Learning **Playlist** https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA
@@ -194,6 +201,7 @@ the following are resources aims to help students to try challenges and get job 
 ### Books/Papers
 * Paper notes in deep learning/machine learning and computer vision https://github.com/Hsuxu/Paper-Notes
 * Deep Learning Tutorial [Deep Learning Tutorial](books/Deep Learning Tutorial.pdf)
+* Deep Learning https://www.manning.com/books/grokking-deep-learning#toc
 ### Course/tutorials
 * Tutorials, assignments, and competitions for MIT Deep Learning related courses https://github.com/lexfridman/mit-deep-learning
 * From the Data Center to the Edge –An Optimized Path using Intel® Architecture Course https://software.seek.intel.com/DataCenter_to_Edge_REG
@@ -280,6 +288,7 @@ the following are resources aims to help students to try challenges and get job 
 * Beyond Accuracy: Precision and Recall **Medium** https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c
 * All Technology cheatsheet in one place https://www.linkedin.com/posts/kartik-sharma-733b3540_business-technology-datascience-activity-6609691165983903744-RtdE
 * Screen capture, file sharing and productivity tool https://getsharex.com/
+* Market Basket Analysis using Association Rule Mining. https://link.medium.com/crF95OR3t2
 ### Videos
 * NEURAL NETWORKS! - CS50 Live, EP. 53 (pre-release) **2+ hours** https://www.youtube.com/watch?v=hQhPogn1dpM
 * Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017) https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
