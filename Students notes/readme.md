@@ -5,7 +5,7 @@
 https://medium.com/@manveetdn/lesson-1-introduction-to-ai-at-the-edge-720edf8b60be?sk=f0415c4cd548b125a624e64b26ed1fc5
 
 ### Shared by @Mnullbyte91
-* [Lesson 2 notes](books/Mnullbyte91 - Lesson-2-Notes.pdf)
+* [Lesson 2 notes](/Mnullbyte91-Lesson-2-Notes.pdf)
 https://github.com/nullbyte91/Intel-edge-AI-foundation-udacity/tree/master/notes
 
 ### Shared by @JamesDBartlett3
@@ -37,3 +37,6 @@ The following one-line command will automatically download and extract the docum
 ### Shared by @Santiago M.
 * Lecture 1 | Introduction to Convolutional Neural Networks for Visual Recognition **~hour** https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&pbjreload=10
     - notes [notes](/Overview_of_CNNs)
+
+### Shared by @Md Rafi Akhtar
+* Edge AI Lesson 01 [lesson 1](/Edge_AI_Lesson_01.pdf)

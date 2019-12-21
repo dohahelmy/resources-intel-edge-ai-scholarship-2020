@@ -45,7 +45,7 @@ the following are resources aims to help students to try challenges and get job 
 * Intel® IoT Developer Kit https://github.com/intel-iot-devkit
 * People count program in python using the OpenVINO toolkit. https://github.com/Dhairya10/people-count-vino
 * Beer bottle following robot https://www.youtube.com/watch?v=Y5V331kbSvY
-
+* The Linux foundation projects https://www.edgexfoundry.org/
 
 ---
 ## Tools
@@ -122,6 +122,8 @@ the following are resources aims to help students to try challenges and get job 
 * Python Crash Course: A Hands-On, Project-Based Introduction to Programming **Goodreads** https://www.goodreads.com/book/show/23241059-python-crash-course
 * Python® Notes for Professionals book https://books.goalkicker.com/PythonBook/
 * Think Python [Think_Python](books/Think_Python.pdf)
+* OpenCV 4.x Cheat Sheet [cv2cheatsheet](books/cv2cheatsheet.pdf)
+* Python cheatsheet [Python_cheatsheet](books/Python_cheatsheet.pdf)
 ### Course/tutorials
 * PyTorch tutorials A to Z https://github.com/newhiwoong/PyTorch
 * Python Crash Course: Cheat sheets https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
@@ -131,6 +133,7 @@ the following are resources aims to help students to try challenges and get job 
 * Python for Data Science https://cognitiveclass.ai/courses/python-for-data-science
 * Google's Python Class **Google developers** https://developers.google.com/edu/python/
 * Python Numpy Tutorial https://cs231n.github.io/python-numpy-tutorial/#numpy
+* The TensorFlow tutorials https://www.tensorflow.org/tutorials/
 ### Links/URLs
 * Python: Module 1 | RaspberryPi projects https://projects.raspberrypi.org/en/codeclub/python-module-1
 * NumPy Cheat Sheet — Python for Data Science https://www.dataquest.io/blog/numpy-cheat-sheet/
@@ -246,6 +249,8 @@ the following are resources aims to help students to try challenges and get job 
 * Paper notes in deep learning/machine learning and computer vision https://github.com/Hsuxu/Paper-Notes
 * Deep Learning Tutorial [Deep Learning Tutorial](books/Deep Learning Tutorial.pdf)
 * Deep Learning https://www.manning.com/books/grokking-deep-learning#toc
+* Notebooks for learning deep learning https://github.com/lmoroney/dlaicourse
+
 ### Course/tutorials
 * Tutorials, assignments, and competitions for MIT Deep Learning related courses https://github.com/lexfridman/mit-deep-learning
 * From the Data Center to the Edge –An Optimized Path using Intel® Architecture Course https://software.seek.intel.com/DataCenter_to_Edge_REG
@@ -316,6 +321,8 @@ the following are resources aims to help students to try challenges and get job 
 
 ### Course/tutorials
 ### Links/URLs
+* The Illustrated Transformer http://jalammar.github.io/illustrated-transformer/
+* A Visual Guide to Using BERT for the First Time http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
 ### Videos
 
 
@@ -366,6 +373,7 @@ the following are resources aims to help students to try challenges and get job 
     - part 1 http://dkopczyk.quantee.co.uk/dae-part1/
     - part 2 http://dkopczyk.quantee.co.uk/dae-part2/
     - part 3 http://dkopczyk.quantee.co.uk/dae-part3/
+* Interactive Roadmap of IOTA Research and Development https://roadmap.iota.org/
 
 ### Videos
 * NEURAL NETWORKS! - CS50 Live, EP. 53 (pre-release) **2+ hours** https://www.youtube.com/watch?v=hQhPogn1dpM
@@ -374,6 +382,7 @@ the following are resources aims to help students to try challenges and get job 
 * CS234: Reinforcement Learning | Winter 2019 **Playlist** https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u
 * How Far is Too Far? | The Age of A.I. https://www.youtube.com/watch?v=UwsrzCVZAb8&feature=youtu.be
 * RailsConf 2015 - Nothing is Something https://www.youtube.com/watch?v=OMPfEXIlTVE
+* Ginni Rometty keynote: CES 2016 **1 hour** https://www.youtube.com/watch?v=VEq-W-4iLYU&feature=youtu.be
 ---
 ## INFOGRAPHICS
 
@@ -385,3 +394,6 @@ the following are resources aims to help students to try challenges and get job 
 
 * guide-to-iot-infographic
 ![guide-to-iot-infographic](/img/guide-to-iot-infographic.png)
+
+* Git Cheat sheet
+![git](/img/git.jpg)
