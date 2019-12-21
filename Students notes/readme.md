@@ -21,6 +21,9 @@ The following one-line command will automatically download and extract the docum
 * [Deep_learning_fundamentals_with_keras](pptx_mariamH/Deep_learning_fundamentals_with_keras.pptx)
 * [deep_learning_specialization](pptx_mariamH/deep_learning_specialization.pptx)
 * [deep_learning_with_tensorflow](pptx_mariamH/deep_learning_with_tensorflow.pptx)
+* [Deep_Learning&Neural_Networks](pptx_mariamH/Deep_Learning&Neural_Networks.pdf)
+* [Deep_Learning&Neural_Networks](pptx_mariamH/Deep_Learning&Neural_Networks.pptx)
+* [Deep_learning_with_keras(2)](pptx_mariamH/Deep_Learning_with_Keras.pptx)
 
 
 ### Shared by @Deepanshu Arora

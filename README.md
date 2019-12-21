@@ -80,6 +80,7 @@ the following are resources aims to help students to try challenges and get job 
 * Introduction to OpenVINO **Medium** https://towardsdatascience.com/introduction-to-openvino-897e705a1f0a
 * Getting started with Intel’s Movidius Stick http://theaggregateindian.com/intels-movidius-stick/
 * Beyond Sensing – Developing UP Squared based Computer Vision Projects – I http://theaggregateindian.com/beyond-sensing-upsquared-1/
+* Introducing Intel’s OpenVINO computer vision toolkit for edge computing https://hub.packtpub.com/introducing-intels-openvino-computer-vision-toolkit-for-edge-computing/
 ### Books/Papers
 * OpenVINO™ toolkit Documentation http://docs.openvinotoolkit.org/latest/
 ### Course/tutorials
@@ -120,6 +121,7 @@ the following are resources aims to help students to try challenges and get job 
 * NumPy User Guide https://numpy.org/doc/1.17/numpy-user-1.17.0.pdf
 * Python Crash Course: A Hands-On, Project-Based Introduction to Programming **Goodreads** https://www.goodreads.com/book/show/23241059-python-crash-course
 * Python® Notes for Professionals book https://books.goalkicker.com/PythonBook/
+* Think Python [Think_Python](books/Think_Python.pdf)
 ### Course/tutorials
 * PyTorch tutorials A to Z https://github.com/newhiwoong/PyTorch
 * Python Crash Course: Cheat sheets https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
@@ -134,6 +136,7 @@ the following are resources aims to help students to try challenges and get job 
 * NumPy Cheat Sheet — Python for Data Science https://www.dataquest.io/blog/numpy-cheat-sheet/
 * Strings Formats in Python For Interview Preparation **Medium** https://link.medium.com/pOiqpYN3t2
 * LIST OF IMPORTANT SQL QUERIES FOR INTERVIEW **Medium** https://link.medium.com/sjbOOBP3t2
+* Python NumPy For Your Grandma https://www.udemy.com/course/python-numpy-for-your-grandma/
 
 ### Videos
 * Python 3.4 Programming Tutorials **Playlist** https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
@@ -142,6 +145,7 @@ the following are resources aims to help students to try challenges and get job 
 * Python Tutorial 2019 **~2 hours** https://www.youtube.com/watch?v=H1elmMBnykA&feature=youtu.be
 * OpenCV Python Tutorial For Beginners 1 - Introduction to OpenCV https://www.youtube.com/watch?v=kdLM6AOd2vc
 * Python NumPy Tutorial | NumPy Array | Python Tutorial For Beginners | Python Training | Edureka https://www.youtube.com/watch?v=8JfDAm9y_7s&feature=youtu.be
+* Python for Everybody - Full Course with Dr. Chuck **13+ hours** https://www.youtube.com/watch?v=8DvywoWv6fI
 
 ---
 ## C++
@@ -170,20 +174,26 @@ the following are resources aims to help students to try challenges and get job 
 * Cheat Sheets for AI [Cheat Sheets for AI](books/BecomingHumanCheatSheets.pdf)
 * One ticket to win them all: generalizing lottery ticket [Paper](books/One_ticket_to_win_them_all.pdf)
 * PLAYING THE LOTTERY WITH REWARDS AND MULTIPLE LANGUAGES [Paper](books/PLAYING_THE_LOTTERY.pdf)
+* Rebooting_AI_@MegaPack [Rebooting_AI_@MegaPack](books/Rebooting_AI_@MegaPack.pdf)
+* Human Compatible: Artificial Intelligence and the Problem of Control https://www.goodreads.com/en/book/show/44767248-human-compatible
 ### Course/tutorials
 * Introduction to AI for non-experts https://www.elementsofai.com/
 * Multi Layer Neural Networks Python Implementation https://learnai1.home.blog/2019/12/18/multi-layer-neural-networks-python-implementation/
-* Finland is making its online AI crash course free to the world shorturl.at/suEFS
+* Finland is making its online AI crash course free to the world https://www.theverge.com/platform/amp/2019/12/18/21027840/online-course-basics-of-ai-finland-free-elements?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter&__twitter_impression=true
 * Practical Application for Artificial Intelligence: Backward Chaining https://study.com/academy/lesson/practical-application-for-artificial-intelligence-backward-chaining.html
+* Intro to Artificial Intelligence https://www.udacity.com/course/intro-to-artificial-intelligence--cs271
+
 ### Links/URLs
 * Processing AI at the Edge – Use-Cases and AI Hardware Considerations https://emerj.com/ai-podcast-interviews/processing-ai-edge/
 * Artificial Intelligence https://learnai1.home.blog/
 * How Edge Computing Technology Is Reshaping the IoT Landscape https://www.iotworldtoday.com/2019/12/13/how-edge-computing-technology-is-reshaping-the-iot-landscape/
 * Understanding the generalization of ‘lottery tickets’ in neural networks https://ai.facebook.com/blog/understanding-the-generalization-of-lottery-tickets-in-neural-networks/
+* Roadmap to (technically) Dominate Artificial Intelligence https://github.com/srcolinas/roadmap-to-AI
 ### Videos
 * What is Artificial Intelligence? In 5 minutes https://www.youtube.com/watch?v=2ePf9rue1Ao
 * Artificial intelligence & algorithms: pros & cons | DW Documentary (AI documentary) https://www.youtube.com/watch?v=s0dMTAQM4cw
 * What is edge computing? https://www.youtube.com/watch?v=cEOUeItHDdo
+* Michael Stevens: Vsauce | Artificial Intelligence (AI) Podcast https://www.youtube.com/watch?v=3qMemn__kK8
 
 ---
 ## ML - Machine Learning
@@ -195,6 +205,7 @@ the following are resources aims to help students to try challenges and get job 
 * Improving Out-of-Distribution Detection in Machine Learning Models https://ai.googleblog.com/2019/12/improving-out-of-distribution-detection.html
 * From Machine Learning to Reinforcement Learning Mastery **Medium** https://medium.com/better-programming/from-machine-learning-to-reinforcement-learning-mastery-47f33d9f6b41
 * Results for Standard Classification and Regression Machine Learning Datasets https://machinelearningmastery.com/results-for-standard-classification-and-regression-machine-learning-datasets/
+* Whole Intuition Behind Machine Learning ?What Exactly It Is ? https://dev.to/deepansharora27/whole-intuition-behind-machine-learning-what-exactly-it-is-ep6
 ### Books/Papers
 * Papers with code https://paperswithcode.com/
 * Machine Learning for OpenCV 4 - Second Edition https://www.packtpub.com/data/machine-learning-for-opencv-4-second-edition
@@ -202,6 +213,7 @@ the following are resources aims to help students to try challenges and get job 
 * Machine Learning Mastery https://machinelearningmastery.com/blog/
 * Likelihood Ratios for Out-of-Distribution Detection https://arxiv.org/abs/1906.02845
 * Free Data Science & Machine Learning Resources https://www.claoudml.com/
+* Collected books https://drive.google.com/drive/folders/1r5gv3sfqVYg64nKynPVjgevSUiYu_3O7
 ### Course/tutorials
 * Machine Learning Crash Course **Google Developers** https://developers.google.com/machine-learning/crash-course
 * Open Machine Learning Course mlcourse.ai https://mlcourse.ai/
@@ -217,6 +229,7 @@ the following are resources aims to help students to try challenges and get job 
 ### Videos
 * Machine Learning - CS50 Podcast, Ep. 6 https://www.youtube.com/watch?v=mEdIQbOL8dY
 * Machine Learning **Playlist** https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA
+* Python Machine Learning & AI Mega Course - Learn 4 Different Areas of ML & AI **7+ hours** https://www.youtube.com/watch?v=WFr2WgN9_xE&feature=youtu.be
 
 
 ---
@@ -228,6 +241,7 @@ the following are resources aims to help students to try challenges and get job 
 * Estimating Body Mass Index from Face Images Using Keras and Transfer Learning **Medium** https://medium.com/@leosimmons/estimating-body-mass-index-from-face-images-using-keras-and-transfer-learning-de25e1bc0212
 * Segmentation of Roads in Aerial Images. https://towardsdatascience.com/road-segmentation-727fb41c51af
 * MACH Algorithm — A Breakthrough in Distributed Deep Learning https://dzone.com/articles/mach-algorithm-a-breakthrough-in-distributed-deep
+* Understanding of Convolutional Neural Network (CNN) — Deep Learning https://link.medium.com/PUy0cE6Ux2
 ### Books/Papers
 * Paper notes in deep learning/machine learning and computer vision https://github.com/Hsuxu/Paper-Notes
 * Deep Learning Tutorial [Deep Learning Tutorial](books/Deep Learning Tutorial.pdf)
@@ -242,10 +256,13 @@ the following are resources aims to help students to try challenges and get job 
 * Deep Learning Fundamentals https://cognitiveclass.ai/courses/introduction-deep-learning
 * GANs from Scratch 1: A deep introduction. With code in PyTorch and TensorFlow **Medium** https://medium.com/ai-society/gans-from-scratch-1-a-deep-introduction-with-code-in-pytorch-and-tensorflow-cb03cdcdba0f
 * Deep Learning course: lecture slides and lab notebooks https://m2dsupsdlclass.github.io/lectures-labs/
+* Deep learning course in details https://nptel.ac.in/courses/106/106/106106184/
 ### Links/URLs
 * Deep Learning Glossary by Nvidia [Deep Learning Glossary by Nvidia](books/Deep_Learning_Glossary_by_Nvidia.pdf)
+* Implementation of deep learning framework -- Unet, using Keras https://github.com/zhixuhao/unet
 ### Videos
 * But what is a Neural Network? | Deep learning, chapter 1 https://www.youtube.com/watch?v=aircAruvnKk&t=2s
+* Lesson 9: Deep Learning Part 2 2018 - Multi-object detection **2 hours** https://www.youtube.com/watch?v=0frKXR-2PBY
 
 
 
@@ -257,12 +274,17 @@ the following are resources aims to help students to try challenges and get job 
 * Introduction to Computer Vision Part 1 **Medium** https://medium.com/@aminulkarim.ju.cse/introduction-to-computer-vision-part-1-684de49c890b
 * Beginner’s Guide to Object Detection Algorithms **Medium** https://towardsdatascience.com/beginners-guide-to-object-detection-algorithms-6620fb31c375
 * A Practical Implementation of the Faster R-CNN Algorithm for Object Detection (Part 2 — with Python codes) https://medium.com/analytics-vidhya/a-practical-implementation-of-the-faster-r-cnn-algorithm-for-object-detection-part-2-with-cac45dada619
+* Heuristics For HAR: A Divergent Approach (Part I) **Medium** https://medium.com/@prashantdandriyal7/heuristics-for-har-a-divergent-approach-part-i-36292f0bf85e
+* Computer Vision — An Introduction **Medium** https://towardsdatascience.com/computer-vision-an-introduction-bbc81743a2f7
+* The Most Intuitive and Easiest Guide for Convolutional Neural Network https://towardsdatascience.com/the-most-intuitive-and-easiest-guide-for-convolutional-neural-network-3607be47480
+
 ### Books/Papers
 * Computer Vision Foundations and Applications  http://vision.stanford.edu/teaching/cs131_fall1718/files/cs131-class-notes.pdf
 * OpenCV 4 Computer Vision Application Programming Cookbook – Fourth Edition https://www.wowebook.org/opencv-4-computer-vision-application-programming-cookbook-fourth-edition/
 * Mastering OpenCV 4 with Python https://www.packtpub.com/application-development/mastering-opencv-4-python
 * Hands-On Computer Vision with TensorFlow 2 https://www.packtpub.com/application-development/hands-computer-vision-tensorflow-2
 * Computer vision papers http://openaccess.thecvf.com/CVPR2017.py
+* Zero to Hero OpenCV CheatSheet https://github.com/WhatTheFar/opencv-cheatsheet
 ### Course/tutorials
 * OpenCV Tutorial: A Guide to Learn OpenCV https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
 * Introduction to Computer Vision **By Udacity** https://www.udacity.com/course/introduction-to-computer-vision--ud810
@@ -272,10 +294,12 @@ the following are resources aims to help students to try challenges and get job 
 * Face Detection with OpenCV https://www.kaggle.com/serkanpeldek/face-detection-with-opencv
 * Computer Vision Tutorial: A Step-by-Step Introduction to Image Segmentation Techniques (Part 1) https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/
 * 13.7. Single Shot Multibox Detection (SSD) https://d2l.ai/chapter_computer-vision/ssd.html
+* CSCI 1430: Introduction to Computer Vision https://cs.brown.edu/courses/csci1430/
 ### Links/URLs
 * Open Source Computer Vision https://docs.opencv.org/4.1.2/
 * Install OpenCV-Python in Ubuntu https://docs.opencv.org/4.1.2/d2/de6/tutorial_py_setup_in_ubuntu.html
 * YOLO: Real-Time Object Detection https://pjreddie.com/darknet/yolo/
+* Heuristic Approach for HAR (Human Activity Recognition) using Computer Vision and Python https://github.com/PrashantDandriyal/Heuristic-Approach-for-HAR
 ### Videos
 * How Computer Vision Works https://www.youtube.com/watch?v=OcycT1Jwsns
 * Jetson Nano: Vision Recognition Neural Network Demo https://www.youtube.com/watch?v=k5pXXmTkPNM
@@ -311,7 +335,8 @@ the following are resources aims to help students to try challenges and get job 
 * Battle of Edge AI — Nvidia vs Google vs Intel  https://towardsdatascience.com/battle-of-edge-ai-nvidia-vs-google-vs-intel-8a3b87243028
 * GANGogh: Creating Art with GANs https://towardsdatascience.com/gangogh-creating-art-with-gans-8d087d8f74a1
 * Challenges and Opportunities in Edge Computing https://arxiv.org/pdf/1609.01967.pdf
-
+* Linux Notes For Professionals [LinuxNotesForProfessionals](books/LinuxNotesForProfessionals.pdf)
+* Single Headed Attention RNN: Stop Thinking With Your Head https://arxiv.org/abs/1911.11423
 ### Course/tutorials
 * CS231n: Convolutional Neural Networks for Visual Recognition http://cs231n.stanford.edu/
 * Programming Languages Guides and Notes (Python - Pandas - NumPy - Octave/Matlab - C++) https://www.ritchieng.com/programming-languages/
@@ -330,7 +355,17 @@ the following are resources aims to help students to try challenges and get job 
 * Dream to Control: Learning Behaviors by Latent Imagination https://danijar.com/project/dreamer/
     - github: https://github.com/google-research/dreamer
     - paper: https://arxiv.org/abs/1912.01603
-
+* Google dataset search https://toolbox.google.com/datasetsearch
+* Oktoberfest Food Dataset https://github.com/a1302z/OktoberfestFoodDataset
+    - Paper: https://arxiv.org/pdf/1912.05007.pdf
+* Multiple articles **Medium** https://medium.com/@pulkits_48071
+* Introduction to Shell Programming https://www.rpi.edu/dept/arc/training/shell/slides.pdf [Introduction to Shell Programming](books/intro_shell_programming.pdf)
+* Best Linux Distributions for Beginners in 2019 https://www.fossmint.com/linux-distributions-for-beginners/
+* How to Install Linux in Windows With a VMware Virtual Machine https://www.makeuseof.com/tag/install-linux-windows-vmware-virtual-machine/
+* Denoising Autoencoder
+    - part 1 http://dkopczyk.quantee.co.uk/dae-part1/
+    - part 2 http://dkopczyk.quantee.co.uk/dae-part2/
+    - part 3 http://dkopczyk.quantee.co.uk/dae-part3/
 
 ### Videos
 * NEURAL NETWORKS! - CS50 Live, EP. 53 (pre-release) **2+ hours** https://www.youtube.com/watch?v=hQhPogn1dpM
@@ -338,7 +373,7 @@ the following are resources aims to help students to try challenges and get job 
 * Explaining Edge Computing https://www.youtube.com/watch?v=0idvaOCnF9E
 * CS234: Reinforcement Learning | Winter 2019 **Playlist** https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u
 * How Far is Too Far? | The Age of A.I. https://www.youtube.com/watch?v=UwsrzCVZAb8&feature=youtu.be
-
+* RailsConf 2015 - Nothing is Something https://www.youtube.com/watch?v=OMPfEXIlTVE
 ---
 ## INFOGRAPHICS
 
