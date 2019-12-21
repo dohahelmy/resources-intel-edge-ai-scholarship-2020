@@ -25,3 +25,12 @@ The following one-line command will automatically download and extract the docum
 
 ### Shared by @Deepanshu Arora
 * Introduction to AI at the Edge — A Beginner’s Perspective https://dev.to/deepansharora27/introduction-to-ai-at-the-edge-a-beginner-s-perspective-9ig
+
+
+### Shared by @bangabot
+* My experience with the Intel® Edge AI Scholarship Foundational course http://theaggregateindian.com/my-experience-with-the-intel-edge-ai-scholarship-foundational-course/
+
+
+### Shared by @Santiago M.
+* Lecture 1 | Introduction to Convolutional Neural Networks for Visual Recognition **~hour** https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&pbjreload=10
+    - notes [notes](/Overview_of_CNNs)

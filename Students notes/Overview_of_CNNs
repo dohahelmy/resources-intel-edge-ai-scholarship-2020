@@ -1,0 +1,71 @@
+Image Classification Problem.
+
+
+Algorithm looks at an image, then lables from a pool.
+Other Visual REcognition problems.
+
+Object Detection: 
+    Bounding boxes where objects are.
+
+Image Captioning.
+    System needs to produce a natural language description.
+
+Reused techniques. (CNN) - Convnets
+
+Jeff H. Toronto.
+Seven layer Convolution Network (AlexNet)
+
+Trend is getting deeper and deeper.
+Residual network 152 layers.
+
+Tunning & Tweaking this algorithms.
+Dive deep in how models work.
+
+Important: breakthrough moment 2012.
+But, were not invented then.
+
+1998 foundational work. Lecun (BellLabs)
+Recognize digits.
+
+Recognize HandWritten checks, address (Post Office).
+Structure is similar to AlexNet.
+
+Raw pixels. Fully Connected layers.
+Two pictures are similar.
+
+Why popular in last years?
+1. Computation: Moore's Law.
+1998 -> 2012 10**6 transitors => 10**9 + GPUs
+Larger Architectures. Just increase models size.
+
+2. Data.
+Algorithms hungry for data. Fwed them.
+Pixels used in training: 10**7 => 10**14
+
+Build machines that can see as people.
+More than clasifying objects.
+Open challenges, more ambitious projects.
+
+Semantic Segmentation. 
+3D Understanding, reconstrunctiong world.
+
+Activity recognition: Video.
+Augmented Reality & new type of sensors.
+
+CApture intrincancies in real world.
+Semantic related objects.
+
+Representation as a tree, richness of the world.
+Visual system can do.
+
+Flash image.
+Rapid exposure, long descripting paragraphs.
+From external knowledge.
+Understand history of an image.
+
+Understanding of image.
+Exciting as a researcher.
+
+Computer Vision TEchnology can better our Lives.
+Mdical Diagnosis, Self-Driving Cars, Robotics.
+
