@@ -46,3 +46,6 @@ The following one-line command will automatically download and extract the docum
 
 ### Shared by @Sairam
 * AI in the Edge!!!! https://www.linkedin.com/pulse/ai-edge-ramesh-mathikumar/
+
+### Shared by @Chirag
+* https://www.linkedin.com/posts/iamchiragsharma_mathematics-machinlearning-nlp-activity-6613829767487688704-9RHd/
