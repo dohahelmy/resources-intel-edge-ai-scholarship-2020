@@ -18,7 +18,9 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 ## Must read Articles
 * Udacity Scholarships Challenge Phase: 16+ Examples of Amazing Community Participation **Medium**
 https://blog.usejournal.com/real-examples-of-amazing-community-participation-8ebd89b67a34
-* My Experience in Getting an Internship Offer From Google https://medium.com/@ahmadizzan/my-experience-in-getting-an-internship-offer-from-google-577a4c9fbfd9
+* My Experience in Getting an Internship Offer From Google **Medium**
+https://medium.com/@ahmadizzan/my-experience-in-getting-an-internship-offer-from-google-577a4c9fbfd9
+* Introduction to Kaggle for Beginners in Machine Learning and Data Science! **Medium** https://medium.com/datadriveninvestor/introduction-to-kaggle-for-beginners-in-machine-learning-and-data-science-865199d7ead2
 
 ## OPPORTUNITIES
 the following are resources aims to help students to try challenges and get job Opportunities
@@ -39,7 +41,6 @@ the following are resources aims to help students to try challenges and get job 
 
 * PhD position in Quantum Cryptography at the Technical University Berlin https://qt.eu/engage/jobs/phd-position-in-quantum-cryptography-at-the-technical-university-berlin/
 * Machine Learning Contests https://mlcontests.com/
-* WorldQuant University's (Introduction to Data Science Module) https://wqu-apply.thedataincubator.com/
 * Python & Django Application Developer https://www.linkedin.com/posts/tomiwa-adedokun-excellence_django-javascript-html5-activity-6614019280335888384-LaRv/
 
 * EDGE AI SUMMIT https://www.edgeaisummit.com/events/edge-ai-summit
@@ -84,6 +85,7 @@ the following are resources aims to help students to try challenges and get job 
 
 ### Articles
 * Demystifying the math and implementation of Convolutions: Part I. https://praisethemoon.org/demystifying-the-math-and-implementation-of-convolutions-part-i/
+* Mathematics for Data Science https://towardsdatascience.com/mathematics-for-data-science-e53939ee8306?gi=9af3c9aa4682
 ### Books/Papers
 * Mathematics for machine learning https://mml-book.github.io/book/mml-book.pdf
 * Probability Cheatsheet[Probability Cheatsheet](books/probability_cheatsheet.pdf)
@@ -126,6 +128,7 @@ the following are resources aims to help students to try challenges and get job 
 * Go to Market with the Intel® Distribution of OpenVINO™ Toolkit https://software.intel.com/en-us/iot/training/openvino-toolkit
 * vehicle-license-plate-detection-barrier-0106 https://docs.openvinotoolkit.org/latest/_models_intel_vehicle_license_plate_detection_barrier_0106_description_vehicle_license_plate_detection_barrier_0106.html
 * AI Courses https://software.intel.com/en-us/ai/courses
+
 ### Links/URLs
 * OpenVINO toolkit https://software.intel.com/en-us/openvino-toolkit
 * Download OpenVINO toolkit https://software.intel.com/en-us/openvino-toolkit/choose-download
@@ -179,6 +182,8 @@ the following are resources aims to help students to try challenges and get job 
 * Python cheatsheet [Python_cheatsheet](books/Python_cheatsheet.pdf)
 * Python For Data Science Cheat Sheet (Python Basics) [file](books/PythonForDataScience.pdf)
 ### Course/tutorials
+* WorldQuant University's Introduction to Data Science Module https://wqu.org/programs/data-science
+* Applied Data Science with Python Specialization Coursera https://www.coursera.org/specializations/data-science-python
 * PyTorch tutorials A to Z https://github.com/newhiwoong/PyTorch
 * Python Crash Course: Cheat sheets https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
 * Introduction to Python Programming **By Udacity** https://www.udacity.com/course/introduction-to-python--ud1110
@@ -308,6 +313,7 @@ the following are resources aims to help students to try challenges and get job 
 * An introduction to quantum machine learning https://arxiv.org/pdf/1409.3097.pdf
 * Machine Learning as a Decision Aid for Breast Cancer Diagnosis https://iarjset.com/papers/machine-learning-as-a-decision-aid-for-breast-cancer-diagnosis/
 ### Course/tutorials
+* * Introduction to Data Analytics by IIT Madras https://nptel.ac.in/courses/110/106/110106064/
 * Machine Learning Crash Course **Google Developers** https://developers.google.com/machine-learning/crash-course
 * Open Machine Learning Course mlcourse.ai https://mlcourse.ai/
 * Machine Learning with Python https://cognitiveclass.ai/courses/machine-learning-with-python
