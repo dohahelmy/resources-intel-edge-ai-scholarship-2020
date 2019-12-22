@@ -40,3 +40,9 @@ The following one-line command will automatically download and extract the docum
 
 ### Shared by @Md Rafi Akhtar
 * Edge AI Lesson 01 [lesson 1](/Edge_AI_Lesson_01.pdf)
+
+### Shared by @Shreya Chakrabarti
+* Weekly Planner to the course [file](/Weekly_Planner_Template.xlsx)
+
+### Shared by @Sairam
+* AI in the Edge!!!! https://www.linkedin.com/pulse/ai-edge-ramesh-mathikumar/
