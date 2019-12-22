@@ -5,8 +5,10 @@
 https://medium.com/@manveetdn/lesson-1-introduction-to-ai-at-the-edge-720edf8b60be?sk=f0415c4cd548b125a624e64b26ed1fc5
 
 ### Shared by @Mnullbyte91
-* [Lesson 2 notes](/Mnullbyte91-Lesson-2-Notes.pdf)
 https://github.com/nullbyte91/Intel-edge-AI-foundation-udacity/tree/master/notes
+* [Lesson 2 notes](/Mnullbyte91-Lesson-2-Notes.pdf)
+* [Lesson 3 notes](/Mnullbyte91-Lesson-3-Notes.pdf)
+
 
 ### Shared by @JamesDBartlett3
 *  OpenVINO documentation bug fix https://www.youtube.com/watch?v=yEF2DQLC5TA&feature=youtu.be
@@ -58,3 +60,10 @@ The following one-line command will automatically download and extract the docum
 
 ### Shared by @Praful
 * Notes for the course https://github.com/Praful932/Intel-Edge-AI-Foundation-Course
+
+### Shared by @Venkatesh K H
+* Variability Notes [file](/Variability-Variance and_Standard_Deviation.pdf)
+* Simple notes on Skewness [file](/Simple_notes_on_Skewness.pdf)
+
+### Shared by @Bishoy Atif
+* Introduction to AI at the edge https://github.com/bishoyAtif/Intel-Edge-Scholarship-Notes/blob/master/Foundation-Course/1.Introduction-to-AI-at-the-edge.md
