@@ -44,6 +44,7 @@ the following are resources aims to help students to try challenges and get job 
 
 * EDGE AI SUMMIT https://www.edgeaisummit.com/events/edge-ai-summit
 * Machine Learning Competitions in 2020 https://saqibns.github.io/2019/12/15/list-of-ML-competitions-2020.html
+* The ecosystem event for AI hardware acceleration in Europe https://aihardwaresummiteu.com/events/ai-hardware-summit-europe
 
 
 ### General Articles/videos
