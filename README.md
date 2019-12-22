@@ -38,11 +38,14 @@ the following are resources aims to help students to try challenges and get job 
 * Systems Engineering(python) Intern | Saama AI Research Lab - https://lnkd.in/f4SaEXQ
 
 * PhD position in Quantum Cryptography at the Technical University Berlin https://qt.eu/engage/jobs/phd-position-in-quantum-cryptography-at-the-technical-university-berlin/
+* Machine Learning Contests https://mlcontests.com/
+* WorldQuant University's (Introduction to Data Science Module) https://wqu-apply.thedataincubator.com/
+* Python & Django Application Developer https://www.linkedin.com/posts/tomiwa-adedokun-excellence_django-javascript-html5-activity-6614019280335888384-LaRv/
 
 
-### General Articles
+### General Articles/videos
 * How I got into Google!! **Medium** https://medium.com/@gourav.mittal/how-i-got-into-google-a7d92f581951
-
+* How To Speak by Patrick Winston https://www.youtube.com/watch?v=Unzc731iCUY
 ---
 
 ## PROJECTS
@@ -54,6 +57,8 @@ the following are resources aims to help students to try challenges and get job 
 * The Linux foundation projects https://www.edgexfoundry.org/
 * face Recognition https://www.linkedin.com/posts/activity-6613382641766977536-wSCJ/
 ---
+
+
 ## Tools
 * Gantt project planner https://templates.office.com/en-us/gantt-project-planner-tm02887601
 * All-in-one workspace https://www.notion.so/?r=77a75c1848e543db871931c66c9edba9
@@ -61,6 +66,7 @@ the following are resources aims to help students to try challenges and get job 
 * Installing ZSH https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
 * CMake Installation https://riptutorial.com/cmake/example/4459/cmake-installation
 * Public APIs for Data science https://github.com/n0shake/Public-APIs#data-science
+* Model Downloader and other automation tools https://github.com/opencv/open_model_zoo/blob/master/tools/downloader/README.md
 
 
 
@@ -99,6 +105,7 @@ the following are resources aims to help students to try challenges and get job 
 * Introducing Intel’s OpenVINO computer vision toolkit for edge computing https://hub.packtpub.com/introducing-intels-openvino-computer-vision-toolkit-for-edge-computing/
 * Face Detection Application Sample with Intel OpenVINO **Medium** https://medium.com/@onur.dundar1/face-detection-application-sample-with-intel-openvino-c34f1f6f64d6
 * Getting Started with OpenVINO-Serving **Medium** https://medium.com/@rachittayal7/getting-started-with-openvino-serving-3810361a7368
+* How to run Keras model inference x3 times faster with CPU and Intel OpenVINO https://www.dlology.com/blog/how-to-run-keras-model-inference-x3-times-faster-with-cpu-and-intel-openvino-1/
 ### Books/Papers
 * OpenVINO™ toolkit Documentation http://docs.openvinotoolkit.org/latest/
 ### Course/tutorials
@@ -154,6 +161,7 @@ the following are resources aims to help students to try challenges and get job 
 * Think Python [Think_Python](books/Think_Python.pdf)
 * OpenCV 4.x Cheat Sheet [cv2cheatsheet](books/cv2cheatsheet.pdf)
 * Python cheatsheet [Python_cheatsheet](books/Python_cheatsheet.pdf)
+* Python For Data Science Cheat Sheet (Python Basics) [file](books/PythonForDataScience.pdf)
 ### Course/tutorials
 * PyTorch tutorials A to Z https://github.com/newhiwoong/PyTorch
 * Python Crash Course: Cheat sheets https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
@@ -177,6 +185,13 @@ the following are resources aims to help students to try challenges and get job 
 * Full Stack Python (Flask) https://www.fullstackpython.com/flask.html
 * Python 3 Download page https://www.python.org/downloads/
 * Install TensorFlow with pip https://www.tensorflow.org/install/pip?lang=python3
+* Python informer https://www.pythoninformer.com/python-libraries/numpy/index-and-slice/
+* Convolutional Neural Network (CNN) https://www.tensorflow.org/tutorials/images/cnn
+    - https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/cnn.ipynb
+* Convolutional Neural Networks with TensorFlow https://www.datacamp.com/community/tutorials/cnn-tensorflow-python
+* TORCH.ONNX https://pytorch.org/docs/stable/onnx.html
+* A Beginner’s Guide on Recurrent Neural Networks with PyTorch https://blog.floydhub.com/a-beginners-guide-on-recurrent-neural-networks-with-pytorch/
+* Long Short-Term Memory: From Zero to Hero with PyTorch https://blog.floydhub.com/long-short-term-memory-from-zero-to-hero-with-pytorch/
 ### Videos
 * Python 3.4 Programming Tutorials **Playlist** https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
 * Python Tutorial for Beginners [Full Course] Learn Python for Web Development **6+ hours** https://www.youtube.com/watch?v=_uQrJ0TkZlc
@@ -208,6 +223,8 @@ the following are resources aims to help students to try challenges and get job 
 * What is Edge AI? https://www.imagimob.com/blog/what-is-edge-ai
 * Introduction to AI at the Edge — A Beginner’s Perspective https://dev.to/deepansharora27/introduction-to-ai-at-the-edge-a-beginner-s-perspective-9ig
 * 5 MUST READ BLOGS & BLOGGERS ON ARTIFICIAL INTELLIGENCE https://www.artificiallyintelligentclaire.com/bloggers-artificial-intelligence/?utm_medium=social&utm_source=pinterest&utm_campaign=tailwind_smartloop&utm_content=smartloop&utm_term=24705034
+* 75 Insightful Facts About Artificial Intelligence https://valuer.ai/blog/75-facts-about-artificial-intelligence/?amp
+* Secure and Private AI Writing Challenge https://medium.com/secure-and-private-ai-writing-challenge
 ### Books/Papers
 * Hands-On Artificial Intelligence for IoT https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-iot
 * AI Crash Course https://www.packtpub.com/data/ai-crash-course
@@ -218,6 +235,7 @@ the following are resources aims to help students to try challenges and get job 
 * Human Compatible: Artificial Intelligence and the Problem of Control https://www.goodreads.com/en/book/show/44767248-human-compatible
 * Artificial Intelligence - A Modern Approach [book](books/Artificial_Intelligence-A_Modern_Approach.pdf)
 * On the Measure of Intelligence https://arxiv.org/abs/1911.01547
+* AI for All: How AI is Transforming Every Industry (Series 1) https://www.amazon.in/dp/B082S4D1N7/ref=cm_sw_r_other_apa_i_WoB-DbEXR65FH
 ### Course/tutorials
 * Introduction to AI for non-experts https://www.elementsofai.com/
 * Multi Layer Neural Networks Python Implementation https://learnai1.home.blog/2019/12/18/multi-layer-neural-networks-python-implementation/
@@ -266,6 +284,7 @@ the following are resources aims to help students to try challenges and get job 
 * Bishop Pattern Recognition and Machine Learning 2006 [book](books/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 * ML books https://drive.google.com/drive/folders/1WurQpLinwQdtiJfclgS39sS5qVXAHJmK
 * An introduction to quantum machine learning https://arxiv.org/pdf/1409.3097.pdf
+* Machine Learning as a Decision Aid for Breast Cancer Diagnosis https://iarjset.com/papers/machine-learning-as-a-decision-aid-for-breast-cancer-diagnosis/
 ### Course/tutorials
 * Machine Learning Crash Course **Google Developers** https://developers.google.com/machine-learning/crash-course
 * Open Machine Learning Course mlcourse.ai https://mlcourse.ai/
@@ -282,6 +301,7 @@ the following are resources aims to help students to try challenges and get job 
 * ProteinNet: a standardized data set for machine learning of protein structure https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2932-0
     - github repo https://github.com/aqlaboratory/proteinnet
 * Teachable Machine https://teachablemachine.withgoogle.com/
+* FOUNDATIONS OF MACHINE LEARNING https://bloomberg.github.io/foml/#about
 ### Videos
 * Machine Learning - CS50 Podcast, Ep. 6 https://www.youtube.com/watch?v=mEdIQbOL8dY
 * Machine Learning **Playlist** https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA
@@ -310,6 +330,7 @@ the following are resources aims to help students to try challenges and get job 
 * Deep Learning https://www.manning.com/books/grokking-deep-learning#toc
 * Notebooks for learning deep learning https://github.com/lmoroney/dlaicourse
 * Deep Learning (An MIT Press book) https://www.deeplearningbook.org/
+* Building Chatbots with Python https://www.pdfdrive.com/building-chatbots-with-python-using-natural-language-processing-and-machine-learning-e176343000.html
 ### Course/tutorials
 * Tutorials, assignments, and competitions for MIT Deep Learning related courses https://github.com/lexfridman/mit-deep-learning
 * From the Data Center to the Edge –An Optimized Path using Intel® Architecture Course https://software.seek.intel.com/DataCenter_to_Edge_REG
@@ -322,18 +343,20 @@ the following are resources aims to help students to try challenges and get job 
 * Deep Learning course: lecture slides and lab notebooks https://m2dsupsdlclass.github.io/lectures-labs/
 * Deep learning course in details https://nptel.ac.in/courses/106/106/106106184/
 * Deep Learning Specialization **by Coursera** https://www.coursera.org/specializations/deep-learning
+* Practical Deep Learning for Coders, v3 https://course.fast.ai/
 ### Links/URLs
 * Deep Learning Glossary by Nvidia [Deep Learning Glossary by Nvidia](books/Deep_Learning_Glossary_by_Nvidia.pdf)
 * Implementation of deep learning framework -- Unet, using Keras https://github.com/zhixuhao/unet
 * DIY Deep Learning Projects **Medium** https://towardsdatascience.com/diy-deep-learning-projects-c2e0fac3274f
 * Interview with Deep Learning Researcher and The GANfather: Dr. Ian Goodfellow https://hackernoon.com/interview-with-deep-learning-researcher-and-the-ganfather-dr-ian-goodfellow-cd300863ecff
 * Not Enough Data? Deep Learning to the Rescue! https://arxiv.org/abs/1911.03118
+
 ### Videos
 * But what is a Neural Network? | Deep learning, chapter 1 https://www.youtube.com/watch?v=aircAruvnKk&t=2s
 * Lesson 9: Deep Learning Part 2 2018 - Multi-object detection **2 hours** https://www.youtube.com/watch?v=0frKXR-2PBY
 * DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
 * Deep learning and Raspberry Pi - Koichi Nakamura || Day One || Raspberry Fields 2018 https://www.youtube.com/watch?v=10RyDvTj4hc
-
+* CS230: Deep Learning | Autumn 2018 **Playlist** https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
 
 
 ---
@@ -392,13 +415,21 @@ the following are resources aims to help students to try challenges and get job 
 ### Articles
 ### Books/Papers
 * Papers and Book to look at when starting NLP https://github.com/newhiwoong/NLP-Papers
-
+* Applied Natural Language Processing with Python https://www.pdfdrive.com/applied-natural-language-processing-with-python-implementing-machine-learning-and-deep-learning-algorithms-for-natural-language-processing-e176640395.html
+* Natural Language Processing with PyTorch https://www.pdfdrive.com/natural-language-processing-with-pytorch-build-intelligent-language-applications-using-deep-learning-e188037921.html
+* Deep Learning for Natural Language Processing https://www.pdfdrive.com/deep-learning-for-natural-language-processing-e60572453.html
+* Natural Language Processing with Python https://www.pdfdrive.com/natural-language-processing-with-python-e1251452.html
 ### Course/tutorials
 * Intel Natural Language Processing course https://software.intel.com/en-us/ai/courses/natural-language-processing
+* Natural Language Processing https://nptel.ac.in/courses/106101007/
+
+
 ### Links/URLs
 * The Illustrated Transformer http://jalammar.github.io/illustrated-transformer/
 * A Visual Guide to Using BERT for the First Time http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
 ### Videos
+* fast.ai Code-First Intro to Natural Language Processing **Playlist** https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9
+* CS224N: Natural Language Processing with Deep Learning | Winter 2019 **Playlist** https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 
 
 
@@ -413,6 +444,7 @@ the following are resources aims to help students to try challenges and get job 
 * Introducing AIY Vision Kit: Make devices that see https://www.blog.google/topics/machine-learning/introducing-aiy-vision-kit-make-devices-see/
 * Automation Testing with Pytest **Medium** https://medium.com/tenable-techblog/automation-testing-with-pytest-444c8b34ead2
     - Russian language: https://habr.com/ru/company/otus/blog/480186/
+* Image convolution examples http://aishack.in/tutorials/image-convolution-examples/
 ### Books/Papers
 * Concepts, Techniques, and Models of Computer Programming **Goodreads** https://www.goodreads.com/book/show/772585.Concepts_Techniques_and_Models_of_Computer_Programming
 * Architecture for IoT applications. **Medium** https://medium.com/techwasti/architecture-for-iot-applications-d50ece031d38
@@ -478,6 +510,10 @@ the following are resources aims to help students to try challenges and get job 
 * MobileNet Image Classification with Keras https://www.youtube.com/watch?v=OO4HD-1wRN8
 * Introduction to Time Series https://www.influxdata.com/training/what-is-time-series/?aliId=eyJpIjoiM1RtWHlYTVQ0NThTcFNmVSIsInQiOiIwQndzbkFsaWFFVWNqak9iejQ4NHRBPT0ifQ%253D%253D
 * Two Minute Papers **Channel** https://www.youtube.com/user/keeroyz
+* Linux Command Line Tutorial For Beginners **Playlist** https://www.youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As
+* Neural Networks Demystified **Playlist** https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU
+* 3Blue1Brown Neural Network **Playlist** https://www.youtube.com/playlist?list=PL_h2yd2CGtBHEKwEH5iqTZH85wLS-eUzv
+* Introduction to reinforcement learning **Playlist** https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
 
 ---
 ## INFOGRAPHICS
@@ -502,3 +538,6 @@ the following are resources aims to help students to try challenges and get job 
 
 * Deep Learning Methods
 ![DL methods](/img/DL.jpeg)
+
+* Statistical Distributions
+![Statistical Distributions](/img/sd.png)

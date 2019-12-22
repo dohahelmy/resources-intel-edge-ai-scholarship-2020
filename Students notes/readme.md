@@ -49,3 +49,12 @@ The following one-line command will automatically download and extract the docum
 
 ### Shared by @Chirag
 * https://www.linkedin.com/posts/iamchiragsharma_mathematics-machinlearning-nlp-activity-6613829767487688704-9RHd/
+
+### Shared by @Muhammad.Ali
+* TENSORFLOW INSTALLATION GUIDE [file](/TF_linux.pdf)
+
+### Shared by @Ezzel
+* Lesson 1: Introduction to AI at the Edge https://docs.google.com/document/d/1HCszvbpIPcwHlBH6uS35-cDAc4fZjxFufqkRVef2WJE/edit
+
+### Shared by @Praful
+* Notes for the course https://github.com/Praful932/Intel-Edge-AI-Foundation-Course
