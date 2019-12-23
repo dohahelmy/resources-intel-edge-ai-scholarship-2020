@@ -239,6 +239,7 @@ the following are resources aims to help students to try challenges and get job 
 * TORCH.ONNX https://pytorch.org/docs/stable/onnx.html
 * A Beginner’s Guide on Recurrent Neural Networks with PyTorch https://blog.floydhub.com/a-beginners-guide-on-recurrent-neural-networks-with-pytorch/
 * Long Short-Term Memory: From Zero to Hero with PyTorch https://blog.floydhub.com/long-short-term-memory-from-zero-to-hero-with-pytorch/
+* Great Resources for learning Python : https://forums.fast.ai/t/recommended-python-learning-resources/26888
 * numpy.reshape https://docs.scipy.org/doc/numpy/reference/generated/numpy.reshape.html
 * 25 Useful Python Snippets to Help in Your Day-to-Day Work **Medium** https://medium.com/better-programming/25-useful-python-snippets-to-help-in-your-day-to-day-work-d59c636ec1b
 
