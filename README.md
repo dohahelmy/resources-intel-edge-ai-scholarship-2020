@@ -53,6 +53,7 @@ the following are resources aims to help students to try challenges and get job 
 * How To Speak by Patrick Winston https://www.youtube.com/watch?v=Unzc731iCUY
 * 370 Free Online Programming & Computer Science Courses You Can Start This Month **Medium** https://link.medium.com/F9xHFHoGB2
 * Jordan Peterson: Why Do Nice Guys Nice Finish Last? (MUST WATCH) https://www.youtube.com/watch?v=di2FM8WZI5E
+* How Machine Learning is Fighting Cancer https://www.youtube.com/watch?v=ALQ_RNSRE40
 ---
 
 ## PROJECTS
@@ -78,7 +79,9 @@ the following are resources aims to help students to try challenges and get job 
     - pytorch pycharm installation (2019) https://www.youtube.com/watch?v=geyFTCBJHy4
 
 * BRAINs for Autonomous Systems https://www.bons.ai/
-
+* DeepInsight https://github.com/CYHSM/DeepInsight
+    - paper: https://www.biorxiv.org/content/10.1101/871848v1.full.pdf
+    - Deepinsight : User-Friendly Deep Learning Tool to Decode Neural Activity in an Automated Way https://www.marktechpost.com/2019/12/20/deepinsight-user-friendly-deep-learning-tool-to-decode-neural-activity-in-an-automated-way/
 
 ---
 ## Math
@@ -152,6 +155,7 @@ the following are resources aims to help students to try challenges and get job 
 * Gesture-Drone with Tello **Project**
     - OpenVINO face detection with Tello https://www.youtube.com/watch?v=I6-YKfPHo_g
 * Introducing OpenVINO™ and Computer Vision | IoT Developer Show Season 2 | Intel Software https://www.youtube.com/watch?v=M6Nyh2JDLQs&feature=youtu.be
+* OpenVINO™ Toolkit and Two Hardware Development Kits | IoT Developer Show Season 2 | Intel Software https://www.youtube.com/watch?v=GtJPBYjuyVU&feature=youtu.be
 * Deep Learning with Intel https://www.youtube.com/watch?v=KuM67WfTXBQ
 * Innovate Deep Learning Inference Using OpenVINO™ toolkit | Intel Software https://www.youtube.com/watch?v=6cPqv02lhLQ
 * Intel - Building Smarter IoT Products with Intel’s Edge AI tech https://www.youtube.com/watch?v=S5h26nj8JYg
@@ -199,6 +203,7 @@ the following are resources aims to help students to try challenges and get job 
 * Python for Computer Vision with OpenCV and Deep Learning https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/
 * LEARN PYTHON 3 THE HARD WAY [book](books/learn-python3-the-hard-way-jul-4-2017.pdf)
 * Argument Parsing in Python https://www.datacamp.com/community/tutorials/argument-parsing-in-python
+
 ### Links/URLs
 * Python: Module 1 | RaspberryPi projects https://projects.raspberrypi.org/en/codeclub/python-module-1
 * NumPy Cheat Sheet — Python for Data Science https://www.dataquest.io/blog/numpy-cheat-sheet/
@@ -235,6 +240,7 @@ the following are resources aims to help students to try challenges and get job 
 
 ### Articles
 ### Books/Papers
+* Free C++ Programming Book https://books.goalkicker.com/CPlusPlusBook/
 ### Course/tutorials
 * C++ For Programmers **By Udacity** https://www.udacity.com/course/c-for-programmers--ud210
 ### Links/URLs
@@ -254,6 +260,7 @@ the following are resources aims to help students to try challenges and get job 
 * 5 MUST READ BLOGS & BLOGGERS ON ARTIFICIAL INTELLIGENCE https://www.artificiallyintelligentclaire.com/bloggers-artificial-intelligence/?utm_medium=social&utm_source=pinterest&utm_campaign=tailwind_smartloop&utm_content=smartloop&utm_term=24705034
 * 75 Insightful Facts About Artificial Intelligence https://valuer.ai/blog/75-facts-about-artificial-intelligence/?amp
 * Secure and Private AI Writing Challenge https://medium.com/secure-and-private-ai-writing-challenge
+* What Is The Artificial Intelligence Of Things? When AI Meets IoT https://www.forbes.com/sites/bernardmarr/2019/12/20/what-is-the-artificial-intelligence-of-things-when-ai-meets-iot
 ### Books/Papers
 * Hands-On Artificial Intelligence for IoT https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-iot
 * AI Crash Course https://www.packtpub.com/data/ai-crash-course
@@ -373,6 +380,7 @@ the following are resources aims to help students to try challenges and get job 
 * Deep Learning for Object Detection: A Comprehensive Review **Medium** https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9
 * A Simple Guide to Semantic Segmentation **Medium** https://medium.com/beyondminds/a-simple-guide-to-semantic-segmentation-effcf83e7e54
 * Review: DeepMask (Instance Segmentation) **Medium** https://towardsdatascience.com/review-deepmask-instance-segmentation-30327a072339
+* What’s the Difference Between Deep Learning Training and Inference? https://blogs.nvidia.com/blog/2016/08/22/difference-deep-learning-training-inference-ai/
 ### Books/Papers
 * Paper notes in deep learning/machine learning and computer vision https://github.com/Hsuxu/Paper-Notes
 * Deep Learning Tutorial [Deep Learning Tutorial](books/Deep Learning Tutorial.pdf)
@@ -438,6 +446,7 @@ the following are resources aims to help students to try challenges and get job 
 * Zero to Hero OpenCV CheatSheet https://github.com/WhatTheFar/opencv-cheatsheet
 * 8 Books for Getting Started With Computer Vision https://machinelearningmastery.com/computer-vision-books/
 * OpenCV-Python Tutorials Documentation https://readthedocs.org/projects/opencv-python-tutroals/downloads/pdf/latest/
+* Computer Vision:  Models, Learning, and Inference http://www.computervisionmodels.com/
 ### Course/tutorials
 * OpenCV Tutorial: A Guide to Learn OpenCV https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
 * Introduction to Computer Vision **By Udacity** https://www.udacity.com/course/introduction-to-computer-vision--ud810
@@ -450,6 +459,7 @@ the following are resources aims to help students to try challenges and get job 
 * CSCI 1430: Introduction to Computer Vision https://cs.brown.edu/courses/csci1430/
 * The Ancient Secrets of Computer Vision https://pjreddie.com/courses/computer-vision/
 * Introduction to Computer Vision with Watson and OpenCV  https://www.coursera.org/learn/introduction-computer-vision-watson-opencv
+* OpenCV Python Tutorial https://www.tutorialkart.com/opencv/python/
 ### Links/URLs
 * Open Source Computer Vision https://docs.opencv.org/4.1.2/
 * Install OpenCV-Python in Ubuntu https://docs.opencv.org/4.1.2/d2/de6/tutorial_py_setup_in_ubuntu.html
@@ -468,6 +478,7 @@ the following are resources aims to help students to try challenges and get job 
 * OpenCV with Python for Image and Video Analysis **Playlist** https://www.youtube.com/playlist?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
 * Sebastian Thrun: Flying Cars, Autonomous Vehicles, and Education | Artificial Intelligence Podcast https://www.youtube.com/watch?v=ZPPAOakITeQ&feature=youtu.be
 * +20 Data Scientist YouTube Channels to follow [file](books/20_Data_Scientist_YouTube_Channels_to_follow.pdf)
+* OpenCV Python Tutorial | Creating Face Detection System And Motion Detector Using OpenCV | Edureka https://www.youtube.com/watch?v=-ZrDjwXZGxI
 
 
 ---
@@ -506,6 +517,7 @@ the following are resources aims to help students to try challenges and get job 
 * Automation Testing with Pytest **Medium** https://medium.com/tenable-techblog/automation-testing-with-pytest-444c8b34ead2
     - Russian language: https://habr.com/ru/company/otus/blog/480186/
 * Image convolution examples http://aishack.in/tutorials/image-convolution-examples/
+* Top 20 Websites for Machine Learning and Data Science in 2020 **Medium** https://medium.com/swlh/top-20-websites-for-machine-learning-and-data-science-d0b113130068
 ### Books/Papers
 * Concepts, Techniques, and Models of Computer Programming **Goodreads** https://www.goodreads.com/book/show/772585.Concepts_Techniques_and_Models_of_Computer_Programming
 * Architecture for IoT applications. **Medium** https://medium.com/techwasti/architecture-for-iot-applications-d50ece031d38
@@ -523,6 +535,7 @@ the following are resources aims to help students to try challenges and get job 
     - Code and dataset:  https://ai.facebook.com/tools/libri-light
     - Full paper: https://arxiv.org/abs/1912.07875
 * MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications https://arxiv.org/pdf/1704.04861.pdf
+* A Beginner's Guide to Convolutional Neural Networks (CNNs) https://pathmind.com/wiki/convolutional-network
 ### Course/tutorials
 * CS231n: Convolutional Neural Networks for Visual Recognition http://cs231n.stanford.edu/
 * Programming Languages Guides and Notes (Python - Pandas - NumPy - Octave/Matlab - C++) https://www.ritchieng.com/programming-languages/
@@ -587,6 +600,7 @@ the following are resources aims to help students to try challenges and get job 
 * Introduction to reinforcement learning **Playlist** https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
 * CS885 Reinforcement Learning - Spring 2018 - University of Waterloo **Playlist** https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc
 * CS671_Topic-12 (PART-C): Single Shot Multi Box Detector (SSD) https://www.youtube.com/watch?v=TbMJaYrVwAw
+* Neural networks **Playlist** https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 
 
 ---

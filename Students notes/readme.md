@@ -68,3 +68,6 @@ The following one-line command will automatically download and extract the docum
 
 ### Shared by @Bishoy Atif
 * Introduction to AI at the edge https://github.com/bishoyAtif/Intel-Edge-Scholarship-Notes/blob/master/Foundation-Course/1.Introduction-to-AI-at-the-edge.md
+
+### Shared by @Bishoy Atif
+* Introduction to AI at the edge https://github.com/bishoyAtif/Intel-Edge-Scholarship-Notes/blob/master/Foundation-Course/1.Introduction-to-AI-at-the-edge.md

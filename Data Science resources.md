@@ -1,6 +1,8 @@
 # Data Science Resources
 
 
+* Convert PyTorch model to ONNX format (blog) https://michhar.github.io/convert-pytorch-onnx/
+
 ### Here's an ultimate data science starter kit:
 1. Foundational Skills
 * Intro to Python
