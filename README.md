@@ -77,7 +77,7 @@ the following are resources aims to help students to try challenges and get job 
 * For Students: Free Professional Developer Tools by JetBrains (PyCharm) https://www.jetbrains.com/student/
     - pytorch pycharm installation (2019) https://www.youtube.com/watch?v=geyFTCBJHy4
 
-
+* BRAINs for Autonomous Systems https://www.bons.ai/
 
 
 ---
@@ -146,6 +146,7 @@ the following are resources aims to help students to try challenges and get job 
     - https://software.intel.com/en-us/system-studio/documentation/get-started
 * OpenVino For SmartCity https://github.com/incluit/OpenVino-For-SmartCity
 * OpenVino Driver Behaviour https://github.com/incluit/OpenVino-Driver-Behaviour
+* Intel® Distribution of OpenVINO™ Toolkit Get started https://software.intel.com/en-us/openvino-toolkit/documentation/get-started
 ### Videos
 * OpenVINO™ toolkit -- English **Playlist** https://www.youtube.com/playlist?list=PLDKCjIU5YH6jMzcTV5_cxX9aPHsborbXQ
 * Gesture-Drone with Tello **Project**
@@ -197,6 +198,7 @@ the following are resources aims to help students to try challenges and get job 
 * CS228 Python Tutorial https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb
 * Python for Computer Vision with OpenCV and Deep Learning https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/
 * LEARN PYTHON 3 THE HARD WAY [book](books/learn-python3-the-hard-way-jul-4-2017.pdf)
+* Argument Parsing in Python https://www.datacamp.com/community/tutorials/argument-parsing-in-python
 ### Links/URLs
 * Python: Module 1 | RaspberryPi projects https://projects.raspberrypi.org/en/codeclub/python-module-1
 * NumPy Cheat Sheet — Python for Data Science https://www.dataquest.io/blog/numpy-cheat-sheet/
@@ -225,6 +227,8 @@ the following are resources aims to help students to try challenges and get job 
 * Python for Everybody - Full Course with Dr. Chuck **13+ hours** https://www.youtube.com/watch?v=8DvywoWv6fI
 * 9- NumPy: Array Transpose https://www.youtube.com/watch?v=Fpbf2PzsiNc
 * Corey Schafer (python tutorials) **Channel** https://www.youtube.com/user/schafer5
+* Python Tutorials for Absolute Beginners by CS Dojo **Playlist** https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg
+* Python for Beginners **Playlist** https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
 
 ---
 ## C++
@@ -300,6 +304,8 @@ the following are resources aims to help students to try challenges and get job 
 * Whole Intuition Behind Machine Learning ?What Exactly It Is ? https://dev.to/deepansharora27/whole-intuition-behind-machine-learning-what-exactly-it-is-ep6
 * The On-Device Machine Learning Behind Recorder https://ai.googleblog.com/2019/12/the-on-device-machine-learning-behind.html
 * Quantum Neural Machine Learning: Theory and Experiments https://www.intechopen.com/books/artificial-intelligence-applications-in-medicine-and-biology/quantum-neural-machine-learning-theory-and-experiments
+* Types of classification algorithms in Machine Learning **Medium** https://medium.com/@Mandysidana/machine-learning-types-of-classification-9497bd4f2e14
+* How to build AutoML from scratch **Medium** https://medium.com/@alxmamaev/how-to-build-automl-from-scratch-ce45a4b51e0f
 ### Books/Papers
 * Papers with code https://paperswithcode.com/
 * Machine Learning for OpenCV 4 - Second Edition https://www.packtpub.com/data/machine-learning-for-opencv-4-second-edition
@@ -312,6 +318,9 @@ the following are resources aims to help students to try challenges and get job 
 * ML books https://drive.google.com/drive/folders/1WurQpLinwQdtiJfclgS39sS5qVXAHJmK
 * An introduction to quantum machine learning https://arxiv.org/pdf/1409.3097.pdf
 * Machine Learning as a Decision Aid for Breast Cancer Diagnosis https://iarjset.com/papers/machine-learning-as-a-decision-aid-for-breast-cancer-diagnosis/
+* Machine Learning For Dummies https://www.wiley.com/en-eg/Machine+Learning+For+Dummies-p-9781119245513
+* The book to start you on Machine Learning **Medium** https://towardsdatascience.com/the-book-to-really-start-you-on-machine-learning-47632059fd0e
+
 ### Course/tutorials
 * * Introduction to Data Analytics by IIT Madras https://nptel.ac.in/courses/110/106/110106064/
 * Machine Learning Crash Course **Google Developers** https://developers.google.com/machine-learning/crash-course
@@ -346,6 +355,7 @@ the following are resources aims to help students to try challenges and get job 
 * Machine Learning LIVE 1 - Learn Python, Numpy, OpenCV, Pandas & Grab Deep Learning T-Shirt **1 hour** https://www.youtube.com/watch?v=irHVXFCOp_4&feature=youtu.be
 * Machine Learning with Python **Playlist** https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
 * CS480/680 Intro to Machine Learning - Spring 2019 - University of Waterloo **Playlist** https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k
+* Large Scale Machine Learning https://www.youtube.com/watch?v=zqMnvgccibs
 
 ---
 ## DL - Deep Learning
@@ -360,6 +370,9 @@ the following are resources aims to help students to try challenges and get job 
 * Intuitively Understanding Convolutions for Deep Learning **Medium** https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1
 * Understanding SSD MultiBox — Real-Time Object Detection In Deep Learning **Medium** https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab
 * Deep Learning breakthrough made by Rice University scientists https://arstechnica.com/gadgets/2019/12/mach-ai-training-linear-cost-exponential-gain/
+* Deep Learning for Object Detection: A Comprehensive Review **Medium** https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9
+* A Simple Guide to Semantic Segmentation **Medium** https://medium.com/beyondminds/a-simple-guide-to-semantic-segmentation-effcf83e7e54
+* Review: DeepMask (Instance Segmentation) **Medium** https://towardsdatascience.com/review-deepmask-instance-segmentation-30327a072339
 ### Books/Papers
 * Paper notes in deep learning/machine learning and computer vision https://github.com/Hsuxu/Paper-Notes
 * Deep Learning Tutorial [Deep Learning Tutorial](books/Deep Learning Tutorial.pdf)
@@ -368,6 +381,8 @@ the following are resources aims to help students to try challenges and get job 
 * Deep Learning (An MIT Press book) https://www.deeplearningbook.org/
 * Building Chatbots with Python https://www.pdfdrive.com/building-chatbots-with-python-using-natural-language-processing-and-machine-learning-e176343000.html
 * Dive into Deep Learning https://d2l.ai/
+* Deep Learning For Dummies https://www.wiley.com/en-us/Deep+Learning+For+Dummies-p-9781119543046
+* New Deep Learning Algorithms beyond Backpropagation IBM Developers UnConference 2018, Zurich https://www.researchgate.net/publication/322617800_New_Deep_Learning_Algorithms_beyond_Backpropagation_IBM_Developers_UnConference_2018_Zurich
 ### Course/tutorials
 * Tutorials, assignments, and competitions for MIT Deep Learning related courses https://github.com/lexfridman/mit-deep-learning
 * From the Data Center to the Edge –An Optimized Path using Intel® Architecture Course https://software.seek.intel.com/DataCenter_to_Edge_REG
@@ -382,6 +397,7 @@ the following are resources aims to help students to try challenges and get job 
 * Deep Learning Specialization **by Coursera** https://www.coursera.org/specializations/deep-learning
 * Practical Deep Learning for Coders, v3 https://course.fast.ai/
 * Introduction to Deep Learning with OpenCV https://www.linkedin.com/learning/introduction-to-deep-learning-with-opencv?trk=share_android_course_learning
+* MIT Deep Learning https://deeplearning.mit.edu/
 ### Links/URLs
 * Deep Learning Glossary by Nvidia [Deep Learning Glossary by Nvidia](books/Deep_Learning_Glossary_by_Nvidia.pdf)
 * Implementation of deep learning framework -- Unet, using Keras https://github.com/zhixuhao/unet
@@ -390,6 +406,9 @@ the following are resources aims to help students to try challenges and get job 
 * Not Enough Data? Deep Learning to the Rescue! https://arxiv.org/abs/1911.03118
 * muliple resources https://docs.google.com/spreadsheets/d/1L2BIzBCOLQA8HxS-Q2ybmIxs9WvDK49nY2WkB6l-OZM/edit
 * Key trends from NeurIPS 2019 https://huyenchip.com/2019/12/18/key-trends-neurips-2019.html
+* A Comprehensive Hands-on Guide to Transfer Learning with Real-World Applications in Deep Learning **Medium** https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a
+    - Transfer learning from pre-trained models **Medium** https://towardsdatascience.com/transfer-learning-from-pre-trained-models-f2393f124751
+* DeepAI  Definitions https://deepai.org/definitions
 ### Videos
 * But what is a Neural Network? | Deep learning, chapter 1 https://www.youtube.com/watch?v=aircAruvnKk&t=2s
 * Lesson 9: Deep Learning Part 2 2018 - Multi-object detection **2 hours** https://www.youtube.com/watch?v=0frKXR-2PBY
@@ -460,18 +479,18 @@ the following are resources aims to help students to try challenges and get job 
 * Applied Natural Language Processing with Python https://www.pdfdrive.com/applied-natural-language-processing-with-python-implementing-machine-learning-and-deep-learning-algorithms-for-natural-language-processing-e176640395.html
 * Natural Language Processing with PyTorch https://www.pdfdrive.com/natural-language-processing-with-pytorch-build-intelligent-language-applications-using-deep-learning-e188037921.html
 * Deep Learning for Natural Language Processing https://www.pdfdrive.com/deep-learning-for-natural-language-processing-e60572453.html
-* Natural Language Processing with Python https://www.pdfdrive.com/natural-language-processing-with-python-e1251452.html
+* Natural Language Processing with Python https://www.pdfdrive.com/natural-language-processing-with-python-e1251452.
+* A Decomposable Attention Model for Natural Language Inference https://arxiv.org/pdf/1606.01933.pdf
 ### Course/tutorials
 * Intel Natural Language Processing course https://software.intel.com/en-us/ai/courses/natural-language-processing
 * Natural Language Processing https://nptel.ac.in/courses/106101007/
-
-
 ### Links/URLs
 * The Illustrated Transformer http://jalammar.github.io/illustrated-transformer/
 * A Visual Guide to Using BERT for the First Time http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
 ### Videos
 * fast.ai Code-First Intro to Natural Language Processing **Playlist** https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9
 * CS224N: Natural Language Processing with Deep Learning | Winter 2019 **Playlist** https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
+* Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 14 – Transformers and Self-Attention https://www.youtube.com/watch?v=5vcj8kSwBCY
 
 
 
@@ -596,3 +615,6 @@ the following are resources aims to help students to try challenges and get job 
 
 * Statistical Distributions
 ![Statistical Distributions](/img/sd.png)
+
+* Computer vision processes difference
+![image](/img/d.png)

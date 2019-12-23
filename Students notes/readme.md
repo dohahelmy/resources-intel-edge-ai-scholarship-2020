@@ -8,6 +8,7 @@ https://medium.com/@manveetdn/lesson-1-introduction-to-ai-at-the-edge-720edf8b60
 https://github.com/nullbyte91/Intel-edge-AI-foundation-udacity/tree/master/notes
 * [Lesson 2 notes](/Mnullbyte91-Lesson-2-Notes.pdf)
 * [Lesson 3 notes](/Mnullbyte91-Lesson-3-Notes.pdf)
+* [Lesson 4 notes](/Mnullbyte91-Lesson-4-Notes.pdf)
 
 
 ### Shared by @JamesDBartlett3
