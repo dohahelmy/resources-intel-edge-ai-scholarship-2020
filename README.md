@@ -20,7 +20,7 @@ Collected resources shared by the community of Intel® Edge AI Foundation course
 https://blog.usejournal.com/real-examples-of-amazing-community-participation-8ebd89b67a34
 * My Experience in Getting an Internship Offer From Google **Medium**
 https://medium.com/@ahmadizzan/my-experience-in-getting-an-internship-offer-from-google-577a4c9fbfd9
-* Introduction to Kaggle for Beginners in Machine Learning and Data Science! **Medium** https://medium.com/datadriveninvestor/introduction-to-kaggle-for-beginners-in-machine-learning-and-data-science-865199d7ead2
+* Getting the Udacity Scholarships: The Breakthrough https://mc.ai/getting-the-udacity-scholarships-the-breakthrough/
 
 ## OPPORTUNITIES
 the following are resources aims to help students to try challenges and get job Opportunities
@@ -46,6 +46,10 @@ the following are resources aims to help students to try challenges and get job 
 * EDGE AI SUMMIT https://www.edgeaisummit.com/events/edge-ai-summit
 * Machine Learning Competitions in 2020 https://saqibns.github.io/2019/12/15/list-of-ML-competitions-2020.html
 * The ecosystem event for AI hardware acceleration in Europe https://aihardwaresummiteu.com/events/ai-hardware-summit-europe
+* ML Contests https://github.com/mlcontests/mlcontests.github.io
+* AI Conference Deadlines https://aideadlin.es/
+* Internshala is India's no.1 internship and training platform https://internshala.com/
+* Introduction to Deep Learning http://introtodeeplearning.com/#overview
 
 
 ### General Articles/videos
@@ -54,6 +58,9 @@ the following are resources aims to help students to try challenges and get job 
 * 370 Free Online Programming & Computer Science Courses You Can Start This Month **Medium** https://link.medium.com/F9xHFHoGB2
 * Jordan Peterson: Why Do Nice Guys Nice Finish Last? (MUST WATCH) https://www.youtube.com/watch?v=di2FM8WZI5E
 * How Machine Learning is Fighting Cancer https://www.youtube.com/watch?v=ALQ_RNSRE40
+* 30 Influential Women Advancing AI in 2019 https://blog.re-work.co/top-women-in-ai-2019/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=email&utm_source=Artificial_Intelligence_Weekly_139
+* Machine Learning: Living in the Age of AI | A WIRED Film https://www.youtube.com/watch?v=ZJixNvx9BAc&feature=youtu.be
+* sentdex **Channel** https://www.youtube.com/user/sentdex
 ---
 
 ## PROJECTS
@@ -64,6 +71,7 @@ the following are resources aims to help students to try challenges and get job 
 * Beer bottle following robot https://www.youtube.com/watch?v=Y5V331kbSvY
 * The Linux foundation projects https://www.edgexfoundry.org/
 * face Recognition https://www.linkedin.com/posts/activity-6613382641766977536-wSCJ/
+* Step by Step: Build Your Custom Real-Time Object Detector **Medium** https://towardsdatascience.com/detailed-tutorial-build-your-custom-real-time-object-detector-5ade1017fd2d
 ---
 
 
@@ -82,6 +90,9 @@ the following are resources aims to help students to try challenges and get job 
 * DeepInsight https://github.com/CYHSM/DeepInsight
     - paper: https://www.biorxiv.org/content/10.1101/871848v1.full.pdf
     - Deepinsight : User-Friendly Deep Learning Tool to Decode Neural Activity in an Automated Way https://www.marktechpost.com/2019/12/20/deepinsight-user-friendly-deep-learning-tool-to-decode-neural-activity-in-an-automated-way/
+* 10 Python image manipulation tools. **Medium** https://link.medium.com/nhuNGJtTD2
+
+
 
 ---
 ## Math
@@ -93,6 +104,7 @@ the following are resources aims to help students to try challenges and get job 
 * Mathematics for machine learning https://mml-book.github.io/book/mml-book.pdf
 * Probability Cheatsheet[Probability Cheatsheet](books/probability_cheatsheet.pdf)
 * Statistics Cheatsheet[Statistics Cheatsheet](books/Statistics_cheat_sheet.pdf)
+* A beginners guide to the mathematics of neural network.[book](books/math_neural_networks.pdf)
 ### Course/tutorials
 * Mathematics for Machine Learning Specialization https://www.coursera.org/specializations/mathematics-machine-learning
 ### Links/URLs
@@ -107,6 +119,8 @@ the following are resources aims to help students to try challenges and get job 
 * Multivariable calculus **Playlist** https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7
 * StatQuest with Josh Starmer **Channel** https://www.youtube.com/user/joshstarmer
 * Statistics Course for Data Science | Statistics Course for Data Analytics | MarinStatsLectures **Playlist** https://www.youtube.com/playlist?list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa
+* Bayes theorem, and making probability intuitive https://www.youtube.com/watch?v=HZGCoVF3YvM
+
 
 
 ---
@@ -131,6 +145,7 @@ the following are resources aims to help students to try challenges and get job 
 * Go to Market with the Intel® Distribution of OpenVINO™ Toolkit https://software.intel.com/en-us/iot/training/openvino-toolkit
 * vehicle-license-plate-detection-barrier-0106 https://docs.openvinotoolkit.org/latest/_models_intel_vehicle_license_plate_detection_barrier_0106_description_vehicle_license_plate_detection_barrier_0106.html
 * AI Courses https://software.intel.com/en-us/ai/courses
+* Computer Vision with the Intel® Distribution of OpenVINO™ Toolkit https://software.intel.com/es-es/iot/computer-vision-with-open-vino-toolkit
 
 ### Links/URLs
 * OpenVINO toolkit https://software.intel.com/en-us/openvino-toolkit
@@ -150,6 +165,7 @@ the following are resources aims to help students to try challenges and get job 
 * OpenVino For SmartCity https://github.com/incluit/OpenVino-For-SmartCity
 * OpenVino Driver Behaviour https://github.com/incluit/OpenVino-Driver-Behaviour
 * Intel® Distribution of OpenVINO™ Toolkit Get started https://software.intel.com/en-us/openvino-toolkit/documentation/get-started
+* Deep Learning For Computer Vision https://software.intel.com/en-us/openvino-toolkit/deep-learning-cv
 ### Videos
 * OpenVINO™ toolkit -- English **Playlist** https://www.youtube.com/playlist?list=PLDKCjIU5YH6jMzcTV5_cxX9aPHsborbXQ
 * Gesture-Drone with Tello **Project**
@@ -175,6 +191,8 @@ the following are resources aims to help students to try challenges and get job 
 * Must learn python libraries to start Deep Learning: opencv2 **Medium** https://medium.com/@atrisaxena2/must-learn-python-libraries-to-start-deep-learning-opencv2-58b1764c5ed
 * Introduction to TensorFlow 2.0 **Medium** https://medium.com/@divanshujoshi.aiesec/introduction-to-tensorflow-2-0-ccba1d0a3586/
 * Tutorial on Sentimental Analysis using Pytorch **Medium** https://link.medium.com/QedX8vKmC2
+* How to analyse 100 GB of data on your laptop with Python **Medium** https://towardsdatascience.com/how-to-analyse-100s-of-gbs-of-data-on-your-laptop-with-python-f83363dda94
+
 ### Books/Papers
 * A Python Book: Beginning Python, Advanced Python, and Python Exercises https://www.davekuhlman.org/python_book_01.pdf
 * Multiple materials https://drive.google.com/drive/folders/163vDpcslt5KvcYAkCjD_yFOoGNk-xRIv
@@ -222,6 +240,8 @@ the following are resources aims to help students to try challenges and get job 
 * A Beginner’s Guide on Recurrent Neural Networks with PyTorch https://blog.floydhub.com/a-beginners-guide-on-recurrent-neural-networks-with-pytorch/
 * Long Short-Term Memory: From Zero to Hero with PyTorch https://blog.floydhub.com/long-short-term-memory-from-zero-to-hero-with-pytorch/
 * numpy.reshape https://docs.scipy.org/doc/numpy/reference/generated/numpy.reshape.html
+* 25 Useful Python Snippets to Help in Your Day-to-Day Work **Medium** https://medium.com/better-programming/25-useful-python-snippets-to-help-in-your-day-to-day-work-d59c636ec1b
+* Recommended Python learning resources https://forums.fast.ai/t/recommended-python-learning-resources/26888
 ### Videos
 * Python 3.4 Programming Tutorials **Playlist** https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
 * Python Tutorial for Beginners [Full Course] Learn Python for Web Development **6+ hours** https://www.youtube.com/watch?v=_uQrJ0TkZlc
@@ -272,6 +292,8 @@ the following are resources aims to help students to try challenges and get job 
 * Artificial Intelligence - A Modern Approach [book](books/Artificial_Intelligence-A_Modern_Approach.pdf)
 * On the Measure of Intelligence https://arxiv.org/abs/1911.01547
 * AI for All: How AI is Transforming Every Industry (Series 1) https://www.amazon.in/dp/B082S4D1N7/ref=cm_sw_r_other_apa_i_WoB-DbEXR65FH
+* Hands-On Artificial Intelligence for IoT https://books.google.com.bd/books?id=CmSGDwAAQBAJ&pg=PA7#v=onepage&q&f=false
+
 ### Course/tutorials
 * Introduction to AI for non-experts https://www.elementsofai.com/
 * Multi Layer Neural Networks Python Implementation https://learnai1.home.blog/2019/12/18/multi-layer-neural-networks-python-implementation/
@@ -281,6 +303,8 @@ the following are resources aims to help students to try challenges and get job 
 * AI For Everyone **Coursera** https://www.coursera.org/learn/ai-for-everyone
 * 7 Free Online Courses To Learn AI and Machine Learning http://nextotech.com/7-free-online-courses-to-learn-ai-and-ml/
 * Python: Artificial Intelligence with Python: 3-in-1 https://www.udemy.com/course/python-artificial-intelligence-with-python-3-in-1/
+* AI Foundations for Everyone Specialization https://www.coursera.org/specializations/ai-foundations-for-everyone
+* AI For Everyone https://www.deeplearning.ai/ai-for-everyone/
 ### Links/URLs
 * Processing AI at the Edge – Use-Cases and AI Hardware Considerations https://emerj.com/ai-podcast-interviews/processing-ai-edge/
 * Artificial Intelligence https://learnai1.home.blog/
@@ -297,6 +321,8 @@ the following are resources aims to help students to try challenges and get job 
 * Michael Stevens: Vsauce | Artificial Intelligence (AI) Podcast https://www.youtube.com/watch?v=3qMemn__kK8
 * Artificial Intelligence Podcast **Playlist** https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
 * Artificial Intelligence Full Course | Artificial Intelligence Tutorial for Beginners | Edureka **4+ hours** https://www.youtube.com/watch?v=JMUxmLyrhSk
+* Artificial Intelligence Tutorial | Artificial Intelligence Course | Intellipaat **5+ hours** https://www.youtube.com/watch?v=W7N6LPp0SmY&feature=youtu.be
+* AI Show https://channel9.msdn.com/Shows/AI-Show
 
 ---
 ## ML - Machine Learning
@@ -313,6 +339,7 @@ the following are resources aims to help students to try challenges and get job 
 * Quantum Neural Machine Learning: Theory and Experiments https://www.intechopen.com/books/artificial-intelligence-applications-in-medicine-and-biology/quantum-neural-machine-learning-theory-and-experiments
 * Types of classification algorithms in Machine Learning **Medium** https://medium.com/@Mandysidana/machine-learning-types-of-classification-9497bd4f2e14
 * How to build AutoML from scratch **Medium** https://medium.com/@alxmamaev/how-to-build-automl-from-scratch-ce45a4b51e0f
+* Bias in Machine Learning: How Facial Recognition Models Show Signs of Racism, Sexism and Ageism **Medium** https://towardsdatascience.com/bias-in-machine-learning-how-facial-recognition-models-show-signs-of-racism-sexism-and-ageism-32549e2c972d
 ### Books/Papers
 * Papers with code https://paperswithcode.com/
 * Machine Learning for OpenCV 4 - Second Edition https://www.packtpub.com/data/machine-learning-for-opencv-4-second-edition
@@ -339,6 +366,7 @@ the following are resources aims to help students to try challenges and get job 
 * Intel Machine Learning course https://software.intel.com/en-us/ai/courses/machine-learning
 * Open Machine Learning Course **Medium** https://link.medium.com/FOJo11mbQX
 * Applied Machine Learning Course https://www.appliedaicourse.com/
+* Introduction to Machine Learning Course **by Udacity** https://www.udacity.com/course/intro-to-machine-learning--ud120
 ### Links/URLs
 * Machine Learning From Scratch https://github.com/eriklindernoren/ML-From-Scratch
 * Intuitive Machine Learning for Engineers https://modeldepot.io/
@@ -353,6 +381,8 @@ the following are resources aims to help students to try challenges and get job 
 * Machine Learning Model Optimization **Medium** https://heartbeat.fritz.ai/machine-learning-model-optimization-9fbcfd9f6990
 * multiple resources https://docs.google.com/spreadsheets/d/1dRvYLS43YQprim-EPGRjpCPWefk_y3-N9se6Y0v3mf8/edit#gid=0
 * TPOT is a Python Automated Machine Learning tool https://epistasislab.github.io/tpot/
+* Machine Learning Questions https://ztlevi.github.io/Gitbook_Machine_Learning_Questions/
+* 100-Days-Of-ML-Code https://github.com/Avik-Jain/100-Days-Of-ML-Code
 ### Videos
 * Machine Learning - CS50 Podcast, Ep. 6 https://www.youtube.com/watch?v=mEdIQbOL8dY
 * Machine Learning **Playlist** https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA
@@ -381,6 +411,7 @@ the following are resources aims to help students to try challenges and get job 
 * A Simple Guide to Semantic Segmentation **Medium** https://medium.com/beyondminds/a-simple-guide-to-semantic-segmentation-effcf83e7e54
 * Review: DeepMask (Instance Segmentation) **Medium** https://towardsdatascience.com/review-deepmask-instance-segmentation-30327a072339
 * What’s the Difference Between Deep Learning Training and Inference? https://blogs.nvidia.com/blog/2016/08/22/difference-deep-learning-training-inference-ai/
+* Top 5 Deep Learning Frameworks, their Applications, and Comparisons https://www.analyticsvidhya.com/blog/2019/03/deep-learning-frameworks-comparison/
 ### Books/Papers
 * Paper notes in deep learning/machine learning and computer vision https://github.com/Hsuxu/Paper-Notes
 * Deep Learning Tutorial [Deep Learning Tutorial](books/Deep Learning Tutorial.pdf)
@@ -417,13 +448,15 @@ the following are resources aims to help students to try challenges and get job 
 * A Comprehensive Hands-on Guide to Transfer Learning with Real-World Applications in Deep Learning **Medium** https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a
     - Transfer learning from pre-trained models **Medium** https://towardsdatascience.com/transfer-learning-from-pre-trained-models-f2393f124751
 * DeepAI  Definitions https://deepai.org/definitions
+* Notes from Coursera Deep Learning courses by Andrew Ng https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng
 ### Videos
 * But what is a Neural Network? | Deep learning, chapter 1 https://www.youtube.com/watch?v=aircAruvnKk&t=2s
 * Lesson 9: Deep Learning Part 2 2018 - Multi-object detection **2 hours** https://www.youtube.com/watch?v=0frKXR-2PBY
 * DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
 * Deep learning and Raspberry Pi - Koichi Nakamura || Day One || Raspberry Fields 2018 https://www.youtube.com/watch?v=10RyDvTj4hc
 * CS230: Deep Learning | Autumn 2018 **Playlist** https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
-
+* Jeff Heaton **Channel** https://www.youtube.com/channel/UCR1-GEpyOPzT2AO4D_eifdw
+* Machine Learning & Deep Learning Specialization with Python, Scikit-Learn and TensforFlow **Playlist** https://www.youtube.com/playlist?list=PLFhNzVKP1pVrNU8cTL_t-8YzPLF8i8PaS
 
 ---
 ## CV - Computer Vision
@@ -460,6 +493,8 @@ the following are resources aims to help students to try challenges and get job 
 * The Ancient Secrets of Computer Vision https://pjreddie.com/courses/computer-vision/
 * Introduction to Computer Vision with Watson and OpenCV  https://www.coursera.org/learn/introduction-computer-vision-watson-opencv
 * OpenCV Python Tutorial https://www.tutorialkart.com/opencv/python/
+* OpenCV with Python Intro and loading Images tutorial https://pythonprogramming.net/loading-images-python-opencv-tutorial/
+* Become a Computer Vision Expert **by Udacity** https://www.udacity.com/course/computer-vision-nanodegree--nd891
 ### Links/URLs
 * Open Source Computer Vision https://docs.opencv.org/4.1.2/
 * Install OpenCV-Python in Ubuntu https://docs.opencv.org/4.1.2/d2/de6/tutorial_py_setup_in_ubuntu.html
@@ -469,6 +504,7 @@ the following are resources aims to help students to try challenges and get job 
 * A Gentle Introduction to Computer Vision https://machinelearningmastery.com/what-is-computer-vision/
 * Chapter 7: Image Processing https://quizlet.com/252140712/chapter-7-image-processing-flash-cards/
 * OpenCV (Official website)  https://opencv.org/
+* Awesome Computer Vision https://github.com/jbhuang0604/awesome-computer-vision#readme
 ### Videos
 * How Computer Vision Works https://www.youtube.com/watch?v=OcycT1Jwsns
 * Jetson Nano: Vision Recognition Neural Network Demo https://www.youtube.com/watch?v=k5pXXmTkPNM
@@ -498,6 +534,8 @@ the following are resources aims to help students to try challenges and get job 
 ### Links/URLs
 * The Illustrated Transformer http://jalammar.github.io/illustrated-transformer/
 * A Visual Guide to Using BERT for the First Time http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
+* A Deep Dive into NLP with PyTorch https://github.com/scoutbee/pytorch-nlp-notebooks
+    - slides: https://docs.google.com/presentation/d/1zyuwCx7knqnP-LJswlDfWSmk5FhFgFmYJGqdEZn8yhc/edit#slide=id.g33c734b530_0_656
 ### Videos
 * fast.ai Code-First Intro to Natural Language Processing **Playlist** https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9
 * CS224N: Natural Language Processing with Deep Learning | Winter 2019 **Playlist** https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
@@ -518,6 +556,8 @@ the following are resources aims to help students to try challenges and get job 
     - Russian language: https://habr.com/ru/company/otus/blog/480186/
 * Image convolution examples http://aishack.in/tutorials/image-convolution-examples/
 * Top 20 Websites for Machine Learning and Data Science in 2020 **Medium** https://medium.com/swlh/top-20-websites-for-machine-learning-and-data-science-d0b113130068
+* Use Kaggle to start (and guide) your ML/ Data Science journey — Why and How **Medium** https://towardsdatascience.com/use-kaggle-to-start-and-guide-your-ml-data-science-journey-f09154baba35
+
 ### Books/Papers
 * Concepts, Techniques, and Models of Computer Programming **Goodreads** https://www.goodreads.com/book/show/772585.Concepts_Techniques_and_Models_of_Computer_Programming
 * Architecture for IoT applications. **Medium** https://medium.com/techwasti/architecture-for-iot-applications-d50ece031d38
@@ -579,6 +619,10 @@ the following are resources aims to help students to try challenges and get job 
 * How To Install the Anaconda Python Distribution on Ubuntu 18.04 https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-18-04
 * Mininet: Rapid Prototyping for Software Defined Networks https://github.com/aswinvk28/mininet
     - MININET TOPOLOGY SETUP https://github.com/aswinvk28/snmp-mininet
+* A Computer Science portal for geeks http://www.geeksforgeeks.org/
+* Practical_RL https://github.com/yandexdataschool/practical_rl
+* An introduction to Raspberry Pi 4 GPIO and controlling it with Node.js **Medium** https://itnext.io/an-introduction-to-raspberry-pi-4-gpio-and-controlling-it-with-node-js-10f2ce41af12
+* Introduction to Kaggle for Beginners in Machine Learning and Data Science! **Medium** https://medium.com/datadriveninvestor/introduction-to-kaggle-for-beginners-in-machine-learning-and-data-science-865199d7ead2
 ### Videos
 * NEURAL NETWORKS! - CS50 Live, EP. 53 (pre-release) **2+ hours** https://www.youtube.com/watch?v=hQhPogn1dpM
 * Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017) https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
@@ -601,6 +645,8 @@ the following are resources aims to help students to try challenges and get job 
 * CS885 Reinforcement Learning - Spring 2018 - University of Waterloo **Playlist** https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc
 * CS671_Topic-12 (PART-C): Single Shot Multi Box Detector (SSD) https://www.youtube.com/watch?v=TbMJaYrVwAw
 * Neural networks **Playlist** https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+* Orange Data Mining **Channel** https://www.youtube.com/channel/UClKKWBe2SCAEyv7ZNGhIe4g/videos
+    - Download: https://orange.biolab.si/
 
 
 ---
