@@ -1,6 +1,14 @@
 # Others [RESOURCES]
 ### *Intel-Edge-AI-Foundation-course*
 
+##Categories:
+* [Articles](#Articles)
+* [Books / Papers](#Books/Papers)
+* [Course / tutorials](#Course/tutorials)
+* [Links / URLs](#Links/URLs)
+* [Videos](#Videos)
+---
+
 ## Articles
 * 37 Important Linux Commands You Should Know https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/
 * SSD object detection: Single Shot MultiBox Detector for real-time processing **Medium** https://medium.com/@jonathan_hui/ssd-object-detection-single-shot-multibox-detector-for-real-time-processing-9bd8deac0e06

@@ -1,6 +1,13 @@
 # ML - Machine Learning [RESOURCES]
 ### *Intel-Edge-AI-Foundation-course*
 
+##Categories:
+* [Articles](#Articles)
+* [Books / Papers](#Books/Papers)
+* [Course / tutorials](#Course/tutorials)
+* [Links / URLs](#Links/URLs)
+* [Videos](#Videos)
+---
 
 ## Articles
 * Tensorflow Lite- machine learning at the edge!! **Medium** https://medium.com/techwasti/tensorflow-lite-machine-learning-at-the-edge-26e8421ae661

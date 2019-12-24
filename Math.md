@@ -1,6 +1,14 @@
 # Mathematics [RESOURCES]
 ### *Intel-Edge-AI-Foundation-course*
 
+##Categories:
+* [Articles](#Articles)
+* [Books / Papers](#Books/Papers)
+* [Course / tutorials](#Course/tutorials)
+* [Links / URLs](#Links/URLs)
+* [Videos](#Videos)
+---
+
 ## Articles
 * Demystifying the math and implementation of Convolutions: Part I. https://praisethemoon.org/demystifying-the-math-and-implementation-of-convolutions-part-i/
 * Mathematics for Data Science https://towardsdatascience.com/mathematics-for-data-science-e53939ee8306?gi=9af3c9aa4682

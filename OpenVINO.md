@@ -1,6 +1,13 @@
 # OpenVINO & Intel [RESOURCES]
 ### *Intel-Edge-AI-Foundation-course*
 
+##Categories:
+* [Articles](#Articles)
+* [Books / Papers](#Books/Papers)
+* [Course / tutorials](#Course/tutorials)
+* [Links / URLs](#Links/URLs)
+* [Videos](#Videos)
+---
 
 ## Articles
 * Introduction to OpenVINO **Medium** https://towardsdatascience.com/introduction-to-openvino-897e705a1f0a

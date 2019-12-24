@@ -1,6 +1,13 @@
 # DL - Deep Learning [RESOURCES]
 ### *Intel-Edge-AI-Foundation-course*
 
+##Categories:
+* [Articles](#Articles)
+* [Books / Papers](#Books/Papers)
+* [Course / tutorials](#Course/tutorials)
+* [Links / URLs](#Links/URLs)
+* [Videos](#Videos)
+---
 
 ## Articles
 * Getting started with reading Deep Learning Research papers: The Why and the How **Medium** https://towardsdatascience.com/getting-started-with-reading-deep-learning-research-papers-the-why-and-the-how-dfd1ac15dbc0
