@@ -1,7 +1,7 @@
 # [RESOURCES] Intel-Edge-AI-Foundation-course
 Collected resources shared by the community of Intel® Edge AI Foundation course
 
-*last update: to prevent overwhelming a little, each item from content is now in a separated file containing all its related resources under categories*
+***Last update:** to prevent overwhelming a little, each item from content is now in a separated file containing all its related resources under categories*
 *Files are accessed by clicking on the item included table of content or by browsing directory*
 
 ### Table of Content:
