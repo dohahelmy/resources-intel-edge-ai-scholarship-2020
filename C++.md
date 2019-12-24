@@ -3,9 +3,9 @@
 
 ##Categories:
 * [Articles](#Articles)
-* [Books / Papers](#Books/Papers)
-* [Course / tutorials](#Course/tutorials)
-* [Links / URLs](#Links/URLs)
+* [Books / Papers](#BooksPapers)
+* [Course / tutorials](#Coursetutorials)
+* [Links / URLs](#LinksURLs)
 * [Videos](#Videos)
 
 ## Articles
