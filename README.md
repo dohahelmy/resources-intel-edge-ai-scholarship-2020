@@ -1,17 +1,21 @@
 # [RESOURCES] Intel-Edge-AI-Foundation-course
 Collected resources shared by the community of Intel® Edge AI Foundation course
 
+*last update: to prevent overwhelming a little, each item from content is now in a separated file containing all its related resources under categories*
+*Files are accessed by clicking on the item included table of content or by browsing directory*
+
 ### Table of Content:
-* Math
-* OpenVINO
-* Python
-* C++
-* AI - Artificial Intelligence
-* ML - Machine Learning
-* DL - Deep Learning
-* CV - Computer Vision
-* NLP - Natural Language Processing
-* Others
+* AI - Artificial Intelligence [link](/Artificial_Intelligence.md)
+* C++ [link](/C++.md)
+* CV - Computer Vision [link](/Computer_Vision.md)
+* Data Science [link](/Data_Science.md)
+* DL - Deep Learning [link](/Deep_Learning.md)
+* ML - Machine Learning [link](/Machine_Learning.md)
+* Math [link](/Math.md)
+* NLP - Natural Language Processing [link](/Natural_language_processing.md)
+* OpenVINO & Intel [link](/OpenVINO.md)
+* Others [link](/Others.md)
+* Python [link](/Python.md)
 ---
 
 ## Must read Articles
