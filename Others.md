@@ -39,6 +39,8 @@
     - Full paper: https://arxiv.org/abs/1912.07875
 * MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications https://arxiv.org/pdf/1704.04861.pdf
 * A Beginner's Guide to Convolutional Neural Networks (CNNs) https://pathmind.com/wiki/convolutional-network
+* CAUSALITY http://bayes.cs.ucla.edu/BOOK-2K/index.html
+* Wi-Fi 6 and Private LTE/5G Technology and Business Models in Industrial IoT [file](books/iot-5g-wp.pdf)
 
 ## Course/tutorials
 * CS231n: Convolutional Neural Networks for Visual Recognition http://cs231n.stanford.edu/
@@ -47,6 +49,9 @@
 * A Tutorial on Data Representation https://www3.ntu.edu.sg/home/ehchua/programming/java/datarepresentation.html
 * Image Filtering http://machinelearninguru.com/computer_vision/basics/convolution/image_convolution_1.html
 * Edge Analytics: IoT and Data Science https://www.linkedin.com/learning/edge-analytics-iot-and-data-science?trk=share_android_course_learning
+* Version Control with Git https://www.udacity.com/course/version-control-with-git--ud123
+* Building Arduino robots and devices https://www.coursera.org/learn/arduino
+* Enroll Now Free: An Intro to the Internet of Things https://www.netacad.com/virtual/Intro-to-iot-f?utm_source=facebook&utm_medium=link_ad&utm_campaign=eng_netacad_intro_iot
 
 ## Links/URLs
 * Shell scripting https://explainshell.com/
@@ -88,6 +93,9 @@
 * Practical_RL https://github.com/yandexdataschool/practical_rl
 * An introduction to Raspberry Pi 4 GPIO and controlling it with Node.js **Medium** https://itnext.io/an-introduction-to-raspberry-pi-4-gpio-and-controlling-it-with-node-js-10f2ce41af12
 * Introduction to Kaggle for Beginners in Machine Learning and Data Science! **Medium** https://medium.com/datadriveninvestor/introduction-to-kaggle-for-beginners-in-machine-learning-and-data-science-865199d7ead2
+* A guide to Edge IoT analytics https://www.ibm.com/blogs/internet-of-things/edge-iot-analytics/
+* Five components of IoT edge devices https://www.cisco.com/c/en/us/solutions/internet-of-things/iot-edge-devices.html
+* Free Code Camp https://www.freecodecamp.org/
 
 ## Videos
 * NEURAL NETWORKS! - CS50 Live, EP. 53 (pre-release) **2+ hours** https://www.youtube.com/watch?v=hQhPogn1dpM

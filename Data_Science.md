@@ -2,6 +2,12 @@
 
 
 * Convert PyTorch model to ONNX format (blog) https://michhar.github.io/convert-pytorch-onnx/
+* Top 100 Data science interview questions http://nitin-panwar.github.io/Top-100-Data-science-interview-questions/?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com
+* Data Science Cheatsheets https://github.com/abhat222/Data-Science--Cheat-Sheet
+* Practical Debugging for Data Science **Medium** https://towardsdatascience.com/practical-debugging-for-data-science-fd744c21f332
+
+
+* Amazon books https://www.amazon.com/s?rh=n%3A6361574011%2Cp_36%3A0-0%2Cp_20%3AEnglish&s=review-rank&lo=image&utm_medium=ios_app&utm_name=iossmf&utm_source=share
 
 
 ### Here's an ultimate data science starter kit:

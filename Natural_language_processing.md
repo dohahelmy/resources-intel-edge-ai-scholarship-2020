@@ -10,6 +10,7 @@
 ---
 
 ## Articles
+* A list of beginner-friendly NLP projects—using pre-trained models **Medium** https://towardsdatascience.com/a-list-of-beginner-friendly-nlp-projects-using-pre-trained-models-dc4768b4bec0
 
 ## Books/Papers
 * Papers and Book to look at when starting NLP https://github.com/newhiwoong/NLP-Papers
@@ -28,6 +29,7 @@
 * A Visual Guide to Using BERT for the First Time http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
 * A Deep Dive into NLP with PyTorch https://github.com/scoutbee/pytorch-nlp-notebooks
     - slides: https://docs.google.com/presentation/d/1zyuwCx7knqnP-LJswlDfWSmk5FhFgFmYJGqdEZn8yhc/edit#slide=id.g33c734b530_0_656
+* TOP NLP RESEARCH PAPERS WITH BUSINESS APPLICATIONS FROM ACL 2019 https://www.topbots.com/ai-nlp-research-papers-acl2019/
 
 ## Videos
 * fast.ai Code-First Intro to Natural Language Processing **Playlist** https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9

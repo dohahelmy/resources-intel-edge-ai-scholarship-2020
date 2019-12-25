@@ -29,6 +29,11 @@
 * 8 Books for Getting Started With Computer Vision https://machinelearningmastery.com/computer-vision-books/
 * OpenCV-Python Tutorials Documentation https://readthedocs.org/projects/opencv-python-tutroals/downloads/pdf/latest/
 * Computer Vision:  Models, Learning, and Inference http://www.computervisionmodels.com/
+* Practical Computer Vision Applications Using Deep Learning with CNNs: With Detailed Examples https://www.pdfdrive.com/practical-computer-vision-applications-using-deep-learning-with-cnns-with-detailed-examples-in-python-using-tensorflow-and-kivy-e185770768.html
+* Computer and Machine Vision: Theory, Algorithms, Practicalities https://www.pdfdrive.com/computer-and-machine-vision-theory-algorithms-practicalities-e31294228.html
+* Joint Face Super-Resolution and Deblurring Using a Generative Adversarial Network https://www.profillic.com/paper/arxiv:1912.10427?fbclid=IwAR1FxRu9rIS5JZjULTNTKcKkn0tnBGf4ndyk0rKZthavvoWJN_kXWS1x_WI
+* Advanced Topics in Computer Vision http://www.allitebooks.in/advanced-topics-in-computer-vision/
+* Pro Processing for Images and Computer Vision with OpenCV http://www.allitebooks.in/pro-processing-images-computer-vision-opencv/
 
 ## Course/tutorials
 * OpenCV Tutorial: A Guide to Learn OpenCV https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
@@ -56,6 +61,8 @@
 * Chapter 7: Image Processing https://quizlet.com/252140712/chapter-7-image-processing-flash-cards/
 * OpenCV (Official website)  https://opencv.org/
 * Awesome Computer Vision https://github.com/jbhuang0604/awesome-computer-vision#readme
+* Building a Raspberry Pi security camera with OpenCV https://www.pyimagesearch.com/2019/03/25/building-a-raspberry-pi-security-camera-with-opencv/
+* Computer Vision for tracking https://towardsdatascience.com/computer-vision-for-tracking-8220759eee85
 
 ## Videos
 * How Computer Vision Works https://www.youtube.com/watch?v=OcycT1Jwsns

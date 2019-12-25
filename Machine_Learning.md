@@ -22,6 +22,7 @@
 * Types of classification algorithms in Machine Learning **Medium** https://medium.com/@Mandysidana/machine-learning-types-of-classification-9497bd4f2e14
 * How to build AutoML from scratch **Medium** https://medium.com/@alxmamaev/how-to-build-automl-from-scratch-ce45a4b51e0f
 * Bias in Machine Learning: How Facial Recognition Models Show Signs of Racism, Sexism and Ageism **Medium** https://towardsdatascience.com/bias-in-machine-learning-how-facial-recognition-models-show-signs-of-racism-sexism-and-ageism-32549e2c972d
+* Why Data Normalization is necessary for Machine Learning models **Medium** https://medium.com/@urvashilluniya/why-data-normalization-is-necessary-for-machine-learning-models-681b65a05029
 
 ## Books/Papers
 * Papers with code https://paperswithcode.com/
@@ -37,6 +38,8 @@
 * Machine Learning as a Decision Aid for Breast Cancer Diagnosis https://iarjset.com/papers/machine-learning-as-a-decision-aid-for-breast-cancer-diagnosis/
 * Machine Learning For Dummies https://www.wiley.com/en-eg/Machine+Learning+For+Dummies-p-9781119245513
 * The book to start you on Machine Learning **Medium** https://towardsdatascience.com/the-book-to-really-start-you-on-machine-learning-47632059fd0e
+* Data Science and Machine Learning Posts 2019 [file](books/Data_Science_and_Machine_Learning_Posts_2019.pdf)
+* Hands-On Machine Learning with Scikit-Learn and TensorFlow https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/
 
 ## Course/tutorials
 * * Introduction to Data Analytics by IIT Madras https://nptel.ac.in/courses/110/106/110106064/
@@ -67,6 +70,10 @@
 * TPOT is a Python Automated Machine Learning tool https://epistasislab.github.io/tpot/
 * Machine Learning Questions https://ztlevi.github.io/Gitbook_Machine_Learning_Questions/
 * 100-Days-Of-ML-Code https://github.com/Avik-Jain/100-Days-Of-ML-Code
+* Machine Learning for Everyone https://vas3k.com/blog/machine_learning/
+* Top 40 Machine Learning Blogs & Websites To Follow in 2019 https://blog.feedspot.com/machine_learning_blogs/
+* Normalization https://developers.google.com/machine-learning/data-prep/transform/normalization
+* How to Learn Machine Learning https://elitedatascience.com/learn-machine-learning
 
 ## Videos
 * Machine Learning - CS50 Podcast, Ep. 6 https://www.youtube.com/watch?v=mEdIQbOL8dY
@@ -78,3 +85,4 @@
 * Machine Learning with Python **Playlist** https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
 * CS480/680 Intro to Machine Learning - Spring 2019 - University of Waterloo **Playlist** https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k
 * Large Scale Machine Learning https://www.youtube.com/watch?v=zqMnvgccibs
+* Normalizing Inputs (C2W1L09) https://www.youtube.com/watch?v=FDCfw-YqWTE&feature=youtu.be
