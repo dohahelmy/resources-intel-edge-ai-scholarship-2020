@@ -37,6 +37,7 @@
 * Machine Learning as a Decision Aid for Breast Cancer Diagnosis https://iarjset.com/papers/machine-learning-as-a-decision-aid-for-breast-cancer-diagnosis/
 * Machine Learning For Dummies https://www.wiley.com/en-eg/Machine+Learning+For+Dummies-p-9781119245513
 * The book to start you on Machine Learning **Medium** https://towardsdatascience.com/the-book-to-really-start-you-on-machine-learning-47632059fd0e
+* Latest papers on machine learning https://arxiv.org/list/cs.LG/recent
 
 ## Course/tutorials
 * * Introduction to Data Analytics by IIT Madras https://nptel.ac.in/courses/110/106/110106064/

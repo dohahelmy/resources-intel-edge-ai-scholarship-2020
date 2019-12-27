@@ -1,7 +1,7 @@
 # [RESOURCES] Intel-Edge-AI-Foundation-course
 Collected resources shared by the community of Intel® Edge AI Foundation course
 
-***Last update:** to prevent overwhelming a little, each item from content is now in a separated file containing all its related resources under categories*
+* **Last update:** to prevent overwhelming a little, each item from content is now in a separated file containing all its related resources under categories*
 *Files are accessed by clicking on the item included table of content or by browsing directory*
 
 ### Table of Content:
@@ -65,6 +65,7 @@ the following are resources aims to help students to try challenges and get job 
 * 30 Influential Women Advancing AI in 2019 https://blog.re-work.co/top-women-in-ai-2019/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=email&utm_source=Artificial_Intelligence_Weekly_139
 * Machine Learning: Living in the Age of AI | A WIRED Film https://www.youtube.com/watch?v=ZJixNvx9BAc&feature=youtu.be
 * sentdex **Channel** https://www.youtube.com/user/sentdex
+* Ep. 25: Google's Ian Goodfellow on How an Argument in a Bar Led to Generative Adversarial Networks https://soundcloud.com/theaipodcast/what-are-generative-adversarial-networks-ian-goodfellow-explains
 ---
 
 ## PROJECTS

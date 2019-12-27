@@ -88,6 +88,7 @@
 * Practical_RL https://github.com/yandexdataschool/practical_rl
 * An introduction to Raspberry Pi 4 GPIO and controlling it with Node.js **Medium** https://itnext.io/an-introduction-to-raspberry-pi-4-gpio-and-controlling-it-with-node-js-10f2ce41af12
 * Introduction to Kaggle for Beginners in Machine Learning and Data Science! **Medium** https://medium.com/datadriveninvestor/introduction-to-kaggle-for-beginners-in-machine-learning-and-data-science-865199d7ead2
+* Pytorch Scholarship resources https://airtable.com/shrwVC7gPOuTJkxW0/tblUf4zxlIMLjwrbv?blocks=hide
 
 ## Videos
 * NEURAL NETWORKS! - CS50 Live, EP. 53 (pre-release) **2+ hours** https://www.youtube.com/watch?v=hQhPogn1dpM

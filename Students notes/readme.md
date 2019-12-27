@@ -71,3 +71,6 @@ The following one-line command will automatically download and extract the docum
 
 ### Shared by @Muhammad Zubair Islam
 * Introduction to AI at the edge [file](/notes_Introduction_of_A.I_in_the_Edge.pdf)
+
+### Shared by @Dina AbdelRahman
+* Edge AI [file](/Edge_AI_L1_L2.xlsx)

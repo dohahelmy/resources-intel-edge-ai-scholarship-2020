@@ -22,6 +22,7 @@
 ## Course/tutorials
 * Intel Natural Language Processing course https://software.intel.com/en-us/ai/courses/natural-language-processing
 * Natural Language Processing https://nptel.ac.in/courses/106101007/
+* A Code-First Introduction to Natural Language Processing https://www.fast.ai/2019/07/08/fastai-nlp/
 
 ## Links/URLs
 * The Illustrated Transformer http://jalammar.github.io/illustrated-transformer/
