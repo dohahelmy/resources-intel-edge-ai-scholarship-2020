@@ -74,6 +74,8 @@
 * Deep Learning for Vision Systems http://www.computervisionbook.com/?fbclid=IwAR3op1e43UGm-v79lDuuyBj7-4RZUeu0FsGnzhKfx8ctKzPa1ZjEeo3fj_c
 * Understanding object detection in deep learning https://blogs.sas.com/content/subconsciousmusings/2018/11/19/understanding-object-detection-in-deep-learning/
 * Deep Reinforcement Learning http://rail.eecs.berkeley.edu/deeprlcourse/?fbclid=IwAR1POtXDvgU1d8TGPwroaSaGLCuUvjnFaD_dgZ6g6xMryMSwy8DBHJ7eOmY
+* Review of Deep Learning Algorithms for Image Semantic Segmentation **Medium** https://medium.com/@arthur_ouaknine/review-of-deep-learning-algorithms-for-image-semantic-segmentation-509a600f7b57
+
 
 
 ## Videos

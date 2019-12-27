@@ -46,6 +46,8 @@
 * CAUSALITY http://bayes.cs.ucla.edu/BOOK-2K/index.html
 * Wi-Fi 6 and Private LTE/5G Technology and Business Models in Industrial IoT [file](books/iot-5g-wp.pdf)
 * KNN Algorithm Simulation Based on Quantum Information [file](books/KNNAlgorithmSimulationBasedonQuantumInformation.pdf)
+* [The Evolution of Imitation and Mirror Neurons in Adaptive Agents](emn_borens_cogsysres_r.pdf)
+
 
 ## Course/tutorials
 * CS231n: Convolutional Neural Networks for Visual Recognition http://cs231n.stanford.edu/
@@ -59,6 +61,7 @@
 * Enroll Now Free: An Intro to the Internet of Things https://www.netacad.com/virtual/Intro-to-iot-f?utm_source=facebook&utm_medium=link_ad&utm_campaign=eng_netacad_intro_iot
 * Linux Command Line Basics https://www.udacity.com/course/linux-command-line-basics--ud595
 * Shell Workshop https://www.udacity.com/course/shell-workshop--ud206
+* Catalog | Next XYZ (ML - DL - Python - ... etc) https://next.tech/xyz/catalog
 
 ## Links/URLs
 * Shell scripting https://explainshell.com/
@@ -106,9 +109,12 @@
 * Pytorch Scholarship resources https://airtable.com/shrwVC7gPOuTJkxW0/tblUf4zxlIMLjwrbv?blocks=hide
 * Install Ubuntu desktop | Ubuntu tutorials https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#0
 * CS231n Convolutional Neural Networks for Visual Recognition http://cs231n.github.io/convolutional-networks/
+    - https://cs231n.github.io/
 * Tableau (111 Tutorials) https://lnkd.in/fFs4tVT
 * SQL Tutorials (34 Tutorials) https://lnkd.in/fm5_Exn
 * Downloading Datasets into Google Drive via Google Colab **Medium**  https://towardsdatascience.com/downloading-datasets-into-google-drive-via-google-colab-bcb1b30b0166
+* Create a blog using Jekyll and GitHub pages with Docker https://yamatokataoka.github.io/create-a-blog-using-jekyll-and-github-pages-with-docker/
+* Optimization Model https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/optimization-model
 
 ## Videos
 * NEURAL NETWORKS! - CS50 Live, EP. 53 (pre-release) **2+ hours** https://www.youtube.com/watch?v=hQhPogn1dpM

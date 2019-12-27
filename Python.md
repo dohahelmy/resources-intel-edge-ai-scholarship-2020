@@ -54,6 +54,8 @@
 * LEARN PYTHON 3 THE HARD WAY [book](books/learn-python3-the-hard-way-jul-4-2017.pdf)
 * Argument Parsing in Python https://www.datacamp.com/community/tutorials/argument-parsing-in-python
 * Get Started with PyTorch – Learn How to Build Quick & Accurate Neural Networks (with 4 Case Studies!) https://www.analyticsvidhya.com/blog/2019/01/guide-pytorch-neural-networks-case-studies/
+* Count Number of Cars in Less Than 10 Lines of Code Using Python **Medium** https://towardsdatascience.com/count-number-of-cars-in-less-than-10-lines-of-code-using-python-40208b173554
+
 
 ## Links/URLs
 * Python: Module 1 | RaspberryPi projects https://projects.raspberrypi.org/en/codeclub/python-module-1
@@ -78,6 +80,7 @@
 * Recommended Python learning resources https://forums.fast.ai/t/recommended-python-learning-resources/26888
 * Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas https://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/?fbclid=IwAR14x0E9qxIFMeZPU6WAP52A6pFiTi_0zn6yoY7cRX94OSMIaGbqWUUCNOU
 * Python (168 Tutorials) https://lnkd.in/fV_pcaJ
+* HEATMAP https://python-graph-gallery.com/heatmap/
 
 ## Videos
 * Python 3.4 Programming Tutorials **Playlist** https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_

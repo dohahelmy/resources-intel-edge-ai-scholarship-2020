@@ -82,3 +82,14 @@ The following one-line command will automatically download and extract the docum
 
 ### Shared by @Bhadresh Savani
 * Machine Learning on Edge https://github.com/bhadreshpsavani/MachineLearningOnEdge/blob/master/readme.md
+
+### Shared by @Numan Saeed
+* OpenCV
+![img](/img/numan_openCV.jpg)
+
+* DNN Module
+![img](/img/numan_dnn.jpg)
+
+
+### Shared by @AIT ALI YAHIA Rayane
+* Fundamentals of the edge resume [file](resume_AI_at_the_Edge.pdf)

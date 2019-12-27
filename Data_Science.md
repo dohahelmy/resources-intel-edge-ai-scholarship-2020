@@ -85,3 +85,6 @@ END. Last one should have some pick n mix:
 * Know data science use case on Marketing https://lnkd.in/fUDGAQW
 * Know data science use case on Retail https://lnkd.in/fihPTJf
 * Hadoop Tutorial (277 Tutorials) https://lnkd.in/fGufcQm
+
+
+* DATA MINING: Practical Machine Learning Tools and Techniques https://www.cs.waikato.ac.nz/ml/weka/book.html

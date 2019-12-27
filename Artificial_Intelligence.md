@@ -23,6 +23,7 @@
 * From cloud to the edge: On-device artificial intelligence boosts performance https://www.technologyreview.com/s/613527/from-cloud-to-the-edge-on-device-artificial-intelligence-boosts-performance/
 * Edge AI for techies, updated December 11, 2019 https://www.imagimob.com/blog/edge-ai-for-techies
 * Why is edge AI important? https://www.experfy.com/blog/why-is-edge-ai-important
+* Why video games and board games aren’t a good measure of AI intelligence https://www.theverge.com/2019/12/19/21029605/artificial-intelligence-ai-progress-measurement-benchmarks-interview-francois-chollet-google
 
 ## Books/Papers
 * Hands-On Artificial Intelligence for IoT https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-iot

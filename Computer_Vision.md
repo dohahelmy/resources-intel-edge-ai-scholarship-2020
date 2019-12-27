@@ -18,6 +18,7 @@
 * Computer Vision — An Introduction **Medium** https://towardsdatascience.com/computer-vision-an-introduction-bbc81743a2f7
 * The Most Intuitive and Easiest Guide for Convolutional Neural Network https://towardsdatascience.com/the-most-intuitive-and-easiest-guide-for-convolutional-neural-network-3607be47480
 * Computer Vision by Andrew Ng — 11 Lessons Learned **Medium** https://link.medium.com/42kNdcdgB2
+* Machine vision that sees things more the way we do is easier for us to understand https://www.technologyreview.com/f/614870/ai-machine-vision-interpretable/
 
 ## Books/Papers
 * Computer Vision Foundations and Applications  http://vision.stanford.edu/teaching/cs131_fall1718/files/cs131-class-notes.pdf
@@ -35,6 +36,7 @@
 * Advanced Topics in Computer Vision http://www.allitebooks.in/advanced-topics-in-computer-vision/
 * Pro Processing for Images and Computer Vision with OpenCV http://www.allitebooks.in/pro-processing-images-computer-vision-opencv/
 * 10 CUTTING-EDGE RESEARCH PAPERS IN COMPUTER VISION FROM 2019 https://www.topbots.com/top-ai-vision-research-papers-2019/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_136
+* Table of Contents – Raspberry Pi for Computer Vision https://www.pyimagesearch.com/2019/04/05/table-of-contents-raspberry-pi-for-computer-vision/
 
 ## Course/tutorials
 * OpenCV Tutorial: A Guide to Learn OpenCV https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
