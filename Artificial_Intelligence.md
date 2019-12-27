@@ -20,6 +20,7 @@
 * 75 Insightful Facts About Artificial Intelligence https://valuer.ai/blog/75-facts-about-artificial-intelligence/?amp
 * Secure and Private AI Writing Challenge https://medium.com/secure-and-private-ai-writing-challenge
 * What Is The Artificial Intelligence Of Things? When AI Meets IoT https://www.forbes.com/sites/bernardmarr/2019/12/20/what-is-the-artificial-intelligence-of-things-when-ai-meets-iot
+* From cloud to the edge: On-device artificial intelligence boosts performance https://www.technologyreview.com/s/613527/from-cloud-to-the-edge-on-device-artificial-intelligence-boosts-performance/
 
 ## Books/Papers
 * Hands-On Artificial Intelligence for IoT https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-iot
@@ -55,6 +56,8 @@
 * How to Learn AI Programming from Scratch https://howtocreateapps.com/learn-ai-programming/
 * Benchmarking Edge Computing https://link.medium.com/FSz0IWNwz2
 * Artificial Intelligence Without Tears https://rubikscode.net/
+* Some Use cases for AI on the Edge https://www.st.com/content/st_com/en/about/innovation---technology/image-analytics.html
+* Hot Chips 31 Live Blogs: Habana's Approach to AI Scaling https://www.anandtech.com/show/14760/hot-chips-31-live-blogs-habanas-approach-to-ai-scaling
 
 ## Videos
 * What is Artificial Intelligence? In 5 minutes https://www.youtube.com/watch?v=2ePf9rue1Ao
@@ -65,3 +68,6 @@
 * Artificial Intelligence Full Course | Artificial Intelligence Tutorial for Beginners | Edureka **4+ hours** https://www.youtube.com/watch?v=JMUxmLyrhSk
 * Artificial Intelligence Tutorial | Artificial Intelligence Course | Intellipaat **5+ hours** https://www.youtube.com/watch?v=W7N6LPp0SmY&feature=youtu.be
 * AI Show https://channel9.msdn.com/Shows/AI-Show
+* AI debate https://www.facebook.com/MontrealAI/videos/498403850881660/
+    - pre-readings https://t.co/byvhZtpflT?amp=1
+* This Canadian Genius Created Modern AI https://www.youtube.com/watch?v=l9RWTMNnvi4&feature=youtu.be

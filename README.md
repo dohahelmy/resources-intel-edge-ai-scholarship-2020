@@ -24,12 +24,14 @@ https://blog.usejournal.com/real-examples-of-amazing-community-participation-8eb
 * My Experience in Getting an Internship Offer From Google **Medium**
 https://medium.com/@ahmadizzan/my-experience-in-getting-an-internship-offer-from-google-577a4c9fbfd9
 * Getting the Udacity Scholarships: The Breakthrough https://mc.ai/getting-the-udacity-scholarships-the-breakthrough/
+* Udacity Scholarships Challenge Phase: How to “Ace” the Community Participation Selection Criterion **Medium** https://blog.usejournal.com/ace-the-community-participation-selection-criterion-c4b1e0e7156e
+* How I got into Google!! **Medium** https://medium.com/@gourav.mittal/how-i-got-into-google-a7d92f581951
 ---
 
 ## OPPORTUNITIES
 the following are resources aims to help students to try challenges and get job Opportunities
 * Deepfake Detection Challenge https://www.kaggle.com/c/deepfake-detection-challenge
-* Take our skill-based assessment and get a job in AI https://workera.ai/candidates/
+* Take our skill-based assessment and get a job in AI https://www.workera.ai/candidates/
 
 **Are you looking for a REFERENCE job in Data Science/Machine Learning/Deep Learning?**
 * ML Fresher | Accentur India Private Limited - https://lnkd.in/f_ppiRS
@@ -95,6 +97,7 @@ the following are resources aims to help students to try challenges and get job 
     - paper: https://www.biorxiv.org/content/10.1101/871848v1.full.pdf
     - Deepinsight : User-Friendly Deep Learning Tool to Decode Neural Activity in an Automated Way https://www.marktechpost.com/2019/12/20/deepinsight-user-friendly-deep-learning-tool-to-decode-neural-activity-in-an-automated-way/
 * 10 Python image manipulation tools. **Medium** https://link.medium.com/nhuNGJtTD2
+* The clear way to share complex information. https://coggle.it/recommend/5e012691ae8ae25f09ebdcde
 ---
 
 ## INFOGRAPHICS
@@ -124,3 +127,6 @@ the following are resources aims to help students to try challenges and get job 
 
 * Computer vision processes difference
 ![image](/img/d.png)
+
+* AI Mindmap
+![image](/img/AI_mindmap.png)

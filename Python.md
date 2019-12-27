@@ -30,6 +30,9 @@
 * OpenCV 4.x Cheat Sheet [cv2cheatsheet](books/cv2cheatsheet.pdf)
 * Python cheatsheet [Python_cheatsheet](books/Python_cheatsheet.pdf)
 * Python For Data Science Cheat Sheet (Python Basics) [file](books/PythonForDataScience.pdf)
+* Python Notes For Professionals https://books.goalkicker.com/PythonBook/PythonNotesForProfessionals.pdf
+* Python Programming for Hackers and Reverse Engineers [books](books/Python_Programming_for_Hackers_and_Reverse_Engineers.pdf)
+* TensorFlow Tutorial [file](books/tensorflow_tutorial.pdf)
 
 ## Course/tutorials
 * WorldQuant University's Introduction to Data Science Module https://wqu.org/programs/data-science
@@ -70,6 +73,7 @@
 * numpy.reshape https://docs.scipy.org/doc/numpy/reference/generated/numpy.reshape.html
 * 25 Useful Python Snippets to Help in Your Day-to-Day Work **Medium** https://medium.com/better-programming/25-useful-python-snippets-to-help-in-your-day-to-day-work-d59c636ec1b
 * Recommended Python learning resources https://forums.fast.ai/t/recommended-python-learning-resources/26888
+* Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas https://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/?fbclid=IwAR14x0E9qxIFMeZPU6WAP52A6pFiTi_0zn6yoY7cRX94OSMIaGbqWUUCNOU
 
 ## Videos
 * Python 3.4 Programming Tutorials **Playlist** https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_

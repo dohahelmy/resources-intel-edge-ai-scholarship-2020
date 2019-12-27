@@ -51,6 +51,7 @@
 * Practical Deep Learning for Coders, v3 https://course.fast.ai/
 * Introduction to Deep Learning with OpenCV https://www.linkedin.com/learning/introduction-to-deep-learning-with-opencv?trk=share_android_course_learning
 * MIT Deep Learning https://deeplearning.mit.edu/
+* Dive into Deep Learning with 15 free online courses https://www.freecodecamp.org/news/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0/
 
 ## Links/URLs
 * Deep Learning Glossary by Nvidia [Deep Learning Glossary by Nvidia](books/Deep_Learning_Glossary_by_Nvidia.pdf)
@@ -64,6 +65,7 @@
     - Transfer learning from pre-trained models **Medium** https://towardsdatascience.com/transfer-learning-from-pre-trained-models-f2393f124751
 * DeepAI  Definitions https://deepai.org/definitions
 * Notes from Coursera Deep Learning courses by Andrew Ng https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng
+* Deep Learning for Vision Systems http://www.computervisionbook.com/?fbclid=IwAR3op1e43UGm-v79lDuuyBj7-4RZUeu0FsGnzhKfx8ctKzPa1ZjEeo3fj_c
 
 ## Videos
 * But what is a Neural Network? | Deep learning, chapter 1 https://www.youtube.com/watch?v=aircAruvnKk&t=2s
@@ -73,3 +75,4 @@
 * CS230: Deep Learning | Autumn 2018 **Playlist** https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
 * Jeff Heaton **Channel** https://www.youtube.com/channel/UCR1-GEpyOPzT2AO4D_eifdw
 * Machine Learning & Deep Learning Specialization with Python, Scikit-Learn and TensforFlow **Playlist** https://www.youtube.com/playlist?list=PLFhNzVKP1pVrNU8cTL_t-8YzPLF8i8PaS
+* Heroes of Deep Learning: Andrew Ng interviews Geoffrey Hinton https://www.youtube.com/watch?v=-eyhCTvrEtE&feature=youtu.be
