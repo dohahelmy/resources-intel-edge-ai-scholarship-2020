@@ -22,6 +22,7 @@
 * Use Kaggle to start (and guide) your ML/ Data Science journey — Why and How **Medium** https://towardsdatascience.com/use-kaggle-to-start-and-guide-your-ml-data-science-journey-f09154baba35
 * The Benefits and Potential of Edge Computing https://www.vxchnge.com/blog/the-5-best-benefits-of-edge-computing
 * 2020 Predictions For AI, DL, And ML https://www.forbes.com/sites/evansparks/2019/12/19/2020-predictions-for-ai-dl-and-ml/
+* Generative Adversarial Networks (GANs) for Beginners: Generating Images of Distracted Drivers **Medium** https://towardsdatascience.com/generative-adversarial-networks-gans-for-beginners-82f26753335e
 
 
 ## Books/Papers
@@ -56,6 +57,8 @@
 * Version Control with Git https://www.udacity.com/course/version-control-with-git--ud123
 * Building Arduino robots and devices https://www.coursera.org/learn/arduino
 * Enroll Now Free: An Intro to the Internet of Things https://www.netacad.com/virtual/Intro-to-iot-f?utm_source=facebook&utm_medium=link_ad&utm_campaign=eng_netacad_intro_iot
+* Linux Command Line Basics https://www.udacity.com/course/linux-command-line-basics--ud595
+* Shell Workshop https://www.udacity.com/course/shell-workshop--ud206
 
 ## Links/URLs
 * Shell scripting https://explainshell.com/
@@ -103,6 +106,9 @@
 * Pytorch Scholarship resources https://airtable.com/shrwVC7gPOuTJkxW0/tblUf4zxlIMLjwrbv?blocks=hide
 * Install Ubuntu desktop | Ubuntu tutorials https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#0
 * CS231n Convolutional Neural Networks for Visual Recognition http://cs231n.github.io/convolutional-networks/
+* Tableau (111 Tutorials) https://lnkd.in/fFs4tVT
+* SQL Tutorials (34 Tutorials) https://lnkd.in/fm5_Exn
+* Downloading Datasets into Google Drive via Google Colab **Medium**  https://towardsdatascience.com/downloading-datasets-into-google-drive-via-google-colab-bcb1b30b0166
 
 ## Videos
 * NEURAL NETWORKS! - CS50 Live, EP. 53 (pre-release) **2+ hours** https://www.youtube.com/watch?v=hQhPogn1dpM
@@ -129,3 +135,4 @@
 * Orange Data Mining **Channel** https://www.youtube.com/channel/UClKKWBe2SCAEyv7ZNGhIe4g/videos
     - Download: https://orange.biolab.si/
 * Artificial Curiosity https://www.youtube.com/watch?v=aom4RMOHezc&list=PL2-dafEMk2A663T80wzbIE4YDldoTaLDH
+* Neuroscience vs Philosophy | Full Debate | Margaret Boden, Barry Smith, Steven Rose, Roger Bolton https://www.youtube.com/watch?v=x_ypquYcNl4

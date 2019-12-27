@@ -34,6 +34,7 @@
 * Joint Face Super-Resolution and Deblurring Using a Generative Adversarial Network https://www.profillic.com/paper/arxiv:1912.10427?fbclid=IwAR1FxRu9rIS5JZjULTNTKcKkn0tnBGf4ndyk0rKZthavvoWJN_kXWS1x_WI
 * Advanced Topics in Computer Vision http://www.allitebooks.in/advanced-topics-in-computer-vision/
 * Pro Processing for Images and Computer Vision with OpenCV http://www.allitebooks.in/pro-processing-images-computer-vision-opencv/
+* 10 CUTTING-EDGE RESEARCH PAPERS IN COMPUTER VISION FROM 2019 https://www.topbots.com/top-ai-vision-research-papers-2019/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_136
 
 ## Course/tutorials
 * OpenCV Tutorial: A Guide to Learn OpenCV https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
@@ -65,6 +66,7 @@
 * Building a Raspberry Pi security camera with OpenCV https://www.pyimagesearch.com/2019/03/25/building-a-raspberry-pi-security-camera-with-opencv/
 * Computer Vision for tracking https://towardsdatascience.com/computer-vision-for-tracking-8220759eee85
 * semantic segmentation https://thegradient.pub/semantic-segmentation/
+* Data Visualization Tutorial https://lnkd.in/fYUCzgC
 
 ## Videos
 * How Computer Vision Works https://www.youtube.com/watch?v=OcycT1Jwsns

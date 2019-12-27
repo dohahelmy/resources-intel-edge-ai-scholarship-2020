@@ -18,6 +18,8 @@
 * Introduction to TensorFlow 2.0 **Medium** https://medium.com/@divanshujoshi.aiesec/introduction-to-tensorflow-2-0-ccba1d0a3586/
 * Tutorial on Sentimental Analysis using Pytorch **Medium** https://link.medium.com/QedX8vKmC2
 * How to analyse 100 GB of data on your laptop with Python **Medium** https://towardsdatascience.com/how-to-analyse-100s-of-gbs-of-data-on-your-laptop-with-python-f83363dda94
+* 5 Python features I wish I had known earlier **Medium** https://towardsdatascience.com/5-python-features-i-wish-i-had-known-earlier-bc16e4a13bf4
+
 
 ## Books/Papers
 * A Python Book: Beginning Python, Advanced Python, and Python Exercises https://www.davekuhlman.org/python_book_01.pdf
@@ -75,6 +77,7 @@
 * 25 Useful Python Snippets to Help in Your Day-to-Day Work **Medium** https://medium.com/better-programming/25-useful-python-snippets-to-help-in-your-day-to-day-work-d59c636ec1b
 * Recommended Python learning resources https://forums.fast.ai/t/recommended-python-learning-resources/26888
 * Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas https://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/?fbclid=IwAR14x0E9qxIFMeZPU6WAP52A6pFiTi_0zn6yoY7cRX94OSMIaGbqWUUCNOU
+* Python (168 Tutorials) https://lnkd.in/fV_pcaJ
 
 ## Videos
 * Python 3.4 Programming Tutorials **Playlist** https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_

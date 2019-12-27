@@ -19,6 +19,8 @@
 * How to run Keras model inference x3 times faster with CPU and Intel OpenVINO https://www.dlology.com/blog/how-to-run-keras-model-inference-x3-times-faster-with-cpu-and-intel-openvino-1/
 * INTEL AND MICROSOFT ADVANCE EDGE TO CLOUD INFERENCE FOR AI https://blogs.intel.com/iot/2019/08/21/intel-and-microsoft-advance-edge-to-cloud-inference-for-ai/
 
+
+
 ## Books/Papers
 * OpenVINO™ toolkit Documentation http://docs.openvinotoolkit.org/latest/
 
@@ -30,6 +32,7 @@
 * vehicle-license-plate-detection-barrier-0106 https://docs.openvinotoolkit.org/latest/_models_intel_vehicle_license_plate_detection_barrier_0106_description_vehicle_license_plate_detection_barrier_0106.html
 * AI Courses https://software.intel.com/en-us/ai/courses
 * Computer Vision with the Intel® Distribution of OpenVINO™ Toolkit https://software.intel.com/es-es/iot/computer-vision-with-open-vino-toolkit
+* Object recognition with Intel® Distribution of OpenVINO™ toolkit **Medium** https://medium.com/intel-software-innovators/object-recognition-with-intel-distribution-of-openvino-toolkit-475647574fb7
 
 ## Links/URLs
 * OpenVINO toolkit https://software.intel.com/en-us/openvino-toolkit
@@ -54,6 +57,8 @@
 * Model Optimizer Developer Guide https://docs.openvinotoolkit.org/latest/_docs_MO_DG_Deep_Learning_Model_Optimizer_DevGuide.html
 * Getting Started With Intel DevCloud **Medium** https://medium.com/intel-student-ambassadors/getting-started-with-intel-devcloud-78b2b9297acf
 * Getting Started with Intel AI Devcloud **Medium** https://medium.com/intel-student-ambassadors/getting-started-with-intel-ai-devcloud-348a88b29eb9
+* Model Optimization Techniques https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_Model_Optimization_Techniques.html
+* OpenVINO™ Toolkit https://intel.github.io/robot_devkit_doc/pages/vino.html
 
 
 ## Videos
@@ -68,3 +73,4 @@
 * AI Developer Webinar Series https://software.seek.intel.com/AIWebinarSeries-ondemand?elqTrackId=eb6def130b704974a33333813f546917&elq=00000000000000000000000000000000&elqaid=25374&elqat=2&elqCampaignId=
 * (37) OpenVINO™ toolkit - RaspberryPI + Movidius NCS  https://www.youtube.com/watch?v=PNmH_ugW6Zw
 * (01) OpenVINO™ toolkit - What is OpenVINO? https://www.youtube.com/watch?v=kY9nZbX1DWM
+* Intel Webinar: Accelerate Deep Learning Inference using OpenVINO Toolkit https://www.youtube.com/watch?v=FOgg9_zCC9g&feature=youtu.be

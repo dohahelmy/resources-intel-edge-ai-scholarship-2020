@@ -24,6 +24,7 @@
 * Review: DeepMask (Instance Segmentation) **Medium** https://towardsdatascience.com/review-deepmask-instance-segmentation-30327a072339
 * What’s the Difference Between Deep Learning Training and Inference? https://blogs.nvidia.com/blog/2016/08/22/difference-deep-learning-training-inference-ai/
 * Top 5 Deep Learning Frameworks, their Applications, and Comparisons https://www.analyticsvidhya.com/blog/2019/03/deep-learning-frameworks-comparison/
+* 10 Deep Learning Best Practices to Keep in Mind in 2020 https://nanonets.com/blog/10-best-practices-deep-learning/
 
 ## Books/Papers
 * Paper notes in deep learning/machine learning and computer vision https://github.com/Hsuxu/Paper-Notes
@@ -35,6 +36,7 @@
 * Dive into Deep Learning https://d2l.ai/
 * Deep Learning For Dummies https://www.wiley.com/en-us/Deep+Learning+For+Dummies-p-9781119543046
 * New Deep Learning Algorithms beyond Backpropagation IBM Developers UnConference 2018, Zurich https://www.researchgate.net/publication/322617800_New_Deep_Learning_Algorithms_beyond_Backpropagation_IBM_Developers_UnConference_2018_Zurich
+* The Deep Learning Revolution and Its Implications  for Computer Architecture and Chip Design [file](books/DL_Computer_Architecture_and_Chip_Design.pdf)
 
 ## Course/tutorials
 * Tutorials, assignments, and competitions for MIT Deep Learning related courses https://github.com/lexfridman/mit-deep-learning
@@ -53,6 +55,9 @@
 * MIT Deep Learning https://deeplearning.mit.edu/
 * Dive into Deep Learning with 15 free online courses https://www.freecodecamp.org/news/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0/
 * Build your First Crowd Counting Model using Deep Learning & CSRTech https://www.analyticsvidhya.com/blog/2019/02/building-crowd-counting-model-python/
+* Introduction to Deep Learning http://introtodeeplearning.com/#overview
+    - http://introtodeeplearning.com/2019/index.html
+* Deep Learning for coders http://course18.fast.ai/index.html
 
 ## Links/URLs
 * Deep Learning Glossary by Nvidia [Deep Learning Glossary by Nvidia](books/Deep_Learning_Glossary_by_Nvidia.pdf)
@@ -68,6 +73,8 @@
 * Notes from Coursera Deep Learning courses by Andrew Ng https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng
 * Deep Learning for Vision Systems http://www.computervisionbook.com/?fbclid=IwAR3op1e43UGm-v79lDuuyBj7-4RZUeu0FsGnzhKfx8ctKzPa1ZjEeo3fj_c
 * Understanding object detection in deep learning https://blogs.sas.com/content/subconsciousmusings/2018/11/19/understanding-object-detection-in-deep-learning/
+* Deep Reinforcement Learning http://rail.eecs.berkeley.edu/deeprlcourse/?fbclid=IwAR1POtXDvgU1d8TGPwroaSaGLCuUvjnFaD_dgZ6g6xMryMSwy8DBHJ7eOmY
+
 
 ## Videos
 * But what is a Neural Network? | Deep learning, chapter 1 https://www.youtube.com/watch?v=aircAruvnKk&t=2s
@@ -78,3 +85,4 @@
 * Jeff Heaton **Channel** https://www.youtube.com/channel/UCR1-GEpyOPzT2AO4D_eifdw
 * Machine Learning & Deep Learning Specialization with Python, Scikit-Learn and TensforFlow **Playlist** https://www.youtube.com/playlist?list=PLFhNzVKP1pVrNU8cTL_t-8YzPLF8i8PaS
 * Heroes of Deep Learning: Andrew Ng interviews Geoffrey Hinton https://www.youtube.com/watch?v=-eyhCTvrEtE&feature=youtu.be
+* Yoshua Bengio | From System 1 Deep Learning to System 2 Deep Learning | NeurIPS 2019 https://www.youtube.com/watch?v=FtUbMG3rlFs&feature=youtu.be

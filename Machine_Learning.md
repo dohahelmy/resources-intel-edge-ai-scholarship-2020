@@ -23,6 +23,7 @@
 * How to build AutoML from scratch **Medium** https://medium.com/@alxmamaev/how-to-build-automl-from-scratch-ce45a4b51e0f
 * Bias in Machine Learning: How Facial Recognition Models Show Signs of Racism, Sexism and Ageism **Medium** https://towardsdatascience.com/bias-in-machine-learning-how-facial-recognition-models-show-signs-of-racism-sexism-and-ageism-32549e2c972d
 * Why Data Normalization is necessary for Machine Learning models **Medium** https://medium.com/@urvashilluniya/why-data-normalization-is-necessary-for-machine-learning-models-681b65a05029
+* Finally, machine learning interprets gene regulation clearly https://m.phys.org/news/2019-12-machine-gene.html
 
 ## Books/Papers
 * Papers with code https://paperswithcode.com/
@@ -77,6 +78,13 @@
 * Top 40 Machine Learning Blogs & Websites To Follow in 2019 https://blog.feedspot.com/machine_learning_blogs/
 * Normalization https://developers.google.com/machine-learning/data-prep/transform/normalization
 * How to Learn Machine Learning https://elitedatascience.com/learn-machine-learning
+* Generative adversarial network https://en.wikipedia.org/wiki/Generative_adversarial_network
+* Generative Adversarial Networks Explained with a Classic Spongebob Squarepants Episode **Medium** https://medium.com/@awjuliani/generative-adversarial-networks-explained-with-a-classic-spongebob-squarepants-episode-54deab2fce39
+* Machine Learning (44 Tuturials) https://lnkd.in/fsNmKmj
+* ML simplified (Terminology) https://lnkd.in/fCihY9W
+* Machine Learning for Problem Solving https://lnkd.in/f5aUbBM
+* Machine learning edge devices: benchmark report https://tryolabs.com/blog/machine-learning-on-edge-devices-benchmark-report/
+* Core ML Models https://developer.apple.com/machine-learning/models/
 
 ## Videos
 * Machine Learning - CS50 Podcast, Ep. 6 https://www.youtube.com/watch?v=mEdIQbOL8dY
@@ -89,3 +97,4 @@
 * CS480/680 Intro to Machine Learning - Spring 2019 - University of Waterloo **Playlist** https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k
 * Large Scale Machine Learning https://www.youtube.com/watch?v=zqMnvgccibs
 * Normalizing Inputs (C2W1L09) https://www.youtube.com/watch?v=FDCfw-YqWTE&feature=youtu.be
+* Machine Learning Zero to Hero **(Google I/O'19)** https://www.youtube.com/watch?v=VwVg9jCtqaU

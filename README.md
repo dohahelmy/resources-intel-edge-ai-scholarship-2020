@@ -55,7 +55,6 @@ the following are resources aims to help students to try challenges and get job 
 * ML Contests https://github.com/mlcontests/mlcontests.github.io
 * AI Conference Deadlines https://aideadlin.es/
 * Internshala is India's no.1 internship and training platform https://internshala.com/
-* Introduction to Deep Learning http://introtodeeplearning.com/#overview
 * Hackathon update for Indian students https://codenbuild.tech/
 ---
 
@@ -102,6 +101,9 @@ the following are resources aims to help students to try challenges and get job 
 * Extract LaTeX from PDFs or handwritten notes in seconds https://mathpix.com/
 ---
 
+* Diagram
+https://coggle.it/diagram/XgW1zK6K4rR27Y2U/t/intel-openvino/924f7ad59f5c66814acedcd21b78cd7fc286aaf731b3ab5773edf7271958cf0f
+
 ## INFOGRAPHICS
 * AI Engineer learning path
 ![AI Engineer learning path](/img/AI-LearningPath.jpg)
@@ -132,3 +134,6 @@ the following are resources aims to help students to try challenges and get job 
 
 * AI Mindmap
 ![image](/img/AI_mindmap.png)
+
+* Machine Learning Algorithms
+![image](/img/Machine_Learning_Algorithms.png)

@@ -76,3 +76,12 @@ END. Last one should have some pick n mix:
 - DATAVERSITY
 - searchdatamanagement.techtarget.com
 - MIKE2 Information Governance
+
+---
+
+* Data Science Tutorial (212 Tutorials) https://lnkd.in/fFkUuKV
+* Explaining Data Science Process https://lnkd.in/fMHtxYP
+* Data Science to answer Why https://lnkd.in/f396Dqg
+* Know data science use case on Marketing https://lnkd.in/fUDGAQW
+* Know data science use case on Retail https://lnkd.in/fihPTJf
+* Hadoop Tutorial (277 Tutorials) https://lnkd.in/fGufcQm
