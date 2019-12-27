@@ -17,6 +17,7 @@
 * Face Detection Application Sample with Intel OpenVINO **Medium** https://medium.com/@onur.dundar1/face-detection-application-sample-with-intel-openvino-c34f1f6f64d6
 * Getting Started with OpenVINO-Serving **Medium** https://medium.com/@rachittayal7/getting-started-with-openvino-serving-3810361a7368
 * How to run Keras model inference x3 times faster with CPU and Intel OpenVINO https://www.dlology.com/blog/how-to-run-keras-model-inference-x3-times-faster-with-cpu-and-intel-openvino-1/
+* INTEL AND MICROSOFT ADVANCE EDGE TO CLOUD INFERENCE FOR AI https://blogs.intel.com/iot/2019/08/21/intel-and-microsoft-advance-edge-to-cloud-inference-for-ai/
 
 ## Books/Papers
 * OpenVINO™ toolkit Documentation http://docs.openvinotoolkit.org/latest/
@@ -49,6 +50,11 @@
 * OpenVino Driver Behaviour https://github.com/incluit/OpenVino-Driver-Behaviour
 * Intel® Distribution of OpenVINO™ Toolkit Get started https://software.intel.com/en-us/openvino-toolkit/documentation/get-started
 * Deep Learning For Computer Vision https://software.intel.com/en-us/openvino-toolkit/deep-learning-cv
+* Converting TensorFlow Object Detection API Models for Inference on the Intel® Neural Compute Stick 2 (Intel® NCS 2) https://www.intel.in/content/www/in/en/support/articles/000055228/boards-and-kits.html
+* Model Optimizer Developer Guide https://docs.openvinotoolkit.org/latest/_docs_MO_DG_Deep_Learning_Model_Optimizer_DevGuide.html
+* Getting Started With Intel DevCloud **Medium** https://medium.com/intel-student-ambassadors/getting-started-with-intel-devcloud-78b2b9297acf
+* Getting Started with Intel AI Devcloud **Medium** https://medium.com/intel-student-ambassadors/getting-started-with-intel-ai-devcloud-348a88b29eb9
+
 
 ## Videos
 * OpenVINO™ toolkit -- English **Playlist** https://www.youtube.com/playlist?list=PLDKCjIU5YH6jMzcTV5_cxX9aPHsborbXQ

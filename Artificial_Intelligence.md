@@ -21,6 +21,8 @@
 * Secure and Private AI Writing Challenge https://medium.com/secure-and-private-ai-writing-challenge
 * What Is The Artificial Intelligence Of Things? When AI Meets IoT https://www.forbes.com/sites/bernardmarr/2019/12/20/what-is-the-artificial-intelligence-of-things-when-ai-meets-iot
 * From cloud to the edge: On-device artificial intelligence boosts performance https://www.technologyreview.com/s/613527/from-cloud-to-the-edge-on-device-artificial-intelligence-boosts-performance/
+* Edge AI for techies, updated December 11, 2019 https://www.imagimob.com/blog/edge-ai-for-techies
+* Why is edge AI important? https://www.experfy.com/blog/why-is-edge-ai-important
 
 ## Books/Papers
 * Hands-On Artificial Intelligence for IoT https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-iot
@@ -34,6 +36,7 @@
 * On the Measure of Intelligence https://arxiv.org/abs/1911.01547
 * AI for All: How AI is Transforming Every Industry (Series 1) https://www.amazon.in/dp/B082S4D1N7/ref=cm_sw_r_other_apa_i_WoB-DbEXR65FH
 * Hands-On Artificial Intelligence for IoT https://books.google.com.bd/books?id=CmSGDwAAQBAJ&pg=PA7#v=onepage&q&f=false
+* Recent trends/ progress in AI [file](books/AIread.pdf)
 
 ## Course/tutorials
 * Introduction to AI for non-experts https://www.elementsofai.com/
@@ -46,6 +49,7 @@
 * Python: Artificial Intelligence with Python: 3-in-1 https://www.udemy.com/course/python-artificial-intelligence-with-python-3-in-1/
 * AI Foundations for Everyone Specialization https://www.coursera.org/specializations/ai-foundations-for-everyone
 * AI For Everyone https://www.deeplearning.ai/ai-for-everyone/
+* Artificial Intelligence Courses https://www.edx.org/learn/artificial-intelligence
 
 ## Links/URLs
 * Processing AI at the Edge – Use-Cases and AI Hardware Considerations https://emerj.com/ai-podcast-interviews/processing-ai-edge/
@@ -69,5 +73,8 @@
 * Artificial Intelligence Tutorial | Artificial Intelligence Course | Intellipaat **5+ hours** https://www.youtube.com/watch?v=W7N6LPp0SmY&feature=youtu.be
 * AI Show https://channel9.msdn.com/Shows/AI-Show
 * AI debate https://www.facebook.com/MontrealAI/videos/498403850881660/
+    - youtube link https://www.youtube.com/watch?v=pKgseaENkAU
     - pre-readings https://t.co/byvhZtpflT?amp=1
 * This Canadian Genius Created Modern AI https://www.youtube.com/watch?v=l9RWTMNnvi4&feature=youtu.be
+* DeepMind: The podcast https://podcasts.google.com/?feed=aHR0cHM6Ly9hdWRpb2Jvb20uY29tL2NoYW5uZWxzLzUwMDI0ODIucnNz
+* Healed through A.I. | The Age of A.I. https://www.youtube.com/watch?v=V5aZjsWM2wo

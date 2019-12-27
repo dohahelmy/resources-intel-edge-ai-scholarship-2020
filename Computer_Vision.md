@@ -50,6 +50,7 @@
 * OpenCV Python Tutorial https://www.tutorialkart.com/opencv/python/
 * OpenCV with Python Intro and loading Images tutorial https://pythonprogramming.net/loading-images-python-opencv-tutorial/
 * Become a Computer Vision Expert **by Udacity** https://www.udacity.com/course/computer-vision-nanodegree--nd891
+* How To Train an Object Detection Classifier for Multiple Objects Using TensorFlow (GPU) on Windows 10 https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
 
 ## Links/URLs
 * Open Source Computer Vision https://docs.opencv.org/4.1.2/
@@ -63,6 +64,7 @@
 * Awesome Computer Vision https://github.com/jbhuang0604/awesome-computer-vision#readme
 * Building a Raspberry Pi security camera with OpenCV https://www.pyimagesearch.com/2019/03/25/building-a-raspberry-pi-security-camera-with-opencv/
 * Computer Vision for tracking https://towardsdatascience.com/computer-vision-for-tracking-8220759eee85
+* semantic segmentation https://thegradient.pub/semantic-segmentation/
 
 ## Videos
 * How Computer Vision Works https://www.youtube.com/watch?v=OcycT1Jwsns
@@ -73,4 +75,7 @@
 * OpenCV with Python for Image and Video Analysis **Playlist** https://www.youtube.com/playlist?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
 * Sebastian Thrun: Flying Cars, Autonomous Vehicles, and Education | Artificial Intelligence Podcast https://www.youtube.com/watch?v=ZPPAOakITeQ&feature=youtu.be
 * +20 Data Scientist YouTube Channels to follow [file](books/20_Data_Scientist_YouTube_Channels_to_follow.pdf)
+* +30 Data Scientist YouTube Channels to follow [file](books/30_YouTube_Channels.pdf)
 * OpenCV Python Tutorial | Creating Face Detection System And Motion Detector Using OpenCV | Edureka https://www.youtube.com/watch?v=-ZrDjwXZGxI
+* You Only Look Once: Unified, Real-Time Object Detection https://www.youtube.com/watch?v=NM6lrxy0bxs
+* What is Computer Vision? Guide to learning path for how to master Computer Vision with Deep Learning https://www.youtube.com/watch?v=t5M6s3zuSg4

@@ -20,6 +20,9 @@
 * Image convolution examples http://aishack.in/tutorials/image-convolution-examples/
 * Top 20 Websites for Machine Learning and Data Science in 2020 **Medium** https://medium.com/swlh/top-20-websites-for-machine-learning-and-data-science-d0b113130068
 * Use Kaggle to start (and guide) your ML/ Data Science journey — Why and How **Medium** https://towardsdatascience.com/use-kaggle-to-start-and-guide-your-ml-data-science-journey-f09154baba35
+* The Benefits and Potential of Edge Computing https://www.vxchnge.com/blog/the-5-best-benefits-of-edge-computing
+* 2020 Predictions For AI, DL, And ML https://www.forbes.com/sites/evansparks/2019/12/19/2020-predictions-for-ai-dl-and-ml/
+
 
 ## Books/Papers
 * Concepts, Techniques, and Models of Computer Programming **Goodreads** https://www.goodreads.com/book/show/772585.Concepts_Techniques_and_Models_of_Computer_Programming
@@ -41,6 +44,7 @@
 * A Beginner's Guide to Convolutional Neural Networks (CNNs) https://pathmind.com/wiki/convolutional-network
 * CAUSALITY http://bayes.cs.ucla.edu/BOOK-2K/index.html
 * Wi-Fi 6 and Private LTE/5G Technology and Business Models in Industrial IoT [file](books/iot-5g-wp.pdf)
+* KNN Algorithm Simulation Based on Quantum Information [file](books/KNNAlgorithmSimulationBasedonQuantumInformation.pdf)
 
 ## Course/tutorials
 * CS231n: Convolutional Neural Networks for Visual Recognition http://cs231n.stanford.edu/
@@ -97,6 +101,8 @@
 * Five components of IoT edge devices https://www.cisco.com/c/en/us/solutions/internet-of-things/iot-edge-devices.html
 * Free Code Camp https://www.freecodecamp.org/
 * Pytorch Scholarship resources https://airtable.com/shrwVC7gPOuTJkxW0/tblUf4zxlIMLjwrbv?blocks=hide
+* Install Ubuntu desktop | Ubuntu tutorials https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#0
+* CS231n Convolutional Neural Networks for Visual Recognition http://cs231n.github.io/convolutional-networks/
 
 ## Videos
 * NEURAL NETWORKS! - CS50 Live, EP. 53 (pre-release) **2+ hours** https://www.youtube.com/watch?v=hQhPogn1dpM
@@ -122,3 +128,4 @@
 * Neural networks **Playlist** https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 * Orange Data Mining **Channel** https://www.youtube.com/channel/UClKKWBe2SCAEyv7ZNGhIe4g/videos
     - Download: https://orange.biolab.si/
+* Artificial Curiosity https://www.youtube.com/watch?v=aom4RMOHezc&list=PL2-dafEMk2A663T80wzbIE4YDldoTaLDH

@@ -52,6 +52,7 @@
 * Introduction to Deep Learning with OpenCV https://www.linkedin.com/learning/introduction-to-deep-learning-with-opencv?trk=share_android_course_learning
 * MIT Deep Learning https://deeplearning.mit.edu/
 * Dive into Deep Learning with 15 free online courses https://www.freecodecamp.org/news/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0/
+* Build your First Crowd Counting Model using Deep Learning & CSRTech https://www.analyticsvidhya.com/blog/2019/02/building-crowd-counting-model-python/
 
 ## Links/URLs
 * Deep Learning Glossary by Nvidia [Deep Learning Glossary by Nvidia](books/Deep_Learning_Glossary_by_Nvidia.pdf)
@@ -66,6 +67,7 @@
 * DeepAI  Definitions https://deepai.org/definitions
 * Notes from Coursera Deep Learning courses by Andrew Ng https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng
 * Deep Learning for Vision Systems http://www.computervisionbook.com/?fbclid=IwAR3op1e43UGm-v79lDuuyBj7-4RZUeu0FsGnzhKfx8ctKzPa1ZjEeo3fj_c
+* Understanding object detection in deep learning https://blogs.sas.com/content/subconsciousmusings/2018/11/19/understanding-object-detection-in-deep-learning/
 
 ## Videos
 * But what is a Neural Network? | Deep learning, chapter 1 https://www.youtube.com/watch?v=aircAruvnKk&t=2s

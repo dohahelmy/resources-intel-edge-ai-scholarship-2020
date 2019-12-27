@@ -41,6 +41,7 @@
 * Data Science and Machine Learning Posts 2019 [file](books/Data_Science_and_Machine_Learning_Posts_2019.pdf)
 * Hands-On Machine Learning with Scikit-Learn and TensorFlow https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/
 * Latest papers on machine learning https://arxiv.org/list/cs.LG/recent
+* Monetizing Machine Learning http://www.allitebooks.in/monetizing-machine-learning/
 
 
 ## Course/tutorials

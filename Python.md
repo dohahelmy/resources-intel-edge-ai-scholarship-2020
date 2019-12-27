@@ -51,6 +51,7 @@
 * Python for Computer Vision with OpenCV and Deep Learning https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/
 * LEARN PYTHON 3 THE HARD WAY [book](books/learn-python3-the-hard-way-jul-4-2017.pdf)
 * Argument Parsing in Python https://www.datacamp.com/community/tutorials/argument-parsing-in-python
+* Get Started with PyTorch – Learn How to Build Quick & Accurate Neural Networks (with 4 Case Studies!) https://www.analyticsvidhya.com/blog/2019/01/guide-pytorch-neural-networks-case-studies/
 
 ## Links/URLs
 * Python: Module 1 | RaspberryPi projects https://projects.raspberrypi.org/en/codeclub/python-module-1

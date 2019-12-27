@@ -1,5 +1,8 @@
 # Students Notes
 
+* Recap https://docs.google.com/document/d/1oncfZyiuKK8ZidrbinkTAEcLMTlmHrD5GxF-ZMWHcrI/edit
+
+
 ### Shared by @Manveet DN on Medium
 * Lesson-1 notes: Introduction to AI at the Edge
 https://medium.com/@manveetdn/lesson-1-introduction-to-ai-at-the-edge-720edf8b60be?sk=f0415c4cd548b125a624e64b26ed1fc5
@@ -62,7 +65,7 @@ The following one-line command will automatically download and extract the docum
 
 ### Shared by @Praful
 * Notes for the course https://github.com/Praful932/Intel-Edge-AI-Foundation-Course
- - https://github.com/Praful932/Intel-Edge-AI-Foundation-Course/blob/master/Leveraging%20Pre-Trained%20Models%20Part%202.pdf 
+ - https://github.com/Praful932/Intel-Edge-AI-Foundation-Course/blob/master/Leveraging%20Pre-Trained%20Models%20Part%202.pdf
 
 ### Shared by @Venkatesh K H
 * Variability Notes [file](/Variability-Variance and_Standard_Deviation.pdf)
@@ -76,3 +79,6 @@ The following one-line command will automatically download and extract the docum
 
 ### Shared by @Dina AbdelRahman
 * Edge AI [file](/Edge_AI_L1_L2.xlsx)
+
+### Shared by @Bhadresh Savani
+* Machine Learning on Edge https://github.com/bhadreshpsavani/MachineLearningOnEdge/blob/master/readme.md

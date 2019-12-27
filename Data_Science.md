@@ -6,9 +6,11 @@
 * Data Science Cheatsheets https://github.com/abhat222/Data-Science--Cheat-Sheet
 * Practical Debugging for Data Science **Medium** https://towardsdatascience.com/practical-debugging-for-data-science-fd744c21f332
 
-
 * Amazon books https://www.amazon.com/s?rh=n%3A6361574011%2Cp_36%3A0-0%2Cp_20%3AEnglish&s=review-rank&lo=image&utm_medium=ios_app&utm_name=iossmf&utm_source=share
 
+
+* resources collection https://github.com/frontbench-open-source/Data-Science-Free
+* [The_Friendly_Data_Science_Handbook](books/The_Friendly_Data_Science_Handbook.pdf)
 
 ### Here's an ultimate data science starter kit:
 1. Foundational Skills

@@ -56,6 +56,7 @@ the following are resources aims to help students to try challenges and get job 
 * AI Conference Deadlines https://aideadlin.es/
 * Internshala is India's no.1 internship and training platform https://internshala.com/
 * Introduction to Deep Learning http://introtodeeplearning.com/#overview
+* Hackathon update for Indian students https://codenbuild.tech/
 ---
 
 ### General Articles/videos
@@ -98,6 +99,7 @@ the following are resources aims to help students to try challenges and get job 
     - Deepinsight : User-Friendly Deep Learning Tool to Decode Neural Activity in an Automated Way https://www.marktechpost.com/2019/12/20/deepinsight-user-friendly-deep-learning-tool-to-decode-neural-activity-in-an-automated-way/
 * 10 Python image manipulation tools. **Medium** https://link.medium.com/nhuNGJtTD2
 * The clear way to share complex information. https://coggle.it/recommend/5e012691ae8ae25f09ebdcde
+* Extract LaTeX from PDFs or handwritten notes in seconds https://mathpix.com/
 ---
 
 ## INFOGRAPHICS
