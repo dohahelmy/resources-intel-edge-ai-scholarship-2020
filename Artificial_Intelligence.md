@@ -24,6 +24,9 @@
 * Edge AI for techies, updated December 11, 2019 https://www.imagimob.com/blog/edge-ai-for-techies
 * Why is edge AI important? https://www.experfy.com/blog/why-is-edge-ai-important
 * Why video games and board games aren’t a good measure of AI intelligence https://www.theverge.com/2019/12/19/21029605/artificial-intelligence-ai-progress-measurement-benchmarks-interview-francois-chollet-google
+* Artificial intelligence predictions for 2020 https://www.infoworld.com/article/3509465/artificial-intelligence-predictions-for-2020.html
+* What just happened in the world of AI? https://www.kdnuggets.com/2019/12/review-what-happened-ai.html
+* AI Augmentation: The Real Future of Artificial Intelligence https://www.forbes.com/sites/cognitiveworld/2019/09/30/ai-augmentation-the-real-future-of-artificial-intelligence/
 
 ## Books/Papers
 * Hands-On Artificial Intelligence for IoT https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-iot

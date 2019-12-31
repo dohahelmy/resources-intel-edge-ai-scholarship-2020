@@ -24,6 +24,10 @@
 * Bias in Machine Learning: How Facial Recognition Models Show Signs of Racism, Sexism and Ageism **Medium** https://towardsdatascience.com/bias-in-machine-learning-how-facial-recognition-models-show-signs-of-racism-sexism-and-ageism-32549e2c972d
 * Why Data Normalization is necessary for Machine Learning models **Medium** https://medium.com/@urvashilluniya/why-data-normalization-is-necessary-for-machine-learning-models-681b65a05029
 * Finally, machine learning interprets gene regulation clearly https://m.phys.org/news/2019-12-machine-gene.html
+* Everything you need to know about Neural Networks and Backpropagation **Medium** https://towardsdatascience.com/everything-you-need-to-know-about-neural-networks-and-backpropagation-machine-learning-made-easy-e5285bc2be3a
+* Software Developers: You’re Learning Machine Learning Upside Down **Medium** https://towardsdatascience.com/software-developers-youre-learning-machine-learning-upside-down-3867dc140862
+* The Machine Learning Behind Google’s New Recorder App https://analyticsindiamag.com/machine-learning-google-recorder-pixel-mobile-ai/
+* PhD or programming? Fast paths into aligning AI as a machine learning engineer https://80000hours.org/podcast/episodes/olsson-and-ziegler-ml-engineering-and-safety/
 
 ## Books/Papers
 * Papers with code https://paperswithcode.com/
@@ -43,6 +47,8 @@
 * Hands-On Machine Learning with Scikit-Learn and TensorFlow https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/
 * Latest papers on machine learning https://arxiv.org/list/cs.LG/recent
 * Monetizing Machine Learning http://www.allitebooks.in/monetizing-machine-learning/
+* Humble Book Bundle: Python & Machine Learning by Packt https://www.humblebundle.com/books/python-machine-learning-packt-books
+[McGrawHill - Machine Learning - Tom Mitchell](books/McGrawHill-Machine-Learning-Tom Mitchell.pdf)
 
 
 ## Course/tutorials
@@ -57,6 +63,7 @@
 * Open Machine Learning Course **Medium** https://link.medium.com/FOJo11mbQX
 * Applied Machine Learning Course https://www.appliedaicourse.com/
 * Introduction to Machine Learning Course **by Udacity** https://www.udacity.com/course/intro-to-machine-learning--ud120
+* Machine Learning A-Z (Python & R in Data Science Course) https://www.udemy.com/course/machinelearning/
 
 ## Links/URLs
 * Machine Learning From Scratch https://github.com/eriklindernoren/ML-From-Scratch
@@ -85,6 +92,8 @@
 * Machine Learning for Problem Solving https://lnkd.in/f5aUbBM
 * Machine learning edge devices: benchmark report https://tryolabs.com/blog/machine-learning-on-edge-devices-benchmark-report/
 * Core ML Models https://developer.apple.com/machine-learning/models/
+* Foundational Skills https://end-to-end-machine-learning.teachable.com/p/000-foundational-skills
+* Machine Learning Repository https://archive.ics.uci.edu/ml/index.php
 
 ## Videos
 * Machine Learning - CS50 Podcast, Ep. 6 https://www.youtube.com/watch?v=mEdIQbOL8dY

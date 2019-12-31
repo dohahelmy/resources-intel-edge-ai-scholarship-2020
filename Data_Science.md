@@ -11,6 +11,12 @@
 
 * resources collection https://github.com/frontbench-open-source/Data-Science-Free
 * [The_Friendly_Data_Science_Handbook](books/The_Friendly_Data_Science_Handbook.pdf)
+* Learning Path: Your Data Science Journey https://www.superdatascience.com/paths
+
+* [Data_Science_Cheatsheet](books/Data_Science_Cheatsheet.pdf)
+
+* Becoming a Self-Taught Data Scientist **Medium** https://towardsdatascience.com/becoming-a-self-taught-data-scientist-5563f546bb7b
+
 
 ### Here's an ultimate data science starter kit:
 1. Foundational Skills

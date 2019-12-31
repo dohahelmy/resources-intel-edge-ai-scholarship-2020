@@ -12,12 +12,14 @@
 ## Articles
 * Demystifying the math and implementation of Convolutions: Part I. https://praisethemoon.org/demystifying-the-math-and-implementation-of-convolutions-part-i/
 * Mathematics for Data Science https://towardsdatascience.com/mathematics-for-data-science-e53939ee8306?gi=9af3c9aa4682
+* Understanding the Mathematics behind Gradient Descent **Medium** https://link.medium.com/BBI6A2XpM2
 
 ## Books/Papers
 * Mathematics for machine learning https://mml-book.github.io/book/mml-book.pdf
 * Probability Cheatsheet[Probability Cheatsheet](books/probability_cheatsheet.pdf)
 * Statistics Cheatsheet[Statistics Cheatsheet](books/Statistics_cheat_sheet.pdf)
 * A beginners guide to the mathematics of neural network.[book](books/math_neural_networks.pdf)
+* Introduction to Applied Linear Algebra https://web.stanford.edu/~boyd/vmls/vmls.pdf
 
 ## Course/tutorials
 * Mathematics for Machine Learning Specialization https://www.coursera.org/specializations/mathematics-machine-learning

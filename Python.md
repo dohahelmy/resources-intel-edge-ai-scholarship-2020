@@ -35,6 +35,8 @@
 * Python Notes For Professionals https://books.goalkicker.com/PythonBook/PythonNotesForProfessionals.pdf
 * Python Programming for Hackers and Reverse Engineers [books](books/Python_Programming_for_Hackers_and_Reverse_Engineers.pdf)
 * TensorFlow Tutorial [file](books/tensorflow_tutorial.pdf)
+* [beginners_python_cheat_sheet_pcc_all](books/beginners_python_cheat_sheet_pcc_all.pdf)
+* [Numpy_Python_Cheat_Sheet](books/Numpy_Python_Cheat_Sheet.pdf)
 
 ## Course/tutorials
 * WorldQuant University's Introduction to Data Science Module https://wqu.org/programs/data-science
@@ -55,6 +57,8 @@
 * Argument Parsing in Python https://www.datacamp.com/community/tutorials/argument-parsing-in-python
 * Get Started with PyTorch – Learn How to Build Quick & Accurate Neural Networks (with 4 Case Studies!) https://www.analyticsvidhya.com/blog/2019/01/guide-pytorch-neural-networks-case-studies/
 * Count Number of Cars in Less Than 10 Lines of Code Using Python **Medium** https://towardsdatascience.com/count-number-of-cars-in-less-than-10-lines-of-code-using-python-40208b173554
+* How to Cache Using Redis in Django Applications https://code.tutsplus.com/tutorials/how-to-cache-using-redis-in-django-applications--cms-30178
+* Python Numpy Tutorial http://cs231n.github.io/python-numpy-tutorial/
 
 
 ## Links/URLs
@@ -64,6 +68,7 @@
 * LIST OF IMPORTANT SQL QUERIES FOR INTERVIEW **Medium** https://link.medium.com/sjbOOBP3t2
 * Python NumPy For Your Grandma https://www.udemy.com/course/python-numpy-for-your-grandma/
 * Build a Mobile Application With the Kivy Python Framework https://realpython.com/mobile-app-kivy-python/
+* Full Stack Python https://www.fullstackpython.com/
 * Full Stack Python (Flask) https://www.fullstackpython.com/flask.html
 * Python 3 Download page https://www.python.org/downloads/
 * Install TensorFlow with pip https://www.tensorflow.org/install/pip?lang=python3
@@ -94,3 +99,5 @@
 * Corey Schafer (python tutorials) **Channel** https://www.youtube.com/user/schafer5
 * Python Tutorials for Absolute Beginners by CS Dojo **Playlist** https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg
 * Python for Beginners **Playlist** https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
+* Python OOPS Concepts | Python OOP Tutorial | Python Classes and Objects | Python Tutorial | Edureka https://www.youtube.com/watch?v=SRu1GAfr3LA
+* Python Tutorial: CSV Module - How to Read, Parse, and Write CSV Files https://www.youtube.com/watch?v=q5uM4VKywbA

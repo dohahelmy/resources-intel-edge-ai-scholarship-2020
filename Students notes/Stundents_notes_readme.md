@@ -93,3 +93,6 @@ The following one-line command will automatically download and extract the docum
 
 ### Shared by @AIT ALI YAHIA Rayane
 * Fundamentals of the edge resume [file](resume_AI_at_the_Edge.pdf)
+
+### Shared by @Mary Sadimba
+* Notes on lesson 2 https://msadimba.hashnode.dev/intel-edge-ai-foundation-course-lesson-2-ck4svk0rs0068tjs1fzhertul

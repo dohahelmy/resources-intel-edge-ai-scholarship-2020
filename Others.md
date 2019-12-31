@@ -23,6 +23,12 @@
 * The Benefits and Potential of Edge Computing https://www.vxchnge.com/blog/the-5-best-benefits-of-edge-computing
 * 2020 Predictions For AI, DL, And ML https://www.forbes.com/sites/evansparks/2019/12/19/2020-predictions-for-ai-dl-and-ml/
 * Generative Adversarial Networks (GANs) for Beginners: Generating Images of Distracted Drivers **Medium** https://towardsdatascience.com/generative-adversarial-networks-gans-for-beginners-82f26753335e
+* ALBERT: A Lite BERT for Self-Supervised Learning of Language Representations https://ai.googleblog.com/2019/12/albert-lite-bert-for-self-supervised.html
+* Twelve Million Phones, One Dataset, Zero Privacy https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html
+* Five things we learned at Oslo’s innovation festival https://apolitical.co/solution_article/five-things-we-learned-at-oslos-innovation-festival/
+* 20 Data Trends for 2020 https://storybydata.com/datacated-weekly/20-data-trends-for-2020/
+* Give Me Jeans not Shoes: How BERT Helps Us Deliver What Clients Want https://multithreaded.stitchfix.com/blog/2019/07/15/give-me-jeans/
+* Edge Computing — The New Frontier of the Web **Medium** https://link.medium.com/106uvj1pQ2
 
 
 ## Books/Papers
@@ -46,7 +52,11 @@
 * CAUSALITY http://bayes.cs.ucla.edu/BOOK-2K/index.html
 * Wi-Fi 6 and Private LTE/5G Technology and Business Models in Industrial IoT [file](books/iot-5g-wp.pdf)
 * KNN Algorithm Simulation Based on Quantum Information [file](books/KNNAlgorithmSimulationBasedonQuantumInformation.pdf)
-* [The Evolution of Imitation and Mirror Neurons in Adaptive Agents](emn_borens_cogsysres_r.pdf)
+* [The Evolution of Imitation and Mirror Neurons in Adaptive Agents](books/emn_borens_cogsysres_r.pdf)
+* [Quantum Teleportation in High Dimensions](books/Quantum_Teleportation_in_High_Dimensions.pdf)
+* Show and Tell: A Neural Image Caption Generator https://arxiv.org/pdf/1411.4555.pdf
+* Show, Attend and Tell: Neural Image Caption Generation with Visual Attention https://arxiv.org/pdf/1502.03044.pdf
+* [Linux Command Line Cheat Sheet](books/Linux_Command_Line_CheatSheet.pdf)
 
 
 ## Course/tutorials
@@ -62,6 +72,10 @@
 * Linux Command Line Basics https://www.udacity.com/course/linux-command-line-basics--ud595
 * Shell Workshop https://www.udacity.com/course/shell-workshop--ud206
 * Catalog | Next XYZ (ML - DL - Python - ... etc) https://next.tech/xyz/catalog
+* A quick guide to using FFmpeg to convert media files https://opensource.com/article/17/6/ffmpeg-convert-media-file-formats
+* 9 Free Courses by Harvard, MIT, IBM, Google, and Microsoft **Medium** https://medium.com/@PurpleGreenLemon/9-courses-to-learn-for-free-d7951a959f82
+* A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials
+* Coding Blocks courses https://cb.lk/join/MAN0QQ
 
 ## Links/URLs
 * Shell scripting https://explainshell.com/
@@ -115,6 +129,10 @@
 * Downloading Datasets into Google Drive via Google Colab **Medium**  https://towardsdatascience.com/downloading-datasets-into-google-drive-via-google-colab-bcb1b30b0166
 * Create a blog using Jekyll and GitHub pages with Docker https://yamatokataoka.github.io/create-a-blog-using-jekyll-and-github-pages-with-docker/
 * Optimization Model https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/optimization-model
+* Moral Machine http://moralmachine.mit.edu/
+* Computing Receptive Fields of Convolutional Neural Networks https://distill.pub/2019/computing-receptive-fields/
+* Quantitative Economics with Python https://python.quantecon.org/index_toc.html
+* SCC++: Predicting the programming language of questions and snippets of Stack Overflow https://www.sciencedirect.com/science/article/pii/S0164121219302791
 
 ## Videos
 * NEURAL NETWORKS! - CS50 Live, EP. 53 (pre-release) **2+ hours** https://www.youtube.com/watch?v=hQhPogn1dpM
@@ -142,3 +160,8 @@
     - Download: https://orange.biolab.si/
 * Artificial Curiosity https://www.youtube.com/watch?v=aom4RMOHezc&list=PL2-dafEMk2A663T80wzbIE4YDldoTaLDH
 * Neuroscience vs Philosophy | Full Debate | Margaret Boden, Barry Smith, Steven Rose, Roger Bolton https://www.youtube.com/watch?v=x_ypquYcNl4
+* word embeddings
+    - RNN W2L05 :  Learning word embeddings https://www.youtube.com/watch?v=xtPXjvwCt64
+    - Word Embeddings https://www.youtube.com/watch?v=5PL0TmQhItY
+    - What Are Word Embeddings for Text? https://machinelearningmastery.com/what-are-word-embeddings/
+    - RNN W2L01 :  Word Representation https://www.youtube.com/watch?v=hjx-zwVdfjc

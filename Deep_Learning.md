@@ -25,6 +25,9 @@
 * What’s the Difference Between Deep Learning Training and Inference? https://blogs.nvidia.com/blog/2016/08/22/difference-deep-learning-training-inference-ai/
 * Top 5 Deep Learning Frameworks, their Applications, and Comparisons https://www.analyticsvidhya.com/blog/2019/03/deep-learning-frameworks-comparison/
 * 10 Deep Learning Best Practices to Keep in Mind in 2020 https://nanonets.com/blog/10-best-practices-deep-learning/
+* Meet DiffGrad: New Deep Learning Optimizer that solves Adam’s ‘overshoot’ issue **Medium** https://medium.com/@lessw/meet-diffgrad-new-deep-learning-optimizer-that-solves-adams-overshoot-issue-ec63e28e01b2
+* A 'Brief' History of Neural Nets and Deep Learning http://www.andreykurenkov.com/writing/ai/a-brief-history-of-neural-nets-and-deep-learning/
+* 2019 In-Review and Trends for 2020 – A Technical Overview of Machine Learning and Deep Learning! https://www.analyticsvidhya.com/blog/2019/12/2020-trends-machine-learning-deep-learning/
 
 ## Books/Papers
 * Paper notes in deep learning/machine learning and computer vision https://github.com/Hsuxu/Paper-Notes
@@ -58,6 +61,9 @@
 * Introduction to Deep Learning http://introtodeeplearning.com/#overview
     - http://introtodeeplearning.com/2019/index.html
 * Deep Learning for coders http://course18.fast.ai/index.html
+* Deep Learning and Computer Vision: From Basic Implementation to Efficient Methods **Medium** https://link.medium.com/r5PxHDkDM2
+* NVIDIA DEEP LEARNING INSTITUTE https://www.nvidia.com/en-us/deep-learning-ai/education/
+* Deep Learning - Cognitive Class https://cognitiveclass.ai/learn/deep-learning
 
 ## Links/URLs
 * Deep Learning Glossary by Nvidia [Deep Learning Glossary by Nvidia](books/Deep_Learning_Glossary_by_Nvidia.pdf)
@@ -75,7 +81,7 @@
 * Understanding object detection in deep learning https://blogs.sas.com/content/subconsciousmusings/2018/11/19/understanding-object-detection-in-deep-learning/
 * Deep Reinforcement Learning http://rail.eecs.berkeley.edu/deeprlcourse/?fbclid=IwAR1POtXDvgU1d8TGPwroaSaGLCuUvjnFaD_dgZ6g6xMryMSwy8DBHJ7eOmY
 * Review of Deep Learning Algorithms for Image Semantic Segmentation **Medium** https://medium.com/@arthur_ouaknine/review-of-deep-learning-algorithms-for-image-semantic-segmentation-509a600f7b57
-
+* Cerebras Wafer Scale Engine: Why we need big chips for Deep Learning https://www.cerebras.net/cerebras-wafer-scale-engine-why-we-need-big-chips-for-deep-learning/
 
 
 ## Videos
@@ -88,3 +94,4 @@
 * Machine Learning & Deep Learning Specialization with Python, Scikit-Learn and TensforFlow **Playlist** https://www.youtube.com/playlist?list=PLFhNzVKP1pVrNU8cTL_t-8YzPLF8i8PaS
 * Heroes of Deep Learning: Andrew Ng interviews Geoffrey Hinton https://www.youtube.com/watch?v=-eyhCTvrEtE&feature=youtu.be
 * Yoshua Bengio | From System 1 Deep Learning to System 2 Deep Learning | NeurIPS 2019 https://www.youtube.com/watch?v=FtUbMG3rlFs&feature=youtu.be
+* Deep Learning Lectures **Playlist** https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf

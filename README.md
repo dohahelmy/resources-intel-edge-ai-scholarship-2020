@@ -59,6 +59,7 @@ the following are resources aims to help students to try challenges and get job 
 ---
 
 ### General Articles/videos
+* Udacity Talks Recent Episodes https://www.udacity.com/talks
 * How I got into Google!! **Medium** https://medium.com/@gourav.mittal/how-i-got-into-google-a7d92f581951
 * How To Speak by Patrick Winston https://www.youtube.com/watch?v=Unzc731iCUY
 * 370 Free Online Programming & Computer Science Courses You Can Start This Month **Medium** https://link.medium.com/F9xHFHoGB2
@@ -68,6 +69,7 @@ the following are resources aims to help students to try challenges and get job 
 * Machine Learning: Living in the Age of AI | A WIRED Film https://www.youtube.com/watch?v=ZJixNvx9BAc&feature=youtu.be
 * sentdex **Channel** https://www.youtube.com/user/sentdex
 * Ep. 25: Google's Ian Goodfellow on How an Argument in a Bar Led to Generative Adversarial Networks https://soundcloud.com/theaipodcast/what-are-generative-adversarial-networks-ian-goodfellow-explains
+* How to Learn Fullstack Development: A Roadmap in Charts **Medium** https://medium.com/@dtkatz/how-to-learn-fullstack-development-a-roadmap-in-charts-9b9e4aac400f
 ---
 
 ## PROJECTS
@@ -99,6 +101,8 @@ the following are resources aims to help students to try challenges and get job 
 * 10 Python image manipulation tools. **Medium** https://link.medium.com/nhuNGJtTD2
 * The clear way to share complex information. https://coggle.it/recommend/5e012691ae8ae25f09ebdcde
 * Extract LaTeX from PDFs or handwritten notes in seconds https://mathpix.com/
+* Regex101 - online regex editor and debugger https://regex101.com/
+* (Sketch 2 Code) Transform any hands-drawn design into a HTML code with AI https://sketch2code.azurewebsites.net/
 ---
 
 * Diagram
@@ -137,3 +141,9 @@ https://coggle.it/diagram/XgW1zK6K4rR27Y2U/t/intel-openvino/924f7ad59f5c66814ace
 
 * Machine Learning Algorithms
 ![image](/img/Machine_Learning_Algorithms.png)
+
+* BAsic Linux Commands
+![image](/img/linux_commands.jpg)
+
+* The Industrial Internet Arises With Big Data And The Internet of Things
+![image](/img/big_data_iot.jpg)

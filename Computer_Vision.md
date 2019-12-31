@@ -19,6 +19,8 @@
 * The Most Intuitive and Easiest Guide for Convolutional Neural Network https://towardsdatascience.com/the-most-intuitive-and-easiest-guide-for-convolutional-neural-network-3607be47480
 * Computer Vision by Andrew Ng — 11 Lessons Learned **Medium** https://link.medium.com/42kNdcdgB2
 * Machine vision that sees things more the way we do is easier for us to understand https://www.technologyreview.com/f/614870/ai-machine-vision-interpretable/
+* Introduction to computer vision https://developer.ibm.com/articles/introduction-computer-vision/
+* How to do everything in Computer Vision **Medium** https://link.medium.com/OQWSqa5sQ2
 
 ## Books/Papers
 * Computer Vision Foundations and Applications  http://vision.stanford.edu/teaching/cs131_fall1718/files/cs131-class-notes.pdf
@@ -37,6 +39,9 @@
 * Pro Processing for Images and Computer Vision with OpenCV http://www.allitebooks.in/pro-processing-images-computer-vision-opencv/
 * 10 CUTTING-EDGE RESEARCH PAPERS IN COMPUTER VISION FROM 2019 https://www.topbots.com/top-ai-vision-research-papers-2019/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_136
 * Table of Contents – Raspberry Pi for Computer Vision https://www.pyimagesearch.com/2019/04/05/table-of-contents-raspberry-pi-for-computer-vision/
+* [OpenCV CheatSheet](books/opencv_cheatsheet.pdf)
+* Mastering OpenCV4 with Python http://148.228.16.36/CURSOS/IMAGENES/LIBROS/3-Mastering-Opencv4.pdf
+* [opencv-python-tutroals](books/opencv-python-tutroals.pdf)
 
 ## Course/tutorials
 * OpenCV Tutorial: A Guide to Learn OpenCV https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
@@ -54,6 +59,8 @@
 * OpenCV with Python Intro and loading Images tutorial https://pythonprogramming.net/loading-images-python-opencv-tutorial/
 * Become a Computer Vision Expert **by Udacity** https://www.udacity.com/course/computer-vision-nanodegree--nd891
 * How To Train an Object Detection Classifier for Multiple Objects Using TensorFlow (GPU) on Windows 10 https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
+* Computer Vision and Computer Graphics https://www.tutorialspoint.com/dip/computer_vision_and_graphics.htm
+* Python For Computer vision with OpenCv https://sites.google.com/view/resourcespoint/home
 
 ## Links/URLs
 * Open Source Computer Vision https://docs.opencv.org/4.1.2/
@@ -69,6 +76,10 @@
 * Computer Vision for tracking https://towardsdatascience.com/computer-vision-for-tracking-8220759eee85
 * semantic segmentation https://thegradient.pub/semantic-segmentation/
 * Data Visualization Tutorial https://lnkd.in/fYUCzgC
+* Visual Intelligence Made Easy https://www.customvision.ai/
+* Computer Vision and Visual SLAM vs. AI Agents http://www.computervisionblog.com/2019/11/computer-vision-and-visual-slam-vs-ai.html?m=1
+* Running Deep Learning models in OpenCV https://cv-tricks.com/how-to/running-deep-learning-models-in-opencv/
+    - repo https://github.com/legolas123/cv-tricks.com/tree/master/OpenCV/Running_YOLO
 
 ## Videos
 * How Computer Vision Works https://www.youtube.com/watch?v=OcycT1Jwsns

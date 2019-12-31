@@ -33,6 +33,10 @@
 * AI Courses https://software.intel.com/en-us/ai/courses
 * Computer Vision with the Intel® Distribution of OpenVINO™ Toolkit https://software.intel.com/es-es/iot/computer-vision-with-open-vino-toolkit
 * Object recognition with Intel® Distribution of OpenVINO™ toolkit **Medium** https://medium.com/intel-software-innovators/object-recognition-with-intel-distribution-of-openvino-toolkit-475647574fb7
+* [OpenVINO_inferencing code example](books/OpenVINO_inferencing_code_example.pdf)
+* Converting TensorFlow* Object Detection API Models https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_tf_specific_Convert_Object_Detection_API_Models.html
+* Converting a Caffe* Model https://docs.openvinotoolkit.org/2018_R5/_docs_MO_DG_prepare_model_convert_model_Convert_Model_From_Caffe.html
+* Converting a ONNX* Model https://docs.openvinotoolkit.org/2018_R5/_docs_MO_DG_prepare_model_convert_model_Convert_Model_From_ONNX.html
 
 ## Links/URLs
 * OpenVINO toolkit https://software.intel.com/en-us/openvino-toolkit
@@ -74,3 +78,6 @@
 * (37) OpenVINO™ toolkit - RaspberryPI + Movidius NCS  https://www.youtube.com/watch?v=PNmH_ugW6Zw
 * (01) OpenVINO™ toolkit - What is OpenVINO? https://www.youtube.com/watch?v=kY9nZbX1DWM
 * Intel Webinar: Accelerate Deep Learning Inference using OpenVINO Toolkit https://www.youtube.com/watch?v=FOgg9_zCC9g&feature=youtu.be
+* Intel® Distribution of OpenVINO™ Toolkit
+    - [part 1](others/OpenVINO_Toolkit_part1.mp4)
+    - [part 2](others/OpenVINO_Toolkit_part2.mp4)
