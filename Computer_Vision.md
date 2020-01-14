@@ -21,6 +21,7 @@
 * Machine vision that sees things more the way we do is easier for us to understand https://www.technologyreview.com/f/614870/ai-machine-vision-interpretable/
 * Introduction to computer vision https://developer.ibm.com/articles/introduction-computer-vision/
 * How to do everything in Computer Vision **Medium** https://link.medium.com/OQWSqa5sQ2
+* 16 OpenCV Functions to Start your Computer Vision journey (with Python code) https://www.analyticsvidhya.com/blog/2019/03/opencv-functions-computer-vision-python/
 
 ## Books/Papers
 * Computer Vision Foundations and Applications  http://vision.stanford.edu/teaching/cs131_fall1718/files/cs131-class-notes.pdf

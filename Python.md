@@ -59,6 +59,7 @@
 * Count Number of Cars in Less Than 10 Lines of Code Using Python **Medium** https://towardsdatascience.com/count-number-of-cars-in-less-than-10-lines-of-code-using-python-40208b173554
 * How to Cache Using Redis in Django Applications https://code.tutsplus.com/tutorials/how-to-cache-using-redis-in-django-applications--cms-30178
 * Python Numpy Tutorial http://cs231n.github.io/python-numpy-tutorial/
+* Python_Docs.ipynb https://colab.research.google.com/drive/1OtjQo-ubQzAvOVauNGUuCaHRpPs27t53
 
 
 ## Links/URLs
@@ -86,6 +87,7 @@
 * Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas https://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/?fbclid=IwAR14x0E9qxIFMeZPU6WAP52A6pFiTi_0zn6yoY7cRX94OSMIaGbqWUUCNOU
 * Python (168 Tutorials) https://lnkd.in/fV_pcaJ
 * HEATMAP https://python-graph-gallery.com/heatmap/
+* Tensorflow — Neural Network Playground https://playground.tensorflow.org/
 
 ## Videos
 * Python 3.4 Programming Tutorials **Playlist** https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_

@@ -27,6 +27,7 @@
 * Artificial intelligence predictions for 2020 https://www.infoworld.com/article/3509465/artificial-intelligence-predictions-for-2020.html
 * What just happened in the world of AI? https://www.kdnuggets.com/2019/12/review-what-happened-ai.html
 * AI Augmentation: The Real Future of Artificial Intelligence https://www.forbes.com/sites/cognitiveworld/2019/09/30/ai-augmentation-the-real-future-of-artificial-intelligence/
+* 3 things you don't know about policies shaping AI https://www.techrepublic.com/article/three-things-you-dont-know-about-policies-shaping-ai/
 
 ## Books/Papers
 * Hands-On Artificial Intelligence for IoT https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-iot
@@ -82,3 +83,4 @@
 * This Canadian Genius Created Modern AI https://www.youtube.com/watch?v=l9RWTMNnvi4&feature=youtu.be
 * DeepMind: The podcast https://podcasts.google.com/?feed=aHR0cHM6Ly9hdWRpb2Jvb20uY29tL2NoYW5uZWxzLzUwMDI0ODIucnNz
 * Healed through A.I. | The Age of A.I. https://www.youtube.com/watch?v=V5aZjsWM2wo
+* I Programmed an AI Drone To Follow Me (2/2) https://www.youtube.com/watch?v=esw88_gKOpA

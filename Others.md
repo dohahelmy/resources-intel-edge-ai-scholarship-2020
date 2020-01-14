@@ -29,7 +29,9 @@
 * 20 Data Trends for 2020 https://storybydata.com/datacated-weekly/20-data-trends-for-2020/
 * Give Me Jeans not Shoes: How BERT Helps Us Deliver What Clients Want https://multithreaded.stitchfix.com/blog/2019/07/15/give-me-jeans/
 * Edge Computing — The New Frontier of the Web **Medium** https://link.medium.com/106uvj1pQ2
-
+* Flawed Algorithms Are Grading Millions of Students’ Essays https://www.vice.com/amp/en_us/article/pa7dj9/flawed-algorithms-are-grading-millions-of-students-essays
+* Here Are the Five Blockchain Projects to Keep an Eye on in 2020 https://beincrypto.com/here-are-five-blockchain-projects-to-keep-an-eye-on-2020/
+* CNN Architectures: LeNet, AlexNet, VGG, GoogLeNet, ResNet and more **Medium** https://link.medium.com/dWAYV5ap62
 
 ## Books/Papers
 * Concepts, Techniques, and Models of Computer Programming **Goodreads** https://www.goodreads.com/book/show/772585.Concepts_Techniques_and_Models_of_Computer_Programming
@@ -133,6 +135,8 @@
 * Computing Receptive Fields of Convolutional Neural Networks https://distill.pub/2019/computing-receptive-fields/
 * Quantitative Economics with Python https://python.quantecon.org/index_toc.html
 * SCC++: Predicting the programming language of questions and snippets of Stack Overflow https://www.sciencedirect.com/science/article/pii/S0164121219302791
+* Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data https://eng.uber.com/generative-teaching-networks/
+* OVERFITTING: A GUIDED TOUR https://www.alexpghayes.com/blog/overfitting-a-guided-tour/
 
 ## Videos
 * NEURAL NETWORKS! - CS50 Live, EP. 53 (pre-release) **2+ hours** https://www.youtube.com/watch?v=hQhPogn1dpM
@@ -165,3 +169,5 @@
     - Word Embeddings https://www.youtube.com/watch?v=5PL0TmQhItY
     - What Are Word Embeddings for Text? https://machinelearningmastery.com/what-are-word-embeddings/
     - RNN W2L01 :  Word Representation https://www.youtube.com/watch?v=hjx-zwVdfjc
+* Design Patterns in Plain English | Mosh Hamedani https://www.youtube.com/watch?v=NU_1StN5Tkk
+* Lecture 1: Overview | Stanford CS221: AI (Autumn 2019) https://www.youtube.com/watch?v=J8Eh7RqggsU

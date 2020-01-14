@@ -56,6 +56,8 @@ the following are resources aims to help students to try challenges and get job 
 * AI Conference Deadlines https://aideadlin.es/
 * Internshala is India's no.1 internship and training platform https://internshala.com/
 * Hackathon update for Indian students https://codenbuild.tech/
+* Insight Fellows Programs https://apply.insightdatascience.com/
+* AWS Innovate Online Conference – AI and Machine Learning Edition https://aws.amazon.com/events/aws-innovate/machine-learning/
 ---
 
 ### General Articles/videos
@@ -70,6 +72,9 @@ the following are resources aims to help students to try challenges and get job 
 * sentdex **Channel** https://www.youtube.com/user/sentdex
 * Ep. 25: Google's Ian Goodfellow on How an Argument in a Bar Led to Generative Adversarial Networks https://soundcloud.com/theaipodcast/what-are-generative-adversarial-networks-ian-goodfellow-explains
 * How to Learn Fullstack Development: A Roadmap in Charts **Medium** https://medium.com/@dtkatz/how-to-learn-fullstack-development-a-roadmap-in-charts-9b9e4aac400f
+* Warner Bros. Signs Deal for AI-Driven Film Management System (Exclusive) https://www.hollywoodreporter.com/news/warner-bros-signs-deal-ai-driven-film-management-system-1268036
+* Tech That Will Change Your Life in 2020 https://www.wsj.com/articles/tech-that-will-change-your-life-in-2020-11577456561
+* Find right track in AI https://d2wahc834rj2un.cloudfront.net/Workera%20Report.pdf
 ---
 
 ## PROJECTS
@@ -103,6 +108,8 @@ the following are resources aims to help students to try challenges and get job 
 * Extract LaTeX from PDFs or handwritten notes in seconds https://mathpix.com/
 * Regex101 - online regex editor and debugger https://regex101.com/
 * (Sketch 2 Code) Transform any hands-drawn design into a HTML code with AI https://sketch2code.azurewebsites.net/
+* Netron https://electronjs.org/apps/netron
+* A collection of infrastructure and tools for research in neural network interpretability. https://github.com/tensorflow/lucid
 ---
 
 * Diagram
@@ -147,3 +154,6 @@ https://coggle.it/diagram/XgW1zK6K4rR27Y2U/t/intel-openvino/924f7ad59f5c66814ace
 
 * The Industrial Internet Arises With Big Data And The Internet of Things
 ![image](/img/big_data_iot.jpg)
+
+* Building the Machine learning model
+![image](/img/ml_model.png)

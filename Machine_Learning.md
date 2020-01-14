@@ -28,6 +28,8 @@
 * Software Developers: You’re Learning Machine Learning Upside Down **Medium** https://towardsdatascience.com/software-developers-youre-learning-machine-learning-upside-down-3867dc140862
 * The Machine Learning Behind Google’s New Recorder App https://analyticsindiamag.com/machine-learning-google-recorder-pixel-mobile-ai/
 * PhD or programming? Fast paths into aligning AI as a machine learning engineer https://80000hours.org/podcast/episodes/olsson-and-ziegler-ml-engineering-and-safety/
+* Machine Learning for Cybersecurity 101 **Medium**  https://towardsdatascience.com/machine-learning-for-cybersecurity-101-7822b802790b
+* How To Do Machine Learning on Arm Cortex-M Microcontrollers https://www.allaboutcircuits.com/industry-white-papers/how-to-do-machine-learning-on-arm-cortex-m-microcontrollers/?fbclid=IwAR1pQCP_t5oMdtaTObJ2lRKs78xgsRiJkjQytTVFaMpTlynm6DcM7OkqePw
 
 ## Books/Papers
 * Papers with code https://paperswithcode.com/
@@ -95,6 +97,7 @@
 * Foundational Skills https://end-to-end-machine-learning.teachable.com/p/000-foundational-skills
 * Machine Learning Repository https://archive.ics.uci.edu/ml/index.php
 
+
 ## Videos
 * Machine Learning - CS50 Podcast, Ep. 6 https://www.youtube.com/watch?v=mEdIQbOL8dY
 * Machine Learning **Playlist** https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA
@@ -107,3 +110,4 @@
 * Large Scale Machine Learning https://www.youtube.com/watch?v=zqMnvgccibs
 * Normalizing Inputs (C2W1L09) https://www.youtube.com/watch?v=FDCfw-YqWTE&feature=youtu.be
 * Machine Learning Zero to Hero **(Google I/O'19)** https://www.youtube.com/watch?v=VwVg9jCtqaU
+* Cross-Validation In Machine Learning | ML Fundamentals | Machine Learning Tutorial | Edureka https://www.youtube.com/watch?v=QupMZFeyETM&feature=youtu.be

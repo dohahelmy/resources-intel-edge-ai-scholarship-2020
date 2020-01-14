@@ -28,6 +28,7 @@
 * Meet DiffGrad: New Deep Learning Optimizer that solves Adam’s ‘overshoot’ issue **Medium** https://medium.com/@lessw/meet-diffgrad-new-deep-learning-optimizer-that-solves-adams-overshoot-issue-ec63e28e01b2
 * A 'Brief' History of Neural Nets and Deep Learning http://www.andreykurenkov.com/writing/ai/a-brief-history-of-neural-nets-and-deep-learning/
 * 2019 In-Review and Trends for 2020 – A Technical Overview of Machine Learning and Deep Learning! https://www.analyticsvidhya.com/blog/2019/12/2020-trends-machine-learning-deep-learning/
+* Applied Deep Learning - Part 4: Convolutional Neural Networks **Medium** https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2
 
 ## Books/Papers
 * Paper notes in deep learning/machine learning and computer vision https://github.com/Hsuxu/Paper-Notes
@@ -40,6 +41,7 @@
 * Deep Learning For Dummies https://www.wiley.com/en-us/Deep+Learning+For+Dummies-p-9781119543046
 * New Deep Learning Algorithms beyond Backpropagation IBM Developers UnConference 2018, Zurich https://www.researchgate.net/publication/322617800_New_Deep_Learning_Algorithms_beyond_Backpropagation_IBM_Developers_UnConference_2018_Zurich
 * The Deep Learning Revolution and Its Implications  for Computer Architecture and Chip Design [file](books/DL_Computer_Architecture_and_Chip_Design.pdf)
+* Deep Learning with PyTorch [book](books/Deep-Learning-with-PyTorch.pdf)
 
 ## Course/tutorials
 * Tutorials, assignments, and competitions for MIT Deep Learning related courses https://github.com/lexfridman/mit-deep-learning
@@ -64,6 +66,7 @@
 * Deep Learning and Computer Vision: From Basic Implementation to Efficient Methods **Medium** https://link.medium.com/r5PxHDkDM2
 * NVIDIA DEEP LEARNING INSTITUTE https://www.nvidia.com/en-us/deep-learning-ai/education/
 * Deep Learning - Cognitive Class https://cognitiveclass.ai/learn/deep-learning
+* CS230 Deep Learning http://cs230.stanford.edu/
 
 ## Links/URLs
 * Deep Learning Glossary by Nvidia [Deep Learning Glossary by Nvidia](books/Deep_Learning_Glossary_by_Nvidia.pdf)

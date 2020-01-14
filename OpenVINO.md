@@ -63,7 +63,7 @@
 * Getting Started with Intel AI Devcloud **Medium** https://medium.com/intel-student-ambassadors/getting-started-with-intel-ai-devcloud-348a88b29eb9
 * Model Optimization Techniques https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_Model_Optimization_Techniques.html
 * OpenVINO™ Toolkit https://intel.github.io/robot_devkit_doc/pages/vino.html
-
+* Intel Open Source Technology Center https://download.01.org/opencv/2019/open_model_zoo/R4/20191230_170000_models_bin/
 
 ## Videos
 * OpenVINO™ toolkit -- English **Playlist** https://www.youtube.com/playlist?list=PLDKCjIU5YH6jMzcTV5_cxX9aPHsborbXQ

@@ -16,6 +16,9 @@
 * [Data_Science_Cheatsheet](books/Data_Science_Cheatsheet.pdf)
 
 * Becoming a Self-Taught Data Scientist **Medium** https://towardsdatascience.com/becoming-a-self-taught-data-scientist-5563f546bb7b
+* Data project checklist https://www.fast.ai/2020/01/07/data-questionnaire/
+
+* Introduction to Python for Data Science **Medium** https://medium.com/@vibusquet/introduction-to-python-for-data-science-fde60c2f1327
 
 
 ### Here's an ultimate data science starter kit:
