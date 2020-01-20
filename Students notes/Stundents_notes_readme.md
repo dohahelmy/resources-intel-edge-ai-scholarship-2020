@@ -81,7 +81,7 @@ The following one-line command will automatically download and extract the docum
 * Edge AI [file](/Edge_AI_L1_L2.xlsx)
 
 ### Shared by @Bhadresh Savani
-* Machine Learning on Edge https://github.com/bhadreshpsavani/MachineLearningOnEdge/blob/master/readme.md
+* Machine Learning on Edge https://github.com/bhadreshpsavani/IntelEdgeAINotes/blob/master/readme.md
 
 ### Shared by @Numan Saeed
 * OpenCV
